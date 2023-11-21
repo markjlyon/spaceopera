@@ -9,24 +9,47 @@ IN THE BEFORE
 The year was 12185.
 It was the Golden Age of Mankind and the greatest post-scarcity period of human history.
 There was no hunger, no disease, no galactic war.
-The galaxy never foresaw the Zendai betrayal.
+In a galaxy of peace no one could predict the Zendai betrayal.
 
 # IN THE NOW
-The year is now 12675. The USC is nothing but a myth after 500 years. The Zendai betrayal of humanity lasted over a century as they hunted down and destroyed any non-Zendai governments, cities, fleets, bases, and technologies. Ten thousand years of social and technological progress have been lost forever. The galaxy has now barely 15% of its 12185 human population due to Zendai planetary genocides, slavery, and increasingly hostile alien attacks. The once proud Zendai's unified government is gone, replaced thousands of barbaric feudal warlords.
+The year is now 12702. The USC is nothing but a myth after 517 years. The Zendai betrayal of the galaxy lasted over a century as they hunted down and destroyed any non-Zendai races, governments, cities, fleets, bases, and technologies. Ten thousand years of social and technological progress have been lost. The galaxy has now barely 15% of its 12185 human population due to Zendai planetary genocides, slavery, and increasingly hostile alien attacks. The once proud Zendai Empire's government is gone, replaced thousands of barbaric feudal warlords.
 
 Relations with all alien races are now unfriendly at best.
 
 ## THE ZENDAI
-The Zendai are a self proclaimed offshoot of humanity, defined by a specific group of genetic augmentations. Before the Zendai betrayal no one believed that they could unify beyond small groups of a few thousand for any length of time. It was thought that their great egos and desire to rule those they deemed inferior was an impassable barrier to becoming a galactic power. Their critics were both right and wrong. While the Zendai did manage to coordinate under a single leader, Deth O'Kay, to eliminate the USC, FWA, and other governments, they could not remain united after Deth O'Kay's disappearance.
+The Zendai are a self proclaimed offshoot of humanity and an entirely new race, defined by a specific group of genetic augmentations propgated by one of the most intelligent and charismatic humans to ever live, Drago Ivani. They are gifted with superior senses, bodies, and minds at the cost of a lack of empathy and the genetic loss of the ability to use psionics. Once the proud members of their own vast galactic empire, they have devolved into thousands of barbaric prides ruled by mostly bloodthirsty hedonistic warlords. 
 
-The Zendai successfully overthrew the United Star Corps and Federated Worlds Alliance in their rebellion starting in 12185. They had spent the last century secretly building hundreds of thousands of warships. The coordinated their initial surprise attacks to devastating effect. The capitals, shipyards, manufacturing systems, and supply depots were all struck first, crippling the USC and FWA ability to coordinate a response, repair or construct new ships, or resupply. High levels of technology were not the goal or even needed. They only needed enough ships with enough firepower to win their engagements. Their losses were heavy but they swarmed and destroyed every major target successfully. It was a war of attrition with light fast star ships and equipped with less expensive moderate damage weapons, but they outnumbered each encounter 1000 or more to one and it was more than enough.
+Before the Zendai betrayal no one believed that they could unify beyond small groups of a few thousand for any length of time. It was thought that their great egos and desire to rule those they deemed inferior was an impassable barrier to becoming a galactic power. Their critics were both right and wrong. While the Zendai did manage to coordinate under a single leader, Emperor Deth O'Kay, to eliminate the USC, FWA, and other governments and alien civilizations, they could not remain united after Emperor Deth O'Kay's mysterious disappearance.
 
-The galaxy became a new dark ages. The Zendai fractured into thousands of minor warlords, all of who, created a two class system of Zendai or non-Zendai. Zendai were the leaders and warriors. Everyone else was a slave.
+When the Zendai successfully overthrew the United Star Corps and Federated Worlds Alliance between 12185 to 12218, it was because they had spent the last century secretly building hundreds of thousands of warships. They coordinated their initial surprise attacks to devastating effect. The capitals, shipyards, manufacturing systems, and supply depots were all struck first, crippling the USC and FWA ability to coordinate a response, repair or construct new ships, or resupply. High levels of technology were not the goal or even needed by the Zendai. They only needed enough ships with enough firepower to win their engagements. Their losses were heavy but they swarmed and destroyed every major target successfully. It was a war of attrition with cheap light fast star ships equipped with less expensive weapons against vastly technologically superior fleets, but they outnumbered each encounter 1000 or more to one and it was more than enough to crush their enemies.
+
+The galaxy has entered a new dark ages. The Zendai are now fractured into thousands of minor warlords, all of whom use a two class system of Zendai or non-Zendai. Zendai are the leaders and warriors. Everyone else is a slave or starving on some long forgotten world depleted of its resources.
 
 ### THE ZENDAI WARLORDS
-The Zendai warlords fight constantly, unless they join forces temporarily against an alien threat. Zendai are the only humans that know limited freedom, all others are slaves to their Zendai warlords. The amount of freedom a Zendai enjoys is based on the purity of their bloodline and their record of military accomplishments.
+The Zendai warlords fight constantly, unless they join forces temporarily against an alien threat or bigger Zendai fleet. Zendai are the only humans that know limited freedom, all other humans either barely scrape an existence from their scorched worlds or they are slaves to their Zendai warlords. The amount of freedom a Zendai enjoys is based on the purity of their bloodline and their record of military accomplishments. Normal humans have no such luxury.
 
-The Zendai do no manual labor, instead relying entirely on their enslaved races for all production and maintenance in their society. There is no research. There are no advancements. They only produce enough to keep their warlords supplied with a functional fleet. Even the slave that created the Heel Nipper, a weapon used on most large Zendai fleets, was executed as a message to all other slaves. Their technology echos back to that from eight or nine millennia ago.
+The Zendai do no manual or mental labor, instead relying entirely on their enslaved races for all production and maintenance in their society. There is no technological research. There are no advancements. The slaves only produce enough to keep their warlords happy and supplied with a functional fleet. Even the slave that created the Heel Nipper, a weapon used on most large Zendai fleets, was executed as a message to all other slaves that innovation, or any improvement upon existing Zendai culture, is a weakness that warrants death. The current level of Zendai technology echos back to that from eight or nine millennia ago.
+
+#### THE DRAGO-KADZAI PRIDE - MIGHT MAKES RIGHT
+The Drago-Kadzai Pride is the most powerul pride in this quadrant of the galaxy. They rule through fear and cruelty, destroying whole continents at a mere whisper of rebellion. They raid their slave worlds in cycles giving them just enough time recover from the last raid before their people and resources are raided again. They are ruled, like most Zendai prides, by Zendai noble houses. The Drago-Kadzai care only about power and control, and are extremists when it comes to their genetic purity and lineage, and are defined as much by military success as their genetics.
+
+Leader: Drago-Kadzai Landsraad, composed of 12 families.
+
+The Drago-Kadzai have the 1st largest known fleet in the galaxy. Their fleet is primarily made up of large groups of smaller, faster ships.
+
+#### THE FENRIR PRIDE - 
+The Fenrir Pride is the second most powerful pride in this quadrant of the galaxy. They are known for their almost supernatural political and economic prowess and value pleasure and wealth over military victories. Similar to all Zendai cultures, they have a two caste social system but the quality of life as a Fenrir slave is significantly better than that of all other Zendai prides. They have a very structured noble society and are currently ruled by their Grand Duke who rules with absolute power. Some slaves who catch the eye of a Fenrir superior through their beauty or service can find themselves with almost as much freedom as a Zendai.
+
+Leader: Grand Duke Alexios Kaminos
+
+The Fenrir have the 4th largest known fleet in the galaxy. They are the only known Zendai fleet to make heavy use of fighters.
+
+#### THE SABRA PRIDE - 
+The Sabra pride is the Third most powerful pride in this quadrant of the galaxy. They are known for being extremely decadent hedonists and bloodthristy warriors. Conquests in the bedroom seem to hold as much value as conquests on the battlefield. The Sabra pride is very focused on eugenics and improving their own genetic superiority as well as breeding their slaves for high appearance and stamina. Only a tiny percentage of the most attractive slaves live somewhat comfortable lives as concubines and breeders, while those considered unattractive or unappealing live oppressed solitary lives without mates or families. They are ruled by a single matriarchal Sabra family, although they rule by council without a true single leader.    
+
+Leader: Sabra Family Council
+
+The Sabra have the 6th largest known fleet in the galaxy.
 
 ## THE CHIGRU
 The insectoid race known as the Chigru were diplomatically aligned with the USC. The elimination of the USC ended the peace with humanity and the Chigru. Over the last 400 years they have returned to their warlike ways against humanity, taking and either eating or egg laying all human captives.
