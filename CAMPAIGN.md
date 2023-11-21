@@ -62,8 +62,8 @@ Leader: Queen Light of Day Meets Dark of Night
 
 The Chigru have a small but powerful fleet of technologicallly advanced ships, for 12702. They rely heavily on point defense systems against drones and fighters, and are rumored to have developed several powerful and new technologies, not known even before 12185. 
 
-## THE KZINTI
-The feline race known as the Kzinti were never enemies of humanity until the Zendai betrayal. Now the entire race is dedicated to the elimination of the Zendai. They have been known to kill all Zendai on a ship yet spare all human slaves. Their scanning technology to identify Zendai is second to none.
+## THE KZINTI - VALOR IN ACTION, HONOR IN CONDUCT
+The feline-like race known as the Kzinti were never enemies of humanity until the Zendai betrayal. Now the entire race is dedicated to the elimination of the Zendai. They have been known to kill all Zendai on a ship yet spare all human slaves. Their scanning technology to identify Zendai is second to none.
 
 Like the Chigru, the Kzinti are working hard to restore their lost technologies and are constantly testing them against any bordering Zendai barbarians.
 
