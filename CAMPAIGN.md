@@ -39,28 +39,28 @@ Leader: Drago-Kadzai Landsraad, composed of 12 families.
 
 The Drago-Kadzai have the 1st largest known fleet in the galaxy. Their fleet is primarily made up of large groups of smaller, faster strike frigates and destroyers as they rely on surprise and numbers for victory.
 
-#### THE FENRIR PRIDE - 
+#### THE FENRIR PRIDE - THE ENDS JUSTIFY THE MEANS
 The Fenrir Pride is the second most powerful pride in this quadrant of the galaxy. They are known for their almost supernatural political and economic prowess and value pleasure and wealth over military victories. Similar to all Zendai cultures, they have a two caste social system but the quality of life as a Fenrir slave is significantly better than that of all other Zendai prides. They have a very structured noble society and are currently ruled by their Grand Duke who rules with absolute power. Some slaves who catch the eye of a Fenrir superior through their beauty or service can find themselves with almost as much freedom as a Zendai.
 
 Leader: Grand Duke Alexios Kaminos
 
 The Fenrir have the 4th largest known fleet in the galaxy. They are the only known Zendai fleet to make heavy use of fighters and fast patrol ships and most of their fleets function as small carriers and tenders.
 
-#### THE SABRA PRIDE - 
+#### THE SABRA PRIDE - ALL IS FAIR IN LOVE AND WAR
 The Sabra pride is the Third most powerful pride in this quadrant of the galaxy. They are known for being extremely decadent hedonists and bloodthristy warriors. Conquests in the bedroom seem to hold as much value as conquests on the battlefield. The Sabra pride is very focused on eugenics and improving their own genetic superiority as well as breeding their slaves for high appearance and stamina. Only a tiny percentage of the most attractive slaves live somewhat comfortable lives as concubines and breeding stock, while those considered unattractive or unappealing live oppressed solitary lives without the opportunity to find a mate. They are ruled by a single matriarchal family, the Sabra, although they rule by council without a true single leader.    
 
 Leader: Sabra Family Council
 
 The Sabra have the 6th largest known fleet in the galaxy. Their fleet is comprised almost entirely of light and heavy cruisers and they rely heavily on minelaying tactics.
 
-## THE CHIGRU - 
+## THE CHIGRU - UNITY IN DIVERSITY, STRENGTH IN NUMBERS
 The insectoid race known as the Chigru were diplomatically aligned with the USC. The elimination of the USC ended the peace with humanity and the Chigru. Over the last 400 years they have returned to their warlike ways against humanity, taking and either eating or egg laying all human captives. The Chigru are ruled by their Queen Light of Day Meets Dark of Night, although day to day administration actually falls to the administrative caste. The Chigru know no slavery or social inequality, except for the Queen and her mates. They do not keep slaves of other races but do use captives for food and egg laying.
 
-Although the Zendai destroyed their worlds and technology, much as they did for the rest of humanity, the Chigru did not sit back idly. Harboring their long racial memories, once the Zendai attacks against their worlds lessened due to Zendai infighting, they began to rebuild their technology and manufacturing. Although nowhere near their height of 12185, they are still more advanced than the Zendai. Due to their low numbers and limited resourcs, the Chigru fleet is comprised of only five types of vessels: frigates, destroyers, tugs, cruisers, and dreadnaughts. The Chigru do not have small freighters or transports like other races, instead relying solely on their armed tugs with very large cargo capacities. In some cases both the tug cargo pods are replaced with heavy weapons platforms, essentially turning these battle tugs into ships with firepower somewhere between a cruiser and a dreadnaught, but without the speed and maneuverability. The Chigru fleet is small but its ships are powerful, and they rarely travel in small numbers and never without purpose.
+Although the Zendai destroyed their worlds and technology, much as they did for the rest of humanity, the Chigru did not sit back idly. Harboring their long racial memories, once the Zendai attacks against their worlds lessened due to Zendai infighting, they began to rebuild their technology and manufacturing. Although nowhere near their height of 12185, they are still more advanced than the Zendai. Due to their low numbers and limited resourcs, the Chigru fleet is comprised of only five types of vessels: frigates, destroyers, tugs, cruisers, and dreadnaughts. The Chigru do not have small freighters or transports like other races, instead relying solely on their armed tugs with very large cargo capacities. In some cases both the tug cargo pods are replaced with heavy weapons platforms, essentially turning these battle tugs into ships with firepower somewhere between a cruiser and a dreadnaught, but without the speed and maneuverability. The Chigru fleet is small but its ships are powerful, and they rarely travel in small numbers and never without purpose. Drago-Kadzai and Sabra attacks into Chigru territory have been met with mostly failure, and Chigru attacks into Drago-Kadzai and Sabra space have also been met with mostly failure. It seems, at the moment, they are at a stalemate.
 
 Leader: Queen Light of Day Meets Dark of Night
 
-The Chigru have a small but powerful fleet of technologicallly advanced ships. They rely heavily on point defense systems and are rumored to have developed several powerful and new technologies, not known even before 12185.
+The Chigru have a small but powerful fleet of technologicallly advanced ships, for 12702. They rely heavily on point defense systems against drones and fighters, and are rumored to have developed several powerful and new technologies, not known even before 12185. 
 
 ## THE KZINTI
 The feline race known as the Kzinti were never enemies of humanity until the Zendai betrayal. Now the entire race is dedicated to the elimination of the Zendai. They have been known to kill all Zendai on a ship yet spare all human slaves. Their scanning technology to identify Zendai is second to none.
@@ -105,7 +105,7 @@ Quantum slip stream drives are the pinnacle of non-instantaneous FTL drive syste
 
 Quantum slip stream drive star ships can engage with both STL and FTL star ships.
 
-# 12675 TECHNOLOGY
+# 12702 TECHNOLOGY
 Due to the Zendai exterminating most the inhabited worlds in the galaxy, both human and alien, and their complete lack of interest in technology the galaxy has fallen into a social and technological dark ages. Almost all advanced star ship systems are unrepairable due to age or lost knowledge. The Zendai use their slaves to build and maintain their fleets using "current" technology. Although a handful of alien worlds have begun the long slow process to rebuild their lost technologies, most human worlds are feudal socialist kingdoms and have no interest or resources to do the same. The Zendai believe that outnumbering an enemy 100 to 1 is far more important that having some technological advantage over them, as the fall of the USC seems to have proved.
 
 Ships and technologies of this time period are built by slaves without the automation of nanites or programmable matter, so they are very limited in their quality and efficiency.
