@@ -67,10 +67,10 @@ The feline-like race known as the Kzinti were never enemies of humanity until th
 
 Like the Chigru, the Kzinti are working hard to restore their lost technologies and are constantly testing them against any bordering Zendai barbarians.
 
-## SILURIAN
+## SILURIAN - 
 The reptilian race known as the Silurians were never enemies of humanity until the Zendai betrayal. In the centuries that have passed they have consolidated into a handful of difficult to assault star systems, slowly building their fleets and technology. They have maintained their deadly plasma technologies and have some of the largest and toughest ships built since the Fall.
 
-## VENTRASII
+## VENTRASII - BURDENED WITH GLORIOUS PURPOSE
 The Ventrasii race was almost brought to extinction by the Zendai betrayal. Even with vastly superior ships and weapons, the sheer numbers of the Zendai were too much. The Zendai spent a great deal of effort to genocide the Ventrasii, reducing their numbers from the trillions to the millions. But like the Silurians, they have bided their time restoring their technology and fleets for when they begin to reconquer their lost worlds. Recent new technological advancements indicate a rematch against the Zendai would turn out very differently.
 
 # 12185 TECHNOLOGY
