@@ -63,9 +63,11 @@ Leader: Queen Light of Day Meets Dark of Night
 The Chigru have a small but powerful fleet of technologicallly advanced ships, for 12702. They rely heavily on point defense systems against drones and fighters, and are rumored to have developed several powerful and new technologies, not known even before 12185. 
 
 ## THE KZINTI - FOR AN HONOR GREATER THAN OURSELVES
-The feline-like race known as the Kzinti were never enemies of humanity until the Zendai betrayal. Now the entire race is dedicated to the elimination of the Zendai. They have been known to kill all Zendai on a ship yet spare all human slaves. Their scanning technology to identify Zendai is second to none.
+The feline-like race known as the Kzinti (singular Kzin) weren't initially enemies of humanity until the Zendai betrayal. Now the entire race is dedicated to the elimination of all Zendai. They have been known to kill every Zendai on a ship yet spare all the human slaves. Their scanning technology to identify Zendai is second to none.
 
-Like the Chigru, the Kzinti are working hard to restore their lost technologies and are constantly testing them against any bordering Zendai barbarians.
+Like the Chigru, the Kzinti are working hard to restore their lost technologies and are constantly testing them against any bordering Zendai barbarian warlords. Unlike the Chigru, the Kzinti exist in much larger numbers. Although they can't yet equal the fleet sizes of the Zendai prides, they are approaching numbers large enough to take on one or two major prides. The Kzinti focus entirely on energy weapon systems, meaning they need no reloads and don't run out of ammunition during multiple enemy encounters. They rediscovered expanding sphere generator technology and have put that to good use against Zendai drones and mines.
+
+The Kzinti have a monarchy and are ruled by King Enchiimuu. Although they allow other races, such as humans, to live peacefully within their territories, few have escaped their Zendai masters to benefit from their generosity.
 
 ## SILURIAN - 
 The reptilian race known as the Silurians were never enemies of humanity until the Zendai betrayal. In the centuries that have passed they have consolidated into a handful of difficult to assault star systems, slowly building their fleets and technology. They have maintained their deadly plasma technologies and have some of the largest and toughest ships built since the Fall.
