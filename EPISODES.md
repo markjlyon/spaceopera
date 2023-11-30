@@ -17,54 +17,54 @@ The Celestia makes a long journey to a remote and long forgotten family holding 
 ### EPISODE 01x05 - Una Salus Victus
 The Ajax makes the perilous journey to the border of Chigru space with the hope they will honor their ancient treaty, but enemies attempt to ruin the fragile negotiations.
 
-### Episode 01x06 - Myth Becomes Legend
+### Episode 01x06 - Myth Becomes Legend, Legend Becomes History
 The Hector rendezvous with a contact at the Pegasus Redoubt about a rumor involving what could be a USC Battlecruiser, while the Ajax explores the Djinn Star Cluster.
 
 ### Episode 01x07 - I'll Take Those To Go
 The Ajax and Hector receive a world level distress call when returning from reconnaissance at the Drago-Kadzai and Sabra border, and the Atalanta begins its diplomatic tour,  while the Battlecruiser Celestia explores the Djinn Star Cluster to test her refits and repairs.
 
-### Episode 01x08 - Hunter in the Black
-The Atalanta travels the route obtained from the Pegasus Redoubt, and discovers something is destroying Zendai ships in a region known as the Black. The Ajax is out of service and undergoes several needed upgrades.
-
-### Episode 01x09 - Legend Becomes History
-The Atalanta, having discovered the heart breaking truth in the Black, limps to the border of the cluster and calls for help, hoping the USC will be the first to respond.
-
-### EPISODE 01x10 - One Man's Illness Is Another Man's Gold
+### Episode 01x08 - One Man's Illness
 The Atalanta and Prophitess embark on a good will mission, but with the clock ticking and prices rising can they make it in time? The Hector is out of service and undergoes several needed upgrades.
 
-### EPISODE 01x11 - No Good Deed
+### Episode 01x09 - No Good Deed
 The USC is requested for an unusual diplomatic mission that could change the balance of power in the quadrant, but nothing is as it appears. The Prophitess is out of service and undergoes several needed upgrades.
 
+### EPISODE 01x10 - ?
+This episode has no description yet.
+
+### EPISODE 01x11 - ?
+This episode has no description yet.
+
 ### EPISODE 01x12 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x13 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x14 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x15 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x16 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x17 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x18 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x19 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x20 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x21 - ?
-This episode has no description.
+This episode has no description yet.
 
 ### EPISODE 01x22 - ?
-This episode has no description.
+This episode has no description yet.
 
