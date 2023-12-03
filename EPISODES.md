@@ -29,7 +29,7 @@ The Atalanta and Prophitess embark on a good will mission, but with the clock ti
 ### Episode 01x09 - No Good Deed
 The USC is requested for an unusual diplomatic mission that could change the balance of power in the quadrant, but nothing is as it appears. The Prophitess is out of service and undergoes several needed upgrades.
 
-### EPISODE 01x10 - Shedding The Old Skin
+### EPISODE 01x10 - Shedding An Old Skin
 A small free world makes an unusual request. The Ajax is out of service and undergoes several needed upgrades.
 
 ### EPISODE 01x11 - ?
