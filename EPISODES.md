@@ -20,7 +20,7 @@ The Ajax makes the perilous journey to the border of Chigru space with the hope 
 ### Episode 01x06 - Myth Becomes Legend, Legend Becomes History
 The Hector rendezvous with a contact at the Pegasus Redoubt about a rumor involving what could be a USC Battlecruiser, while the Ajax explores the Djinn Star Cluster.
 
-### Episode 01x07 - I'll Take Those To Go
+### Episode 01x07 - I'll Take That To Go
 The Ajax and Hector receive a world level distress call when returning from reconnaissance at the Drago-Kadzai and Sabra border, the Atalanta begins its diplomatic tour,  while the Battlecruiser Celestia explores the Djinn Star Cluster to test her refits and repairs.
 
 ### Episode 01x08 - One Man's Illness
