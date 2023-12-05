@@ -172,8 +172,8 @@ Quantum wave torpedoes are a recent development by some of the alien races. It o
 ### WARP TARGETED LASERS
 Warp targeted lasers are a precursor to the phaser. They are easy to manufacture but have a short range and low damage. They are capable of targeting and hitting FTL vessels like a phaser.
 
-### FTL SYSTEMS
-JUMP DRIVE - 1 TO 6 PARSECS IN ~168 HOURS
+## FTL SYSTEMS
+### JUMP DRIVE - 1 TO 6 PARSECS IN ~168 HOURS
 The original FTL drive technology. All travel using a jump drive, regardless of distance, takes 168 hours +/- 10%. It requires about 30 minutes to properly calculate the jump destination. It takes about 30 minutes for a jump drive to cool down enough to be used again. A jump requires enough ship energy to move a ship speed 8. Pre-existing jump calculations between two well known points do exist, reducing the calculations to 5 minutes.
 
 Jump drive ships can't engage with STL or FTL star ships.
