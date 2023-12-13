@@ -30,22 +30,22 @@ The Atalanta and Prophitess embark on a good will mission, but with the clock ti
 The USC is requested for an unusual diplomatic mission that could change the balance of power in the quadrant, but nothing is as it appears. The Prophitess is out of service and undergoes several needed upgrades.
 
 ### EPISODE 01x10 - Shedding An Old Skin
-A small free world makes an unusual request. The Ajax is out of service and undergoes several needed upgrades.
+A small free world makes an surprising request. The Ajax is out of service and undergoes several needed upgrades.
 
-### EPISODE 01x11 - ?
-This episode has no description yet.
+### EPISODE 01x11 - Without Honor
+Refugees begin to gather at the Djinn Star Cluster border fleeing the Drago-Kadzai, the new satellite modules are ready for assembly, and one of the capital ship AIs makes an unusual request.
 
-### EPISODE 01x12 - ?
-This episode has no description yet.
+### EPISODE 01x12 - The Things at the Doorstep
+More refugees flee to the border hoping for sanctuary, the Dragp-Kadzai are determined to send the USC a clear message, and an enemy displays a talent for adaptation.
 
-### EPISODE 01x13 - ?
-This episode has no description yet.
+### EPISODE 01x13 - One Fish, Two Fish, Red Fish, Clue Fish
+A delicate diplomatic meeting is held with a world seeking USC membership, one of the original USC crew comes under suspicion of murder, and Drago-Kadzai tactics show a remarkable unexpected improvement. 
 
-### EPISODE 01x14 - ?
-This episode has no description yet.
+### EPISODE 01x14 - That Which Is Not Dead
+The Drago-Kadzai unleash a fearsome weapon, the Captain welcomes the new permanent embassy's ambassador, and the USC mourns the loss of one of their own.
 
-### EPISODE 01x15 - ?
-This episode has no description yet.
+### EPISODE 01x15 - The Three Reasons
+The Drago-Kadzai reveal a weakness, the official signing of new member worlds has an unexpected outcome, and tough decisions must be made regarding limited military resources.
 
 ### EPISODE 01x16 - ?
 This episode has no description yet.
