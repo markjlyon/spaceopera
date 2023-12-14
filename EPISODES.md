@@ -36,7 +36,7 @@ A small free world makes an surprising request. The Ajax is out of service and u
 Refugees begin to gather at the Djinn Star Cluster border fleeing the Drago-Kadzai, the new satellite modules are ready for assembly, and one of the capital ship AIs makes an unusual request.
 
 ### EPISODE 01x12 - The Things at the Doorstep
-More refugees flee to the border hoping for sanctuary, the Dragp-Kadzai are determined to send the USC a clear message, and an enemy displays a talent for adaptation.
+More refugees flee to the border hoping for sanctuary, the Drago-Kadzai are determined to send the USC a clear message, and an enemy displays a talent for adaptation.
 
 ### EPISODE 01x13 - One Fish, Two Fish, Red Fish, Clue Fish
 A delicate diplomatic meeting is held with a world seeking USC membership, one of the original USC crew comes under suspicion of murder, and Drago-Kadzai tactics show a remarkable unexpected improvement. 
