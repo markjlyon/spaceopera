@@ -1,0 +1,12 @@
+{
+    "name": "",
+    "size": 0-6,
+    "class": KK,FF,DD,CL,CA,CC,BC,DN,BB,
+    "movecost": 0.1-3.0,
+    "org": "",
+    [
+        {
+            Boxes go here
+        }
+    ]
+}
