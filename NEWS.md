@@ -1,1 +1,1 @@
-## NEWS
+## GALACTIC NEWS
