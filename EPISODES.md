@@ -30,7 +30,7 @@ The Atalanta and Prophitess embark on a good will mission, but with the clock ti
 The USC is requested for an unusual diplomatic mission that could change the balance of power in the quadrant, but nothing is as it appears. The Prophitess is out of service and undergoes several needed upgrades.
 
 ### EPISODE 01x10 - Shedding An Old Skin
-A small free world makes an surprising request. The Ajax is out of service and undergoes several needed upgrades.
+A small free world makes a surprising request. The Ajax is out of service and undergoes several needed upgrades.
 
 ### EPISODE 01x11 - Without Honor
 Refugees begin to gather at the Djinn Star Cluster border fleeing the Drago-Kadzai, the new satellite modules are ready for assembly, and one of the capital ship AIs makes an unusual request.
