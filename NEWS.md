@@ -1,5 +1,13 @@
 # GALACTIC NEWS
 
+## DRAGO-KADZAI PREDICT TOTAL VICTORY IN SKVW&@HC*LS#NNCY$SJT%
+The Grand Marshal Gide...
+...and of course we all wish the Grand Duke Alexios and Grand Duchess Illithara the best with her announced pregnancy of triplets...
+...because their is no chance of victory for the outnumbered and technilogically inferior pirates.  
+
+## DRAGO-KADZAI HAS LOCATED THE USC PIRATE BASE
+The Drago-Kadzai Pride has hunted down and pushed the USC pirates to their last remaining base. Grand Marshal Gideon Annunaki announced from the Landsraad Reichstag Headquarters that fleets are organizing an assault to destroy the pirates and their base.  
+
 ## SABRA-FENRIR BETRAYS THE ZENDAI PEOPLE
 The Sabra-Fenrir Pride have betrayed the legacy of Drago Ivani and the Zendai Empire and surrendered their destiny to the rule of mere humans when they surrendered their people's rights to the will of the USC. This is a dark day for all Zendai and the Sabra-Fenrir should be nothing less then eradicated to the last man, woman, and child.
 
