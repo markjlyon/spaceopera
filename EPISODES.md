@@ -35,23 +35,23 @@ A small free world makes a surprising request. The Ajax is out of service and un
 ### EPISODE 01x11 - Without Honor
 Refugees begin to gather at the Djinn Star Cluster border fleeing the Drago-Kadzai, the new satellite modules are ready for assembly, and one of the capital ship AIs makes an unusual request.
 
-### EPISODE 01x12 - The Things at the Doorstep
+### EPISODE 01x12 - The Things At The Doorstep
 More refugees flee to the border hoping for sanctuary, the Drago-Kadzai are determined to send the USC a clear message, and an enemy displays a talent for adaptation.
 
-### EPISODE 01x13 - One Fish, Two Fish, Red Fish, Clue Fish
-A delicate diplomatic meeting is held with a world seeking USC membership, one of the original USC crew comes under suspicion of murder, and Drago-Kadzai tactics show a remarkable unexpected improvement. 
+### EPISODE 01x13 - Across Time And Space 
+Drago-Kadzai tactics show a remarkably unexpected improvement, tough decisions must be made regarding limited military resources, and the Consul of the Conclave arrives and raises more questions than he answers. 
 
-### EPISODE 01x14 - That Which Is Not Dead
-The Drago-Kadzai unleash a fearsome weapon, the Captain welcomes the new permanent embassy's ambassador, and the USC mourns the loss of one of their own.
+### EPISODE 01x14 - The Three Reasons
+The official signing of new member worlds has an unexpected outcome, the USC homeworld gets its first permanent settlement as the Battlestar Bismark takes up residence around Meridian, and a weakness of the Drago-Kadzai may have been discovered. 
 
-### EPISODE 01x15 - The Three Reasons
-The Drago-Kadzai reveal a weakness, the official signing of new member worlds has an unexpected outcome, and tough decisions must be made regarding limited military resources.
+### EPISODE 01x15 - That Which Is Not Dead
+The Drago-Kadzai unleash a fearsome weapon, the Captain welcomes the new permanent embassy's ambassador, and steps are taken to exploit the Drago-Kadzai's newly discovered weakness.
 
-### EPISODE 01x16 - ?
-This episode has no description yet.
+### EPISODE 01x16 - Double Edged Sword
+The race is on to locate the Drago-Kadzai weapon, USC scientists discover a potential offense against the Heel Nipper, and new USC world members being to migrate to the Djinn Star Cluster. 
 
-### EPISODE 01x17 - ?
-This episode has no description yet.
+### EPISODE 01x17 - A Mass Is Amassed
+The USC plans its first assault on a Drago-Kadzai homeworld, USC scientists test a new weapon, the ambassador's flotilla arrives with some unsettling consequences.
 
 ### EPISODE 01x18 - ?
 This episode has no description yet.
