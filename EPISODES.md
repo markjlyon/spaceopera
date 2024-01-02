@@ -48,7 +48,7 @@ The official signing of new member worlds has an unexpected outcome, the USC hom
 The Drago-Kadzai unleash a fearsome weapon, the Captain welcomes the new permanent embassy's ambassador, and steps are taken to exploit the Drago-Kadzai's newly discovered weakness.
 
 ### EPISODE 01x16 - Double Edged Sword
-The race is on to locate the Drago-Kadzai weapon, USC scientists discover a potential offense against the Heel Nipper, and new USC world members being to migrate to the Djinn Star Cluster. 
+The race is on to locate the Drago-Kadzai weapon, USC scientists discover a potential offense against the Heel Nipper, and new USC world members begin to migrate to the Djinn Star Cluster. 
 
 ### EPISODE 01x17 - A Mass Is Amassed
 The USC plans its first assault on a Drago-Kadzai homeworld, USC scientists test a new weapon, the ambassador's flotilla arrives with some unsettling consequences.
