@@ -63,8 +63,9 @@ This episode has no description yet.
 This episode has no description yet.
 
 ### EPISODE 01x21 - ?
-This episode has no description yet.
+
+Emesyn publically announces a wedding date hoping it will cause the Drago-Kadzai to attack on that date, the Drago-Kadzai fleet of 260k ships has begun to move
 
 ### EPISODE 01x22 - ?
-This episode has no description yet.
+ 
 
