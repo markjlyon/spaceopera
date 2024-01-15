@@ -53,18 +53,27 @@ The race is on to locate the Drago-Kadzai weapon, USC scientists discover a pote
 ### EPISODE 01x17 - A Mass Is Amassed
 The USC plans its first assault on a Drago-Kadzai homeworld, USC scientists test a new weapon, the ambassador's flotilla arrives with some unsettling consequences.
 
-### EPISODE 01x18 - ?
-This episode has no description yet.
+### EPISODE 01x18 - It's 
+
+Emesyn gets a request to meet a stranger that seems to know too much about her.
+
+Emesyn announces a ball for her company and possibly find a husband.
+Jim's relationship with the Carpatians pays off with a game changing gift.
+Taranis is hired by Countess Rosette help Emily improve her Clairvoyance, but takes on some side jobs Countess Rosette offers.
+Emesyn rescues the clairvoyant Emily from the Countess Rosette.
+
 
 ### EPISODE 01x19 - ?
-This episode has no description yet.
+
 
 ### EPISODE 01x20 - ?
-This episode has no description yet.
+Lukus and Dave's 19 days.
+Emesyn's 19 days.
 
 ### EPISODE 01x21 - ?
+Emesyn publically announces a wedding date hoping it will cause the Drago-Kadzai to attack on that date.
+The Drago-Kadzai fleet of 260k ships has begun to organize for the upcoming assault at the USC Battle Station.
 
-Emesyn publically announces a wedding date hoping it will cause the Drago-Kadzai to attack on that date, the Drago-Kadzai fleet of 260k ships has begun to move
 
 ### EPISODE 01x22 - ?
  
