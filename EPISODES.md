@@ -53,17 +53,23 @@ The race is on to locate the Drago-Kadzai weapon, USC scientists discover a pote
 ### EPISODE 01x17 - A Mass Is Amassed
 The USC plans its first assault on a Drago-Kadzai homeworld, USC scientists test a new weapon, the ambassador's flotilla arrives with some unsettling consequences.
 
-### EPISODE 01x18 - It's 
+### EPISODE 01x18 - It's A Massive Deal
 
 Emesyn gets a request to meet a stranger that seems to know too much about her.
-
-Emesyn announces a ball for her company and possibly find a husband.
+Emesyn asks Countess Imogene for help finding a Zendai husband.
+Emesyn announces a ball for her company.
 Jim's relationship with the Carpatians pays off with a game changing gift.
 Taranis is hired by Countess Rosette help Emily improve her Clairvoyance, but takes on some side jobs Countess Rosette offers.
 Emesyn rescues the clairvoyant Emily from the Countess Rosette.
 
 
-### EPISODE 01x19 - ?
+### EPISODE 01x19 - The Ball Drops
+
+Emesyn holds her grand Ball.
+Emesyn meets Baron Primus.
+Emesyn meets Baroness Alexandra.
+Emesyn meets Baron Horace.
+Baron Horace warns Emesyn about Baron Primus.
 
 
 ### EPISODE 01x20 - ?
