@@ -119,4 +119,4 @@ The pure hyper intelligence system tore through the advanced sentient AI system,
 
 Moments after the Primrose AI fell, Massive Dynamic displayed a comparison between the USC AIs and the Primrose AI and it's exploitable code to Emesyn. With no ego or self awareness it simply returned to it's previous tasks as if nothing happened. 
 
-Massive Dynamic systems returned across all worlds in a matter or hours.
+Massive Dynamic systems returned across all worlds in a matter of hours.
