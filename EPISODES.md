@@ -48,39 +48,47 @@ The official signing of new member worlds has an unexpected outcome, the USC hom
 The Drago-Kadzai unleash a fearsome weapon, the Captain welcomes the new permanent embassy's ambassador, and steps are taken to exploit the Drago-Kadzai's newly discovered weakness.
 
 ### EPISODE 01x16 - Double Edged Sword
+
 The race is on to locate the Drago-Kadzai weapon, USC scientists discover a potential offense against the Heel Nipper, and new USC world members begin to migrate to the Djinn Star Cluster. 
 
-### EPISODE 01x17 - A Mass Is Amassed
+### EPISODE 01x17 - The Dark Approaches
+
 The USC plans its first assault on a Drago-Kadzai homeworld, USC scientists test a new weapon, the ambassador's flotilla arrives with some unsettling consequences.
 
 ### EPISODE 01x18 - It's A Massive Deal
 
-Emesyn gets a request to meet a stranger that seems to know too much about her.
-Emesyn asks Countess Imogene for help finding a Zendai husband.
-Emesyn announces a ball for her company.
+Emesyn starts a massive recruitment campaign for the USC and Grimaldi before getting an offer she can't refuse from a stranger that seems to know too much about her.
 Jim's relationship with the Carpatians pays off with a game changing gift.
 Taranis is hired by Countess Rosette help Emily improve her Clairvoyance, but takes on some side jobs Countess Rosette offers.
 Emesyn rescues the clairvoyant Emily from the Countess Rosette.
 
-
 ### EPISODE 01x19 - The Ball Drops
 
-Emesyn holds her grand Ball.
-Emesyn meets Baron Primus.
-Emesyn meets Baroness Alexandra.
-Emesyn meets Baron Horace.
-Baron Horace warns Emesyn about Baron Primus.
+Emesyn holds her grand Ball, unknowningly meeting her destiny.
+An assassin strikes one of the guests and imposters are discovered.
+Massive Dynamic flexes its considerable power and performs a miracle.
+The USC sends ambassador's to the Chirgu in a call for aid.
 
+### EPISODE 01x20 - T-Minus 21 Part I
 
-### EPISODE 01x20 - ?
-Lukus and Dave's 19 days.
-Emesyn's 19 days.
+Taranis takes his new stealth ship, piloted by Jim, deep into Drago-Kadzai space to find any spec op caches only to discover the staggering truth about the Souldra and Ventrasii.
 
-### EPISODE 01x21 - ?
-Emesyn publically announces a wedding date hoping it will cause the Drago-Kadzai to attack on that date.
+### EPISODE 01x21 - T-MInus 21 Part II
+
+Emesyn becomes engaged and is swept off her feet by an unexpected new love, announcing her wedding will be located at the front line of the war on a specific date, hoping to force the Drago-Kadzai into action.
+The Oracle appears in very poor health to answer as many questions as she can before her time is up, leading to a startling revelation about the Drago-Kadzai.
 The Drago-Kadzai fleet of 260k ships has begun to organize for the upcoming assault at the USC Battle Station.
 
+### EPISODE 01x22 - Occum's Razor
 
-### EPISODE 01x22 - ?
- 
+Massive Dynamic reveals that the Primrose AI is aiding the Drago-Kadzai, forcing the USC to expend their remaining programmable matter and create only four AI servers in the short time they have, hoping that combined with their two deckers they can stand against the AI and prevent it from helping the Drago-Kadzai. 
+Emesyn, now understanding the true plans of the genius Grand Marshal, convinces the USC and Sabra-Fenrir forces to make a radically unexpected change in strategy, leading the USC fleet and Sabra-Fenrir fleet to rely on the other to defend their respective home worlds.
+Taranis' intelligence on the Souldra give them the answer to their defeat, and the USC uses it in a desperate attempt to request aid from the Ventrasii, who once aided the galaxy against the Souldra at a time when their numbers were too low to affect the war.
+Jim, encephalon now fully installed and tested, divides his processing to create parallel command frames for use against the Drago-Kadzai and for the Sabra-Fenrir in the upcoming battle at the Sabra-Fenrir throne world.
+At the start of battle the USC fleet pretends to flee the quantum eraser equipped Drago-Kadzai fleet by entering the Djinn Star Cluster, only to re-emerge outside Drago-Kadzai sensor range and rush to the Sabra-Fenrir throne world.
+The four USC AI's and their deckers begin the assault on the Primrose AI, using the analysis of Massive Dynamic as a starting point to track it down, only to have it fully reveal itself as it attempts to help Drago-Kadzai win the war by conquering ships and disabling entire planets.
+The USC fleet lies in wait in the planetary magnetic pole of the throne world, and once the drago-Kadzai fleet appears they go to work with Jim conquering hull type after hull type, venting each ship's crew and firing their death bolts, then switching control back to the Sabra-Fenrir fleet to protect them from the control attempts of the Primrose AI.
+At the USC Battle Station the battle begins badly for the USc base, Sabra-Fenrir, and Chigru forces, until the suggestion by Taranis to request the help of the Ventrasii to defend the one group with a weapon to defeat the Souldra pays off, and the Ventrasii repeat history by stepping up and revealing the might of their new fleet and technologies, utterly dominating the battle front and destroying the powerful pre-fall ships, while Emesyn has Massive Dynamic disable the fleeing Drago-Kadzai and greatly improving the USC's relationship with the Chigru.
+With the Primrose AI unable to affect the battle, Jim takes control of the entire Drago-Kadzai fleet, wiping out all but a single fleeing ship and capturing the Grand Marshal. His apparent effortless surprise defeat and extreme callousness in executing the crews during the battle earn him the Zendai name "Ying Ko".
+Massive Dynamic played a significant role leading up the battle with its existing infrastructure and detailed intelligence, but intially struggled against the Primrose AI even with the USC AIs and deckers attacking it. But 
 
