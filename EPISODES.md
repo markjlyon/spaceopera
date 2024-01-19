@@ -123,9 +123,9 @@ Massive Dynamic systems returned across all worlds in a matter of hours.
 
 ## SEASON TWO
 
-### EPISODE 02X01 - THE COBRA STRIKES
+### EPISODE 02x01 - THE COBRA STRIKES
 
-The wedding and victory celebrations now over, campaigning for the Congresses and Triumvirates are moving into full swing. All the families with unbroken lineage are gathering the the required genetic information to view for the throne and ascension of a new Empress.
+The wedding and victory celebrations now over, campaigning for the Congresses and Triumvirates are moving into full swing. All the families with unbroken lineage are gathering the the required genetic information to vie for the throne and the ascension of a new Empress.
 
 The USC begins to draw up plans to annex any Drago-Kadzai member worlds willing to come under USC authority as provisional USC members.
 
