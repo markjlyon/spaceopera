@@ -131,4 +131,4 @@ The USC begins to draw up plans to annex any Drago-Kadzai member worlds willing 
 
 News from the far side of the quadrant reveals a handful of Drago-Kadzai worlds have stopped communicating with other nearby worlds, no longer asking for news or assistance.
 
-A mysterious new ambassador has been at the station for weeks, 
+A mysterious Ventrasii ambassador has been at the station for weeks, but few have learned anything about her other than her basic claims for needing to be there.
