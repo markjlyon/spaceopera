@@ -120,3 +120,15 @@ The pure hyper intelligence system tore through the advanced sentient AI system,
 Moments after the Primrose AI fell, Massive Dynamic displayed a comparison between the USC AIs and the Primrose AI and it's exploitable code to Emesyn. With no ego or self awareness it simply returned to it's previous tasks as if nothing happened. 
 
 Massive Dynamic systems returned across all worlds in a matter of hours.
+
+## SEASON TWO
+
+### EPISODE 02X01 - THE COBRA STRIKES
+
+The wedding and victory celebrations now over, campaigning for the Congresses and Triumvirates are moving into full swing. All the families with unbroken lineage are gathering the the required genetic information to view for the throne and ascension of a new Empress.
+
+The USC begins to draw up plans to annex any Drago-Kadzai member worlds willing to come under USC authority as provisional USC members.
+
+News from the far side of the quadrant reveals a handful of Drago-Kadzai worlds have stopped communicating with other nearby worlds, no longer asking for news or assistance.
+
+A mysterious new ambassador has been at the station for weeks, 
