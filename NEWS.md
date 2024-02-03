@@ -6,7 +6,7 @@ This is quite mysterious friends. Sightings are begining to pile up about an anc
 ## THE DISAPPEARING DOZEN
 First it was rumors that a dozen or more FDK worlds had fallen silent! At first we thought maybe local struggles for power, but all these close worlds all at the same time!? Next we got spooky recordings of "something" sending messages from the silent DK worlds. Now we have trid! Now we know! Behold the real culprit! Da Lizzad People! 
 
-![image](https://github.com/markjlyon/spaceopera/assets/3686881/ae88556e-259a-486b-95b5-b1e2d76d6a4d)
+![image](https://github.com/markjlyon/spaceopera/assets/3686881/49e9e96a-8ac7-42f8-9e4f-2c4d9fedb720)
 
 Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
