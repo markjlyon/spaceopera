@@ -1,17 +1,17 @@
 # PLANET NINE NEWS
 
+## GHOST SHIP SPOTTED IN FORMER DRAGO-KADZAI SPACE
+This is quite mysterious friends. Sightings are begining to pile up about an ancient ghost ship spotted around several FDK systems including the Drago-Kadzai throne world! Are there some angry spirits enraged by the extremely embarrassing massive loss against the USC? Maybe one of the 500 year old ships escaped the battle? If it isn't a ghost ship, why is it flying the ancient colors of the old Imperium? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
 ## THE DISAPPEARING DOZEN
-First it was rumors that a dozen or more DK, né Drago-Kadzai, worlds had fallen silent! At first we thought maybe local struggles for power, but all these close worlds all at the same time!? Next we got spooky recordings of "something" sending messages from the silent DK worlds. Now we have trid! Now we know! Behold the real culprit! Da Lizzad People! 
+First it was rumors that a dozen or more FDK worlds had fallen silent! At first we thought maybe local struggles for power, but all these close worlds all at the same time!? Next we got spooky recordings of "something" sending messages from the silent DK worlds. Now we have trid! Now we know! Behold the real culprit! Da Lizzad People! 
 
 ![image](https://github.com/markjlyon/spaceopera/assets/3686881/ae88556e-259a-486b-95b5-b1e2d76d6a4d)
 
 Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## OPPORTUNITY BONANZA
-Hello friends! Have your own ship? Willing to loot and plunder the vast untouched DK worlds? Maybe want to bring civilization to the navtives? Food or medicine maybe? Everyone needs self-sealing stem bolts! However you spin it, this is every small entrepreneur's opportunity of a LIFETIME! Become a pirate! Expand your small business! Stop a plague! Solve a world's hunger! Have a garage sale! Over 1700 worlds have openings right now! Create a better future for yourself today! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
-
-## MYSTERIOUS GHOST SHIP SPOTTED IN FORMER DRAGO-KADZAI SPACE
-This is exciting news friends! Sightings are begining to pile up about an ancient ghost ship spotted around several former Drago-Kadzai systems including the Drago-Kadzai throne world! Are there some angry spirits enraged by the massive loss against the USC? Maybe one of the 500 year old ships escaped the battle? If it isn't a ghost ship, why is it flying the ancient colors of the Imperium? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+Hello friends! Have your own ship? Willing to loot and plunder the vast untouched FDK worlds? Maybe want to bring civilization to the navtives? Food or medicine maybe? Everyone needs self-sealing stem bolts! However you spin it, this is every small entrepreneur's opportunity of a LIFETIME! Become a pirate! Expand your small business! Stop a plague! Solve a world's hunger! Have a garage sale! Over 1700 worlds have openings right now! Create a better future for yourself today! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## ENCINO MAN PRODUCTIONS LICENSES THE RECENT MARRIAGE AND WEDDING EVENTS FOR A NEW MINISERIES CALLED "BATTLE BRIDE - FATE OF WORLDS"
 With a tagline like "She conquered her man's heart, now she's going to rip out everyone elses!" how could this not make billions!? Trillions!? Daphne Delaplane will take on the coveted role of Baroness Emesyn Sabra while her previous co-star from "Time Waits For One Man", which Quasar called this year's Sexiest Real Man Alive, Axel Fine, join forces to ignite your loins as they ignite the Drago-Kadzai fleet! Be still my throbbing part! Stahp! I can't possibly get more erect! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
