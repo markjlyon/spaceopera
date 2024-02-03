@@ -1,8 +1,7 @@
 # PLANET NINE NEWS
 
 ## DA LIZZAD PEOPLE!
-First it was rumors that a dozen or more DK, né Drago-Kadzai, worlds had fallen silent! At first we thought maybe local struggles for power, but all these close worlds all at the same time!? Next we got spooky recordings of "something" sending messages from the silent DK worlds. Now we have trid! Now we know! Behold the real culprit! Lizzad People! ![image](https://github.com/markjlyon/spaceopera/assets/3686881/6a38c168-c9ee-4f46-8b88-76ace5a02542)
-
+First it was rumors that a dozen or more DK, né Drago-Kadzai, worlds had fallen silent! At first we thought maybe local struggles for power, but all these close worlds all at the same time!? Next we got spooky recordings of "something" sending messages from the silent DK worlds. Now we have trid! Now we know! Behold the real culprit! Lizzad People! ![image](https://github.com/markjlyon/spaceopera/assets/3686881/ae88556e-259a-486b-95b5-b1e2d76d6a4d)
 
 ## MYSTERIOUS GHOST SHIP SPOTTED IN FORMER DRAGO-KADZAI SPACE
 This is exciting news friends! Sightings are begining to pile up about an ancient ghost ship spotted around several former Drago-Kadzai systems including the Drago-Kadzai throne world! Are there some angry spirits enraged by the massive loss against the USC? Maybe one of the 500 year old ships escaped the battle? If it isn't a ghost ship, why is it flying the ancient colors of the Imperium? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
