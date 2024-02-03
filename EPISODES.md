@@ -135,8 +135,8 @@ A mysterious and vivacious Ventrasii ambassador has been at the station for week
 
 ### EPISODE 02x02 - GIRL, SERPENT, THORN
 
-The Keptra Empire appears silent after the disasterous first encounter, but it did reveal a new type of Zendai civilization and cultural mindset, one that puts itself above all others. A culture or deception and misdirection possessing psionics means silence might not equal stillness.
+The Keptra Empire appears silent after the disasterous first encounter, but it did reveal a new type of Zendai civilization and cultural mindset, one that puts itself above all others. A culture of deception and misdirection possessing psionics means silence might not equal stillness.
 
 The discovery of a Silurian fleet on the far side of the former Drago-Kadzai space gave the terrible revelation of the fate of the worlds that fell silent and its only a matter of time before a dozen becomes a hundred.
 
-Reports of a mysterious, large, unknown Zendai battlecruiser begin to spread outside Drago-Kadzai space, stirring rumors ranging from being a surviving warship to a revenge powered ghost ship, creating both fear and hope among the fallen worlds.
+Reports of a mysterious, large, unknown Zendai battlecruiser begin to spread outside Drago-Kadzai space, stirring rumors ranging from being a surviving warship to a revenge powered ghost ship to the return of Drago Ivani, creating both fear and hope among the fallen worlds.
