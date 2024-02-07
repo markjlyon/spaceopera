@@ -29,7 +29,7 @@ It's a sad and joyous day fellow deviants! The immovable object known as the mos
 Is this the first phase of the Drago-Kadzai attack against the USC Battle Station my fellow anarchists? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## GALACTIC NEWS SERVICE ANNOUNCEMENT
-The Galactic News service is experiencing technical difficulties. Please be patient as we work hard to restore services. As a values customer, your patience during this time is very important to us. We are working around the SK@&#!OWH@&€π£^ ENOUGH OF THAT FECAL DROPPING CIRCLE JERK! Hello wonderful strange things! Welcome to Planet Nine News! Your best, and only, home for all your galactic dirt! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+The Galactic News service is experiencing technical difficulties. Please be patient as we work hard to restore services. As a valued customer, your patience during this time is very important to us. We are working around the SK@&#!OWH@&€π£^ ENOUGH OF THAT FECAL DROPPING CIRCLE JERK! Hello wonderful strange things! Welcome to Planet Nine News! Your best, and only, home for all your galactic dirt! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## DRAGO-KADZAI PREDICT TOTAL VICTORY IN SKVW&@HC*LS#NNCY$SJT%
 The Grand Marshal Gide...and of course we all wish the Grand Duke Alexios and Grand Duchess Illithara the best with her announced pregnancy of triplets...because there is no chance of victory for the outnumbered and technologically inferior pirates.  
