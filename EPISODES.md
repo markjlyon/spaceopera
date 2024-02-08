@@ -4,7 +4,7 @@
 
 ### EPISODE 02x03 - LEFT UNCHECKED
 
-The Silurians, left unchecked, have now virtually exterminated over twenty worlds and it seems they have begun a full scale invasion of the former Drago-Kadzai worlds.
+The Silurians have now virtually exterminated over twenty worlds and it seems they have begun a full scale invasion of the former Drago-Kadzai worlds.
 
 Rumors swirl about a new pirate clan raiding and taking slaves in the former Drago-Kadzai systems.
 
