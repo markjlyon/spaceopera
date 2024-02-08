@@ -1,5 +1,14 @@
 # PLANET NINE NEWS
 
+## BATTLE BRIDE RELEASE DATE ANNOUNCED
+Everyone is scalping tickets to the most anticipated simsense trideo adventure to date! With the premiere only weeks away, the 1500 seat venue has already sold out! Only the two main stars, the director, and the Baron and Baroness themselves are guaranteed to be in attendence! Original ticket prices are now selling for ober %500000 above retail for a premiere of this type! Only yours truly (don't ask) and the very very wealthy will be the first to experience Fate of Worlds! Get your simsense moisturizing tissues ready peeps! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
+## HISTORY REPEAT, ADJACENT
+Hello friends and has it been a crazy few weeks! That rumored Zendai ghost ship was actually, in fact, a ghost ship! Former phantoms from the past, specifically the Zendai Empire, have travelled into the present over two thousand years! Unlike the USS Celestia with its ring around the black disc trip, the HMS Sequoia was trapped massless at near superluminal speeds for a double dose of millenia! All while fleeing to report on the arrival of the SOULDRA! Kinhel! Even though it looks like the Zendai Empire and USC have worked everything out, how well do we really know these original Zendai? And what do they think of today's Zendai? Will they try to restore the Empire? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
+## TRIPLE THREAT
+They're here! The Grand Duchess gave birth to three tiny inheritors to the throne! The birth was attended by everyone who is anyone in the quadrant! Even power couple dos was in attendence! Yes folks, the Battle Bride couple made a personal appearance! And what would a birth be without another battle! Rumor has it the Baroness cut out early to answer a distress call! Silurians? Drago-Kadzai rebels? Who knows! Who cares! Let the Battle Bride sort it out! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
 ## GHOST SHIP SPOTTED IN FORMER DRAGO-KADZAI SPACE
 This is quite mysterious friends. Sightings are begining to pile up about an ancient ghost ship spotted around several FDK systems including the Drago-Kadzai throne world! Are there some angry spirits enraged by the extremely embarrassing massive loss against the USC? Maybe one of the 500 year old ships escaped the battle? If it isn't a ghost ship, why is it flying the ancient colors of the old Imperium? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
