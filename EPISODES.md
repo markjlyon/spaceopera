@@ -2,6 +2,14 @@
 
 ## SEASON TWO
 
+### EPISODE 02x03 - LEFT UNCHECKED
+
+The Silurians, left unchecked, have now virtually exterminated over twenty worlds and it seems they have begun a full scale invasion of the former Drago-Kadzai worlds.
+
+Rumors swirl about a new pirate clan raiding and taking slaves in the former Drago-Kadzai systems.
+
+A prison revolt on Meridian reveals a new political faction germinating on the USC home world. 
+
 ### EPISODE 02x02 - GIRL, SERPENT, THORN
 
 The Keptra Empire appears silent after the disasterous first encounter, but it did reveal a new type of Zendai civilization and cultural mindset, one that puts itself above all others. A culture of deception and misdirection possessing psionics means silence might not equal stillness.
