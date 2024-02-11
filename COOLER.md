@@ -1,7 +1,7 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
 ## YING-KO
-Rumor has it Ying-Ko was stopped moments before he murdered Baron Primus by the Baroness Emesyn. The Imperial Zendai lower ranking crew members seem to approve of his attemptedurder, but understand why he had to be stopped.
+Rumor has it Ying-Ko was stopped moments before he could murder Baron Primus by the Baroness Emesyn. The Imperial Zendai lower ranking crew members seem to approve of his attemptedurder, but understand why he had to be stopped.
 
 ## COMMANDER ASHWOOD
 Rumor has it Cmdr Ashwood had her ice cold heart melted by Cmdr Tannhauser on the night of the party. They were seen slow dancing cheek to cheek, sitting close together at a table, and leaning in close to whisper and laugh softly to one another. She was seen being a lady; demure in speech and manner, exuding tenderness and frailty, revealing a soft feminine side no one has ever seen before.
