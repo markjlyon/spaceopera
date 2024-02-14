@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## ZOE MARCHANT
+Rumor has it that Cmdr Marchant and Captain Cade were supposed to get married once she received her new posting as captain of her own vessel, but they have postponed the wedding since their arrival due to her still being his XO.
+
 ## 117 MILLION
 Rumor has it that most of the 117 million refugees from the deadly star cluster have lost their ability to reproduce, with those who still can facing a high risk of birth defects, due to the long term effects of the radiation. People outside the 177 million seem to be avoiding getting into any kind of serious relationships with the refugees. 
 
