@@ -1,11 +1,16 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## 117 MILLION
+Rumor has it that most of the 117 million refugees from the deadly star cluster have lost their ability to reproduce, with those who still can facing a high risk of birth defects, due to the long term effects of the radiation. People outside the 177 million seem to be avoiding getting into any kind of serious relationships with the refugees. 
+
+## PEYTON HUNTER
+Rumor has it that Cmdr Peyton Hunter had a long conversation with Baroness Imogene after the party behind closed doors, but no one knows the topic or who initiated the conversation.
+
 ## YING-KO
 Rumor has it Ying-Ko was stopped moments before he could murder Baron Primus by the Baroness Emesyn. The Imperial Zendai lower ranking crew members seem to approve of his attemptedurder, but understand why he had to be stopped.
 
 ## COMMANDER ASHWOOD
 Rumor has it Cmdr Ashwood had her ice cold heart melted by Cmdr Tannhauser on the night of the party. They were seen slow dancing cheek to cheek, sitting close together at a table, and leaning in close to whisper and laugh softly to one another. She was seen being a lady; demure in speech and manner, exuding tenderness and frailty, revealing a soft feminine side no one has ever seen before.
-
 
 ## ALIEN VISITORS
 Rumor has it the alien visitor guests of the alien Shara discovered the joys of dancing and love making. Kiari seems to have embraced dancing with a lead, being completely submissive, allowing her every action to be controlled by her partner. Tarna seems to have equally embraced lovemaking, being virginal and submissive, allowing her every action to be controlled by her lover. Tarna has received a large number of offers to experience new lovers.
