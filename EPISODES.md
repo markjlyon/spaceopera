@@ -2,13 +2,21 @@
 
 ## SEASON TWO
 
-### EPISODE 02x03 - LEFT UNCHECKED
+### EPISODE 02x04 - LEFT UNCHECKED
 
-The Silurians have now virtually exterminated over twenty worlds and it seems they have begun a full scale invasion of the former Drago-Kadzai worlds.
+The Silurians have now virtually exterminated almost thirty worlds and it seems they have begun a full scale invasion of the former Drago-Kadzai worlds.USC intelligence believes the invasion consists of the bulk of the Silurian fleet.
 
 Rumors swirl about a new pirate clan raiding and taking slaves in the former Drago-Kadzai systems.
 
-A prison revolt on Meridian reveals a new political faction germinating on the USC home world. 
+A prison revolt on Meridian reveals a new political faction germinating on the USC home worlds. 
+
+### EPISODE 02X03 - ONE TOO MANY
+
+The Grimaldi host a celebration party for the Imperial Zendai at Baroness Emesyn's home world where an altercation ends with someone going to prison, someone gets confined to quarters, someone learns what sex is, and someone teaches what sex is, while someone returns from an extended absence.
+
+The Silurians expand their campaign into fallen Drago-Kadzai space, obliterating several worlds and starting construction on ship yards. Losses exceed 50 billion.
+
+Voting is now complete in the five legislative bodies and people begin to ramp up their Triumvirate campaigns for the near future elections.
 
 ### EPISODE 02x02 - GIRL, SERPENT, THORN
 
