@@ -1,6 +1,6 @@
 # PLANET NINE NEWS
 
-## COUNTESS ROSETTE SABRA IS HUMAN AND STILL THE SEXIEST MOST PERFECT ZENDAI
+## COUNTESS ROSETTE SABRA IS HUMAN AND STILL THE SEXIEST MOST PERFECT ZENDAI WOMAN
 Did we all wake up in alternate timeline this morning?! Or has it just become so fashionable to be a human noble that people are now just choosing to identify as human?! Well it turns out the Sabra family has now come forward with the truth that Countess Rosette has been a human all this time! The perfect Sabra woman has always been human! Polling is all over the place on this one folks! Some people hate being lied to for decades and others love the fact that a normal human as helped guide the Sabra to a more accepting and equality based society! Imaging the number of suitors she is about to get now that humans can be part of mix! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## SILURIAN INVADERS CONTINUE EXPANSION
