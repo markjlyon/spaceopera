@@ -1,4 +1,5 @@
-		<h2 style="margin:10px 0 10px 0;font-family:'sysfontc';font-size:20pt;font-style:normal">CAMPAIGN INFORMATION</h2>
+## CAMPAIGN INFORMATION
+  <h2 style="margin:10px 0 10px 0;font-family:'sysfontc';font-size:20pt;font-style:normal">CAMPAIGN INFORMATION</h2>
 		<ul>
 			<li><a href="campaign/USC-CharacterSheet.pdf" style="margin:10px 0 10px 0;font-family:'sysfontc';font-size:18pt;font-style:normal">CHARACTER SHEET</a> <img src="images/new.gif"></li>
 			<li><a href="campaign/rules.htm" style="margin:10px 0 10px 0;font-family:'sysfontc';font-size:18pt;font-style:normal">RULES</a> <img src="images/new.gif"></li>
