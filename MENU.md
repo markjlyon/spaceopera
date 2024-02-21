@@ -1,9 +1,9 @@
 # CAMPAIGN INFORMATION
 
-- ## [CHARACTER SHEET](campaign/USC-CharacterSheet.pdf)
-- ## [RULES](campaign/rules.htm)
-- ## [CAMPAIGN BACKGROUND](campaign/campaignBackground.htm)
-- ## [CHARACTERS](campaign/characters.htm)
-- ## [USC STARSHIPS](campaign/uscships.htm)
-- ## [OTHER STARSHIPS](campaign/ships.htm)
-- ## [EPISODES](campaign/episodes.htm)
+- ## [CHARACTER SHEET](http://factiness.com/campaign/USC-CharacterSheet.pdf)
+- ## [RULES](http://factiness.com/campaign/rules.htm)
+- ## [CAMPAIGN BACKGROUND](http://factiness.com/campaign/campaignBackground.htm)
+- ## [CHARACTERS](http://factiness.com/campaign/characters.htm)
+- ## [USC STARSHIPS](http://factiness.com/campaign/uscships.htm)
+- ## [OTHER STARSHIPS](http://factiness.com/campaign/ships.htm)
+- ## [EPISODES](http://factiness.com/campaign/episodes.htm)
