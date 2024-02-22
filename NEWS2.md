@@ -10,7 +10,11 @@ The Deep Space Signal Detection Array detects no active subspace or unexpected a
 The Deep Space Signal Detection Array detects no active subspace or unexpected artificial electronic signals.
 
 ## 12703.02.01
-The Deep Space Signal Detection Array detects no active subspace or unexpected artificial electronic signals.
+The Deep Space Signal Detection Array detected a general distress call on all subspace channels in old Imperial Zendai.
+The USC rushed into action with the entire fleet in a matter of minutes, but only found an oblitered Imperial Zendai Battlecruiser at the source of the transmission.
+There were no survivors.
+No data could be recovered as the ship's AI destroyed itself and all data including backups.
+It remains a mystery where the ship came from or how it came to be located so deeply in Invader occupied space territory. 
 
 ## 12703.01.01
 The Deep Space Signal Detection Array detects no active subspace or unexpected artificial electronic signals.
