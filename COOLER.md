@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## IMPERIAL MAJESTY
+Rumor has it that the USC already knows who the candidate is for Empress! She must be a human, so all Zendai are out. Because of the genetics involved she is probably a pre-fall human from the USS Celestia or a tiny cluster USC member? Bets are starting to get placed everywhere about it. Hopefully this pool doesn't get ruined like the @&#$€£§∆√%.
+
 ## LIEUTENANT RYLAN
 Rumor has it that Lt Rylan hasn't been spending his time alone afterall, but has in fact been seeing someone on the down low after making sure he had flowers and Champaign with him during his "alone time"!
 
