@@ -1,5 +1,12 @@
 # PLANET NINE NEWS
 
+## GIANT FRIGGING COMBAT ROBOTS
+Giant. Frigging. Combat. Robots. I can't possibly get more erect! Not only is Meridian opening itself up for the VARLAR racing league, they are adding monster mecha combat and some kind of mecha sports-ball! What a time to be alive! Can anyone join in? Can I pilot while looping select simsense segments from Battle Bride?  
+Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
+## BLOWOUT BIRTHDAY PARTY OF THE CENTURY
+Wow, wow, wow! What a party! Free food! Free drinks! Free music! Free sports ball! Free brothels! Even I got lucky! In spite of the huge turnout there was very little violence and no attacks! No attacks at a Zendai party? What kind of alternate reality is this?! The musical acts were amazing and the last singer voice was just... I'm not crying you're crying! And the majestic couple announced they are having another set of triplets! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
 ## OFFICIAL CANDIDATES FOR TRIUMVERATE SEATS WILL BE ANNOUNCING THEIR CANDIDACIES SHORTLY
 Polls have been updated with the newest highly secure USC technology! Candidates will be required to register, now that all the official I's have been dotted and T's crossed, and voting will begin in a few days! Get ready for all the candidate announcement parties! Now that the new subspace relays have been installed around the quadrant, voting results will be almost instantaneous! The galaxy hasn't seen such high speed trustworthy elections in, I don't know, 500 years? Keep listening as I bring everything in the black out into the light! Stay strange my friends! 
 
@@ -11,6 +18,10 @@ Did we all wake up in alternate timeline this morning?! Or has it just become so
 
 ## SILURIAN INVADERS CONTINUE EXPANSION
 Grim news is coming out that the FDK worlds near the FDK and lizzad people. Scout ships have confirmed the number of conquered worlds now sits at 27 and total deaths is estimated to be between 61 to 63 BILLION! I don't know what you think, but doesn't a civilized conquerer have a responsibility to the non-combat civilians of the lands they conquer? Think of the children! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
+## BATTLE BRIDE BREAKS ALL RECORDS
+Having experienced the Baroness, I mean the  premiere, myself with a box of tissues and a bottle of lotion I can definitively state this release will dwarf the lauded and respected Neil the Heavy Worlder Barbarian series of simtrids! Where the Neil series is pure fantasy, Battle Bride let's us live out our fantasies with the Baroness, I mean with the Sabra-Fenrir war against the Drago-Kadzai! That kind of bedroom action, I mean battle bridge action means Neil's next outting is going to have to pump her up, I mean pump it up a few levels! 
+Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## VARLAR RACING LEAGUE ANNOUNCED
 Wow folks! Feel your blood beginning to race? Want it to? Volk Repulsor Works has announced the creation of the Volk Association for Repulsor Lift Auto Racing. They will create one of the galaxies largest sets of land tracks, including stock repulsor lift vehicle centers, custom vehicle modification shops, and race team sponsorships! Other vehicle companies are expected to dive in, providing their own facilities and centers for their own brands of performance repulsar lift racers! The best part is number of jobs on Meridian III & IV and Grimaldi III is projected to exceed 1 million! Who do I talk to to become the official channel of VARLAR! I am accepting sponsorship applications! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
