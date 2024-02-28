@@ -2,6 +2,22 @@
 
 ## SEASON TWO
 
+### EPISODE 02x06 - WHAT GOES UP
+
+A diplomatic outreach to the Sabra-Fenrir does not go as planned, but at least not like the first time.
+
+The USC sends ships on multiple diplomatic missions: one to Orca Pride, one to Ganymede Pride, and another to the Kzinti.
+
+Elections start among the hundreds of candidates for the Triumvirates. The two favored candidates take the lead as expected but a third dark horse candidate surprises everyone.
+
+### EPISODE 02x05 - BETTER LATE THAN NEVER
+
+The USS Celestia discovers some kind of anomoly on a trip to the Sabra-Fenrir throne world, raising fears of new Souldra activity.
+
+With the Silurian threat delayed if not ended, Captain Cade makes a push for focusing on the Keptra Empire instead of only the formed Drago-Kadzai worlds.
+
+The Duke and Duchess hold their one year anniversary party on the Sabra-Fenrir throne world.
+
 ### EPISODE 02x04 - LEFT UNCHECKED
 
 The Silurians have now virtually exterminated almost thirty worlds and it seems they have begun a full scale invasion of the former Drago-Kadzai worlds.USC intelligence believes the invasion consists of the bulk of the Silurian fleet.
