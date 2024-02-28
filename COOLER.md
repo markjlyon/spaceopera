@@ -1,5 +1,14 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## LIEUTENANT RYLAN
+Rumor has it that Lt Rylan hasn't been spending his time alone afterall, but has in fact been seeing someone on the down low after making sure he had flowers and Champaign with him during his "alone time"!
+
+## COMMANDER ASHWOOD
+Rumor has it that Cmdr Ashwood is now engaged to Commander Tannhauser of the Sequoia. What beautiful babies they are going to make!
+
+## SHARA
+Rumor has it that Shara suddenly got all grown up from her naive little girl form and was brave enough to just go visit her family to tell them off about something.
+
 ## AMBASSADOR BARONESS ROCHELLE
 Rumor has it that the Sabra-Fenrir have chosen Baroness Rochelle to be their official Ambassador. She is currently setting up quarters on the battle station in the diplomatic wing with her personnel and has made it a point to meet with USC command, Dominique, all the other ambassadors, and the crew of the Sequoia. She spent most of her time with Dominique and the crew of the Sequoia.
 
