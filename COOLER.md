@@ -1,7 +1,10 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## PRIMUS SABRA
+Rumor has it that former Baron Primus Sabra is being kept in a deep dark hole somewhere. No one has heard from or seen him in months or even knows if he is alive. There are also rumors his closest followers and confidants have either also been arrested or they went into hiding.
+
 ## IMPERIAL MAJESTY
-Rumor has it that the USC already knows who the candidate is for Empress! She must be a human, so all Zendai are out. Because of the genetics involved she is probably a pre-fall human from the USS Celestia or a tiny cluster USC member? Bets are starting to get placed everywhere about it. Hopefully this pool doesn't get ruined like the @&#$€£§∆√%.
+Rumor has it that the USC already knows who the candidate is for Empress! She must be a human, so all Zendai are out. Because of the genetics involved she is probably a pre-fall human from the USS Celestia or a tiny cluster USC member? Bets are starting to get placed everywhere about who she might be. Hopefully this pool doesn't get ruined like the @&#$€£§∆√%.
 
 ## LIEUTENANT RYLAN
 Rumor has it that Lt Rylan hasn't been spending his time alone afterall, but has in fact been seeing someone on the down low after making sure he had flowers and Champaign with him during his "alone time"!
