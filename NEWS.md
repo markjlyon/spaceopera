@@ -4,13 +4,13 @@
 Giant. Frigging. Combat. Robots. I can't possibly get more erect! Not only is Meridian opening itself up for the VARLAR racing league, they are adding monster mecha combat and some kind of mecha sports-ball! What a time to be alive! Can anyone join in? Can I pilot while looping select simsense segments from Battle Bride?  
 Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
-## BLOWOUT BIRTHDAY PARTY OF THE CENTURY
+## BLOWOUT ANNIVERSARY PARTY OF THE CENTURY
 Wow, wow, wow! What a party! Free food! Free drinks! Free music! Free sports ball! Free brothels! Even I got lucky! In spite of the huge turnout there was very little violence and no attacks! No attacks at a Zendai party? What kind of alternate reality is this?! The musical acts were amazing and the last singer voice was just... I'm not crying you're crying! And the majestic couple announced they are having another set of triplets! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## OFFICIAL CANDIDATES FOR TRIUMVERATE SEATS WILL BE ANNOUNCING THEIR CANDIDACIES SHORTLY
 Polls have been updated with the newest highly secure USC technology! Candidates will be required to register, now that all the official I's have been dotted and T's crossed, and voting will begin in a few days! Get ready for all the candidate announcement parties! Now that the new subspace relays have been installed around the quadrant, voting results will be almost instantaneous! The galaxy hasn't seen such high speed trustworthy elections in, I don't know, 500 years? Keep listening as I bring everything in the black out into the light! Stay strange my friends! 
 
-## ITS OFFICIAL - PARTY AT THE SABR-FENRIR THRONE WORLD!
+## ITS OFFICIAL - PARTY AT THE SABRA-FENRIR THRONE WORLD!
 Finally something good happens to the quadrant! The Grand Duke and Grand Duchess are celebrating their one year anniversary! Wait, you think that wasn't good enough? What if I told you to expect a special announcement from the Grand Duke and Grand Duchess? Got your attention now? Yes? Well, you know what? I am going to spice it up and bit and let you known my super secret pinky promise contact inside the USC told me that Grimaldi Labels will be providing entertainment with several of their newest and most popular artists performing live at the event! Still not enough you demanding fans? What if I told you that my super secret pinky promise contact also told me that the most recent Ruby Heart winner on Astrolog-Idol and first standing ovation recipient in over three years ANGEL would be performing for the Grand Duke and Grand Duchess? I thought that get some part of you elevated! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## COUNTESS ROSETTE SABRA IS HUMAN AND STILL THE SEXIEST MOST PERFECT ZENDAI WOMAN
