@@ -13,6 +13,8 @@ I have solved my two problems with my Attribute system. In two games we will be 
 
 (6) You may recover Fatigue levels in the following ways. If you take a long rest (8 hours of inactivity outside combat with no Checks being made) your will recover all Fatigue levels for all Attributes (restore to original values). You may only perform a long rest once every 24 hours. If you take a short rest (30 minutes of inactivity outside combat and with no Checks being made) you will recover one Fatigue level for one Attribute (restore a fatigued Attribute by 2 points). You may take as many shorts rests as time allows. You may not take a long or short 
 
+(7) A result of 20 on a die roll is always considered a failure for that die. Other dice and auto-successes for a Check roll are still used normally. This means that a heavy worlder with a STR of 30 and Security of 4 would roll 5 dice with two auto-successes on a melee Check. Any dice with a result of 20 would fail, but all other dice and auto-successes would count towards the total number of successes normally.
+
 # PLANET NINE NEWS
 
 ## GIANT FRIGGING COMBAT ROBOTS
