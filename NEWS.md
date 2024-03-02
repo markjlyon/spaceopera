@@ -1,20 +1,3 @@
-# GAME MASTER UPDATE
-I have solved my two problems with my Attribute system. In two games we will be switching to the new rules. We will not switch to usage dice for Attributes.
-
-(1) Attributes will be reduced by 4 points for all PCs and NPCs. PCs will have the option to re-do their Attributes. Backgrounds and Perks are not affected.
-
-(2) Attributes above a 20 will grant auto successes. Each 5 points above 20bwill grant 1 autosuccess. 25 is 1, 30 is 2, etc. These auto successes are kept independently of dice kept from rolling.
-
-(3) If you roll a Check for something and you have no ranks in a related Branch/Division/Training, you can keep up to 2 successes (such as 1 for Attribute and 1 for Experienced) plus any autosuccesses.
-
-(4) Randomly rolled SOC and PSI will be kept as is, and all non Zendai, Augment, Heavy Worlder, Water Worlder, or Poison Worlder modified humans will roll 3d6 for PSI even if they have no Psionic ability.
-
-(5) Before you roll you may declare you are going to Push your roll. You may not Push any Attribute that is at or below a 4. You may not Push any Attribute if the Push would reduce that Attribute below a 4. You decide how many levels of Push you are going to use, up to maximum of 3, limited by not reducing it below 4. Each level you Push causes you to gain 1 autosuccess, independent of your normal Check roll. After the roll is made reduce the Attribute used for the roll be 2 points for every level of the Push. Each 2 points of Attribute reduction is called a Fatigue level.
-
-(6) You may recover Fatigue levels in the following ways. If you take a long rest (8 hours of inactivity outside combat with no Checks being made) your will recover all Fatigue levels for all Attributes (restore to original values). You may only perform a long rest once every 24 hours. If you take a short rest (30 minutes of inactivity outside combat and with no Checks being made) you will recover one Fatigue level for one Attribute (restore a fatigued Attribute by 2 points). You may take as many shorts rests as time allows. You may not take a long or short 
-
-(7) A result of 20 on a die roll is always considered a failure for that die. Other dice and auto-successes for a Check roll are still used normally. This means that a heavy worlder with a STR of 30 and Security of 4 would roll 5 dice with two auto-successes on a melee Check. Any dice with a result of 20 would fail, but all other dice and auto-successes would count towards the total number of successes normally.
-
 # PLANET NINE NEWS
 
 ## GIANT FRIGGING COMBAT ROBOTS
