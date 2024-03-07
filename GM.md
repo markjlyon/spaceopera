@@ -41,4 +41,4 @@ Talents that affect the same Attribute or Branch can be used together, so if you
 ### TALENT LEVELS
 Talents levels can go as high as you keep paying for them to go.
 Once a Talent has both a Roll 4 and Keep 4, you may convert those Talent levels into an autosuccess for 4 Advances.
-You could have the DEX Talent with Roll 6 and Keep 4 and choose the use 4 Advances to convert it to a DEX Talent with Auto 1 and Roll 2. 
+You could have the DEX Talent with Roll 6 and Keep 4 and choose to use 4 Advances to convert it to a DEX Talent with Auto 1 and Roll 2 (Roll 6 - 4 and Keep 4 - 4). 
