@@ -1,13 +1,23 @@
 # GM NOTES
 
 ## ADVANCES AND IMPROVEMENTS
-Every game Episode the players gain an Advance.
+
+### ADVANCES
+Every game Episode gives the players an Advance, including the midseason and season finale Episodes.
 These can be spent to improve Contacts, Languages, and Talents.
-Talent level can require multiple Advances to improve, so keep a record of how many Advances are being put aside for Talent levels.
+Talent levels can require multiple Advances to improve, so keep a record of how many Advances are being put aside for Talent levels.
+
 Apply the Advance to a Contact die type improvement (invidivual = 1, group = 2, organization = 3).
+
 Apply the Advance to a Spoken Language die type.
+
 Apply the Advance to a Written Language die type.
+
 Apply the Advance to a Talent (see below).
+
+### IMPROVEMENTS
+Improvements occur twice a season, once at the midway point and once in the season finale.
+An Improvement does two things
 
 ## CHARACTER RESET UPCOMING
 In another week we will be doing the character rebuild based on the new rules.
