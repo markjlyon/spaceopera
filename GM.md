@@ -5,7 +5,7 @@
 ### REPUTATION
 Each character will choose their Reputation which will gain or lose die types based on character actions.
 
-Principled (good, law abiding, just, merciful, honest) [Rick O'Connell, Yoda]
+!Principled (good, law abiding, just, merciful, honest) [Rick O'Connell, Yoda]
 
 Scrupulous (good, works beyond the law for the law, mostly just, mostly merciful, mostly honest) [James Bond, Malcolm Reynolds]
 
