@@ -1,5 +1,8 @@
 # GM NOTES
 
+## CONTACT DICE
+Contact dice are adding **d16** and **d20**.
+
 ## ADVANCES AND IMPROVEMENTS
 
 ### REPUTATION
