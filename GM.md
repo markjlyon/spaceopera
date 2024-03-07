@@ -9,9 +9,9 @@ Talent levels can require multiple Advances to improve, so keep a record of how 
 
 Apply the Advance to a Contact die type improvement (invidivual = 1, group = 2, organization = 3).
 
-Apply the Advance to a Spoken Language die type.
+Apply the Advance to a Spoken Language die type. Language dice only fail, never reduce.
 
-Apply the Advance to a Written Language die type.
+Apply the Advance to a Written Language die type. Language dice only fail, never reduce.
 
 Apply the Advance to a Talent (see below).
 
