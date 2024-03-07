@@ -5,19 +5,19 @@
 ### REPUTATION
 Each character will choose their Reputation which will gain or lose die types based on character actions.
 
-!Principled (good, law abiding, just, merciful, honest) [Rick O'Connell, Yoda]
+**Principled** (good, law abiding, just, merciful, honest) [Rick O'Connell, Yoda]
 
-Scrupulous (good, works beyond the law for the law, mostly just, mostly merciful, mostly honest) [James Bond, Malcolm Reynolds]
+**Scrupulous** (good, works beyond the law for the law, mostly just, mostly merciful, mostly honest) [James Bond, Malcolm Reynolds]
 
-Unprincipled (selfish, greedy, self-gratifying, prizes personal freedom, hates themselves for being loyal and helping others) [Han Solo, Starlord]
+**Unprincipled** (selfish, greedy, self-gratifying, prizes personal freedom, hates themselves for being loyal and helping others) [Han Solo, Starlord]
 
-Anarchist (selfish, lawbreaking, greedy, vainglorious, changes loyalty frequently) [Juggernaut, Cassian Andor]
+**Anarchist** (selfish, lawbreaking, greedy, vainglorious, changes loyalty frequently) [Juggernaut, Cassian Andor]
 
-Miscreant (evil, only self-serving, greedy, power-hungry, vainglorious) [Jafar, Col. Hans Landa]
+**Miscreant** (evil, only self-serving, greedy, power-hungry, vainglorious) [Jafar, Col. Hans Landa]
 
-Aberrant (evil, unwavering personal code, power-hungry, demands absolutely loyalty, always keeps his word of honor) [The Operative, Darth Vader]
+**Aberrant** (evil, unwavering personal code, power-hungry, demands absolutely loyalty, always keeps his word of honor) [The Operative, Darth Vader]
 
-Diabolic (evil, megalomaniacal, violent, insane, unhinged) [Joker, Madeline "Ma-Ma" Madrigal]
+**Diabolic** (evil, megalomaniacal, violent, insane, unhinged) [Joker, Madeline "Ma-Ma" Madrigal]
 
 ### ADVANCES
 Every game Episode gives the players an Advance, including the midseason and season finale Episodes.
