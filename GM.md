@@ -3,9 +3,7 @@
 ## CONTACT DICE
 Contact dice are adding ***d16*** and ***d20***.
 
-## ADVANCES AND IMPROVEMENTS
-
-### REPUTATION
+## REPUTATION
 Each character will choose their Reputation which will gain or lose die types based on character actions.
 
 ***Principled*** (good, law abiding, just, merciful, honest) [Rick O'Connell, Yoda]
@@ -21,6 +19,8 @@ Each character will choose their Reputation which will gain or lose die types ba
 ***Aberrant*** (evil, unwavering personal code, power-hungry, demands absolutely loyalty, always keeps his word of honor) [The Operative, Darth Vader]
 
 ***Diabolic*** (evil, megalomaniacal, violent, insane, unhinged) [Joker, Madeline "Ma-Ma" Madrigal]
+
+## ADVANCES AND IMPROVEMENTS
 
 ### ADVANCES
 Every game Episode gives the players an Advance, including the midseason and season finale Episodes.
