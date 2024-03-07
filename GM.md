@@ -19,9 +19,9 @@ Apply the Advance to a Talent (see below).
 Improvements occur twice a season, once after the midseason Episode and once after the season finale Episode.
 An Improvement does two things:
 
-Gain a point in an Attribute.
+The character gains 1 point in an Attribute.
 
-Gain a rank in a Branch.
+The character gains a rank in a Branch.
 
 ## CHARACTER RESET UPCOMING
 In another week we will be doing the character rebuild based on the new rules.
