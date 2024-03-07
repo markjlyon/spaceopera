@@ -15,6 +15,8 @@ The Attributes, other than SOC and PSI will be lowered across the board.
 
 ## PERKS REWORK
 The Perks are going to be worked into things that don't affect successes or failures, as those will be covered under Talents.
+They will represent things like Eidtic Memory, Gorgeous, and Quick.
+If you want something that affects a Check, use a Talent instead.
 
 ## TALENTS
 Talents are a build your own bonus system.
@@ -22,6 +24,14 @@ You decide what Checks benefit, Attribute or Branch, and how they are affected.
 
 Talents have two components, Roll and Keep, and although they are purchased separately they are considered part of a single Talent.
 You could have the DEX Talent, with separate Roll and Keep levels, but it is still just the DEX Talent.
+
+You may have as many Talents as you pay for.
+
+Talents are written as <Attribute/Branch> Talent Auto X Roll Y Keep Z where X is the number of autosuccesses, Y the number of extra dice you roll, and Z the number of extra dice you get to keep.
+
+Examples:
+DEX Talent Auto 0 Roll 2 Keep 2.
+Diplomacy Talent Auto 1 Roll 3 Keep 4.
 
 ### TALENT LEVEL COST
 Each Talent level costs 1 Advance per level.
@@ -41,4 +51,6 @@ Talents that affect the same Attribute or Branch can be used together, so if you
 ### TALENT LEVELS
 Talents levels can go as high as you keep paying for them to go.
 Once a Talent has both a Roll 4 and Keep 4, you may convert those Talent levels into an autosuccess for 4 Advances.
+
 You could have the DEX Talent with Roll 6 and Keep 4 and choose to use 4 Advances to convert it to a DEX Talent with Auto 1 and Roll 2 (Roll 6 - 4 and Keep 4 - 4). 
+
