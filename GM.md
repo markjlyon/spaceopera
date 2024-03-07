@@ -20,6 +20,7 @@ Improvements occur twice a season, once after the midseason Episode and once aft
 An Improvement does two things:
 
 Gain a point in an Attribute.
+
 Gain a rank in a Branch.
 
 ## CHARACTER RESET UPCOMING
