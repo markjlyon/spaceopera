@@ -2,9 +2,17 @@
 
 ## SEASON TWO
 
+### EPISODE 02x07 - YOUR HONOR, LADIES AND GENTLEMEN OF THE JURY
+
+Lt Cmdr Tzimisce declares Countess Rosette is ready and fit to stand trial.
+
+The election over, deliberations begin over who will become the new Empress and ascend to the throne of the USC.
+
+An expedition to the primative world Daear (day-arr) in the Djinn Star Cluster begins in earnest to find psionics.
+
 ### EPISODE 02x06 - WHAT GOES UP
 
-A diplomatic outreach to the Sabra-Fenrir does not go as planned, but at least not like the first time.
+A diplomatic outreach to the Keptra Empire does not go as planned, but at least not like the first time.
 
 The USC sends ships on multiple diplomatic missions: one to Orca Pride, one to Ganymede Pride, and another to the Kzinti.
 
