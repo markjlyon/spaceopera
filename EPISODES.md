@@ -2,7 +2,7 @@
 
 ## SEASON TWO
 
-### EPISODE 02x07 - YOUR HONOR, LADIES AND GENTLEMEN OF THE JURY
+### EPISODE 02x07 - YOUR EXCELLENCY, LADIES AND LORDS OF THE JURY
 
 Lt Cmdr Tzimisce declares Countess Rosette is ready and fit to stand trial.
 
