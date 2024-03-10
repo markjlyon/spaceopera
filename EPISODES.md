@@ -2,6 +2,10 @@
 
 ## SEASON TWO
 
+### EPISODE 02x08 - 
+
+Deliberations begin in earnest as the contenders for Empress are scrutinized heavily. 
+
 ### EPISODE 02x07 - YOUR EXCELLENCY, LADIES AND LORDS OF THE JURY
 
 Lt Cmdr Tzimisce declares Countess Rosette is ready and fit to stand trial.
