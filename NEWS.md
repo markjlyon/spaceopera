@@ -1,5 +1,8 @@
 # PLANET NINE NEWS
 
+## COUNTESS ROSETTE SABRA COMMITS TREASON
+
+
 ## GIANT FRIGGING COMBAT ROBOTS
 Giant. Frigging. Combat. Robots. I can't possibly get more erect! Not only is Meridian opening itself up for the VARLAR racing league, they are adding monster mecha combat and some kind of mecha sports-ball! What a time to be alive! Can anyone join in? Can I pilot while looping select simsense segments from Battle Bride?  
 Keep listening as I bring everything in the black out into the light! Stay strange my friends!
