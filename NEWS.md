@@ -1,7 +1,7 @@
 # PLANET NINE NEWS
 
-## COUNTESS ROSETTE SABRA COMMITS TREASON
-
+## COUNTESS ROSETTE COMMITS TREASON
+They have arrested the Countess Rosette Sabra for crimes against the Sabra-Fenrir throne and people!!! It appears she was behind many seemingly unrelated events throughout the USC designed to cause havoc and political damage, and even death! How did she do this my peeps? Get your tin foil hats ready folks... Not only is she not a Zendai, it turns out she is also a powerful sensitive!!! Attacking political alliances, striking women barren, attempting to destroy relationships of her rivals! She even tried to kill the beloved Oracle! Although the trial is locked down tight, my sources tell me she has confessed to these crimes and more! Get ready for a hangin of noble people! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## GIANT FRIGGING COMBAT ROBOTS
 Giant. Frigging. Combat. Robots. I can't possibly get more erect! Not only is Meridian opening itself up for the VARLAR racing league, they are adding monster mecha combat and some kind of mecha sports-ball! What a time to be alive! Can anyone join in? Can I pilot while looping select simsense segments from Battle Bride?  
