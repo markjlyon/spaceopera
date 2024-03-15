@@ -1,6 +1,6 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
-## TRANSFER OR POWER
+## TRANSFER OF POWER
 Rumor has it that the USC military has almost completed the process of handing over power to the new civilian goverment, including all military power. With the rumored resource discussions happening in the Five Houses, are we about to see a reduction in the USC military? Maybe a shift from military ship construction to civilian? What new orders for the military will the Triumverates dictate, now that they are in charge? 
 
 ## THE RESTORED MONARCHY
