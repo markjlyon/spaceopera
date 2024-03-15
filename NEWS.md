@@ -1,7 +1,13 @@
 # PLANET NINE NEWS
 
 ## THE VOTES ARE IN
-In what is perhaps the fastest and safest turnaround on an election we have ever seen, the votes for Triumverate are tallied and we have our new Executive leaders girls and boys! From the Sabra-Fenrir ticket the winner is the Marquis Virus Sabra!
+In what is perhaps the fastest and safest turnaround on an election we have ever seen, the votes for Triumverate are tallied and we have our new Executive leaders girls and boys! Our Executive Elect are from the Sabra-Fenrir, Carpathian Oceanic Alliance, and USC itself! The winners in order of the most votes:
+
+* Marquis Virus Sabra
+* Franz Ruhl
+* Wilson Clark
+
+Now let's get busy re-establishing our imperial monarchy! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## COUNTESS ROSETTE COMMITS TREASON
 They have arrested the Countess Rosette Sabra for crimes against the Sabra-Fenrir throne and people!!! It appears she was behind many seemingly unrelated events throughout the USC designed to cause havoc and political damage, and even death! How did she do this my peeps? Get your tin foil hats ready folks... Not only is she not a Zendai, it turns out she is also a powerful sensitive!!! Attacking political alliances, striking women barren, attempting to destroy relationships of her rivals! She even tried to kill the beloved Oracle! Although the trial is locked down tight, my sources tell me she has already confessed to these crimes and more! Get ready for a hangin of a noble people! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
