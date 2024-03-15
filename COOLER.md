@@ -1,6 +1,7 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
-## 
+## TRANSFER OR POWER
+Rumor has it that the USC military has almost completed the process of handing over power to the new civilian goverment, including all military power. With the rumored resource discussions happening in the Five Houses, are we about to see a reduction in the USC military? Maybe a shift from military ship construction to civilian? What new orders for the military will the Triumverates dictate, now that they are in charge? 
 
 ## THE RESTORED MONARCHY
 Rumor has it that there are some concerns that the Zendai, Carpathian, and Creasurian people are upset that they are automatically out of consideration for the restored Monarchy. If the Monarchy must indeed exclude such large groups of people, can it really be said it will work in their best interests? What if the Empress turns out to be a nobody with the right genes who was once a slave or something? 
