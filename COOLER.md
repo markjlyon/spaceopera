@@ -1,5 +1,22 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## 
+
+## THE RESTORED MONARCHY
+Rumor has it that there are some concerns that the Zendai, Carpathian, and Creasurian people are upset that they are automatically out of consideration for the restored Monarchy. If the Monarchy must indeed exclude such large groups of people, can it really be said it will work in their best interests? What if the Empress turns out to be a nobody with the right genes who was once a slave or something? 
+
+## ROGUE PSIONIC PANIC
+Rumor has it that the civilian population has been asking USC personnel a lot of questions about rogue or just unknown psionics: their powers, how to identify a psionic, how to know if you have been affected buy a psionic, what weapons and plans the USC has for use against rogue psionics, etc.
+
+## CIRUS SABRA
+Rumor has it that the new Triumverate Marquis Cirus Sabra has been secretly seeing someone during his run up to victory. People aren't sure which noble woman he is courting/shagging, but the candidates appear to be fairly limited: Countess Viviene, Countess Sarafina, Ambassador Baroness Rochelle, Baroness Sofie, or Baroness Petra. Because he spent so much time with the Countesses, one of them is a sure bet.
+
+## WILSON CLARK
+Rumor has it that the new Triumverate Wilson Clark has already started to push the Five Houses into budgetary and resource discussions regarding the USC Military, which is strange because don't we live in a mostly post-scarcity society? What kind of resource discussions could there be? And for what resource(s)?
+
+## THE ALIEN SISTERS
+Rumor has it that Shara's sisters have begun to explore the battle station by themselves, praticing both the Basic and Zendai languages. They don't travel together and seem to prefer different parts of the ship. Kairi likes the cantina and most engineering sections. Tarna likes the cargo holds when ships load and unload, as well as sickbay.
+
 ## PRIMUS SABRA
 Rumor has it that former Baron Primus Sabra is being kept in a deep dark hole somewhere. No one has heard from or seen him in months or even knows if he is alive. There are also rumors his closest followers and confidants have either also been arrested or they went into hiding.
 
