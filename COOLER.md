@@ -1,6 +1,9 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
-## ADRIANA ASHWOOD
+## FAMKE KRUMB
+Rumor has it that Ambassador Krumb has begun spending time with Captain Hale. Are her intentions romantic? She would seem to have a good chance since they are both Creasurians. But rumors also have Lt Cmdr Valance making romantic gestures toward the Captain. So far he seems to be treating them equally, being polite and courteous, so it is difficult to figure out what is happening.  
+
+## ADRIANA ASHWOOD AND KLAUS TANNHAUSER
 Rumor has it that Cmdr Ashwood has privately married Cmdr Tannhauser with only Captain Cade, Cmdr Marchant, Captain Hale, and Cmdr Soze in attendance. They are both on leave which has led people to suspect they are actually on their honeymoon. Since the captains and commanders won't talk about it, people can only speculate on why they have been so secretive. 
 
 ## TELEMACHUS CADE
