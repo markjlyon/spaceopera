@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## ADRIANA ASHWOOD
+Rumor has it that Cmdr Ashwood has privately married Cmdr Tannhauser with only Captain Cade, Cmdr Marchant, Captain Hale, and Cmdr Soze in attendance. They are both on leave which has led people to suspect they are actually on their honeymoon. Since the captains and commanders won't talk about it, people can only speculate on why they have been so secretive. 
+
 ## TELEMACHUS CADE
 Rumor has it that Captain Cade enforced the agreement they made when they joined the USC of having the final say in all crew assignments, quashing all transfers of his crew while denying two new crew members out of sixty seven.  
 
