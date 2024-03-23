@@ -1,5 +1,8 @@
 # PLANET NINE NEWS
 
+## ALLICROCIGATORS
+So the Ventrasii appear to be under attack from a race of living starships! Word around the fleet is that these "Gorn" invaders actually EAT starships! The attack was so bad it appears the Ventrasii have abandoned their space out on the rim and consolidated at the USC battle station! There must be tens of thousands of Ventrasii ships cloaked and sneaking around protecting the base. The truly sad thing is it looks like these "Gorn" went after the reproduction centers of the Ventrasii, eating all their young and unborn. The Ventrasii around the station might be all that is left if they can't find a safe place to reproduce, how ever that works for such an alien species. 
+
 ## THREE DAY MUSIC FESTIVAL
 Grimaldi Labels will host a three day musical festival, THREE DAYS IN PARADISE, on the USC captial world of Merdian III. Headliners will include Stacy Star, Tony Rich, and... ANGEL (marry me?)!!! There will also be numerous new and up and coming acts all day long! Food and drink will be provided but for drugs you are on your own! There will be a showcase of stock race repulsor vehicles for everyone to check out! Get this - we will get the first look at the GIANT FRICKING COMBAT ROBOTS courtesty of the Great White Fight Robonautics Corporation of Carpathia! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
