@@ -2,9 +2,19 @@
 
 ## SEASON TWO
 
-### EPISODE 02x08 - 
+### EPISODE 02x09 - OUT OF SIGHT
 
-Deliberations begin in earnest as the contenders for Empress are scrutinized heavily. 
+The race against time for a new home for the Ventrasii begins in earnest, if they can be convinced to accept the help.
+
+A mission back into Ventrasii space leads to an ancient discovery.
+
+Pirate activity in former Drago-Kadzai space has been reduced significantly, but at what cost?
+
+### EPISODE 02x08 - EATERS OF THE STARS
+
+Deliberations begin in earnest as the contenders for Empress are scrutinized heavily.
+
+A new threat emerges from an unexpected source, threatening the extinction of an entire people.
 
 ### EPISODE 02x07 - YOUR EXCELLENCY, LADIES AND LORDS OF THE JURY
 
