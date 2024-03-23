@@ -10,7 +10,7 @@ A mission back into Ventrasii space leads to an ancient discovery.
 
 Pirate activity in former Drago-Kadzai space has been reduced significantly, but at what cost?
 
-### EPISODE 02x08 - EATERS OF THE STARS
+### EPISODE 02x08 - EATERS FROM BEYOND THE GALAXY
 
 Deliberations begin in earnest as the contenders for Empress are scrutinized heavily.
 
