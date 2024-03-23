@@ -1,6 +1,9 @@
 # PLANET NINE NEWS
 
-## USC UNDERGOING MASSIVE REASSIGNMENTS
+## PIRATES STOPPED BY CHIGRU FORCES
+What an unexpected turn of events! The Chigru have sent out fleets deep into FDK space to take out the pirates plaguing those defenseless worlds too far away for the USC to help! There is talk of the Chigru starting building bases to create a supply line back to Chigru space and allow a more permanent presence. The Chigru ambassadors have assured the USC the Red Book will still be honored. Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
+## USC UNDERGOING MASSIVE CHANGES
 Well that didn't take long folks! Now that the Triumverate and Empress elections have been decided, the Executive branch went into full swing with the military! A massive reorganization with personnel changes, reorganized ship construction priorities, reassignment of ships on the line! It looks like the whole USC military is about to become leaner and smaller?! Why this is necessary in a post-scarcity society blows the mind peeps! Why do we need fewer and less powerful ships? Especially with how many recent fights our military have had to deal with lately! Somethin ain't right on Meridian! Keep listening as I bring everything in the black out into the light! Stay strange my friends! 
 
 ## ALLICROCIGATORS
