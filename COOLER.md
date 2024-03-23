@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## SIGMUND BOUND
+Rumor has it that the boy wonder was very excited recently about... something? He was heard raving about some nearly impossible task being completed. People wonder if its war related or something else. I guess word will get out soon enough, unless it is top secret or something.
+
 ## FAMKE KRUMB
 Rumor has it that Ambassador Krumb has begun spending time with Captain Hale. Are her intentions romantic? She would seem to have a good chance since they are both Creasurians. But rumors also have Lt Cmdr Valance making romantic gestures toward the Captain. So far he seems to be treating them equally, being polite and courteous, so it is difficult to figure out what is happening.  
 
