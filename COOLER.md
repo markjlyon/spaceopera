@@ -1,5 +1,20 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## TELEMACHUS CADE
+Rumor has it that Captain Cade enforced the agreement they made when they joined the USC of having the final say in all crew assignments, quashing all transfers of his crew while denying two new crew members out of sixty seven.  
+
+## GREG NOON
+Rumor has it that Lt Noon has been reassigned to the USS Zephyr to the objection of Captain Hale, but fight he didn't win. Everyone assumes this is some kind of demotion, which is really strange for one of the hero's of the Drago-Kadzai / Primrose war. 
+
+## CLINT
+Rumor has it that Lt Jr "Clint" was suddenly reassigned to Farfleet HQ on Meridian III and Captain Hale became extremely angry, with the final result being Clint was reinstated on the USS Celestia. Why Clint was being moved and what motivated Hale's sudden outburst to keep him remains unknown. 
+
+## ZOE MARCHANT
+Rumor has it that Cmdr Marchant is being offered the heavy battlecruiser USS Bismark instead of the now scrapped USS Shiva. She has yet to accept the offer, probably stunned by the cancellation of the USS Shiva. The crew of the USS Sequoia are fully behind her, whatever decision she makes. Feelings are mixed about the cancellation of what could have been the most powerful warship the USC could field.
+
+## OLYMPIA TZIMISCE
+Rumor has it that Cmdr Tzimisce is being reassigned to train all the new psionic recruits. Nobody is certain what is going to happen to the PSICorp leadership. Will Satrine, Ixtana, or Viktoria take the reigns? What about the intelligence services? Aren't those split between Security and PSICorps?
+
 ## TRANSFER OF POWER
 Rumor has it that the USC military has almost completed the process of handing over power to the new civilian goverment, including all military power. With the rumored resource discussions happening in the Five Houses, are we about to see a reduction in the USC military? Maybe a shift from military ship construction to civilian? What new orders for the military will the Triumverates dictate, now that they are in charge? 
 
