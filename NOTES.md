@@ -1,3 +1,13 @@
+# TODAY'S GAME
+
+## EMESYN
+Pregnancy.
+
+## TYRANIS
+
+## YING-KO
+Visit from Quest.
+
 # TELEKINESIS
 
 1. 1kg
