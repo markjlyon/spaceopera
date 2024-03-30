@@ -2,6 +2,14 @@
 
 ## SEASON TWO
 
+### EPISODE 02x10 - WILDCARDS
+
+The Silurian's are back in force in former Drago-Kadzai space.
+
+A mysterious figure seeks help for an enigmatic goal.
+
+The Chigru arrive with a surprising new class of farship.
+
 ### EPISODE 02x09 - OUT OF SIGHT
 
 The race against time for a new home for the Ventrasii begins in earnest, if they can be convinced to accept the help.
@@ -28,7 +36,7 @@ An expedition to the primative world Daear (day-arr) in the Djinn Star Cluster b
 
 A diplomatic outreach to the Keptra Empire does not go as planned, but at least not like the first time.
 
-The USC sends ships on multiple diplomatic missions: one to Orca Pride, one to Ganymede Pride, and another to the Kzinti.
+The USC sends farships on multiple diplomatic missions: one to Orca Pride, one to Ganymede Pride, and another to the Kzinti.
 
 Elections start among the hundreds of candidates for the Triumvirates. The two favored candidates take the lead as expected but a third dark horse candidate surprises everyone.
 
@@ -62,7 +70,7 @@ The Keptra Empire appears silent after the disasterous first encounter, but it d
 
 The discovery of a Silurian fleet on the far side of the former Drago-Kadzai space gave the terrible revelation of the fate of the worlds that fell silent and its only a matter of time before a dozen becomes a hundred.
 
-Reports of a mysterious, large, unknown Zendai battlecruiser begin to spread outside Drago-Kadzai space, stirring rumors ranging from being a surviving warship to a revenge powered ghost ship to the return of Drago Ivani, creating both fear and hope among the fallen worlds.
+Reports of a mysterious, large, unknown Zendai battlecruiser begin to spread outside Drago-Kadzai space, stirring rumors ranging from being a surviving warship to a revenge powered ghost farship to the return of Drago Ivani, creating both fear and hope among the fallen worlds.
 
 ### EPISODE 02x01 - THE SERPENT'S TOOTH
 
@@ -88,13 +96,13 @@ Jim, encephalon now fully installed and tested, divides his processing to create
 
 At the start of battle the USC fleet pretends to flee the quantum eraser equipped Drago-Kadzai fleet by entering the Djinn Star Cluster, only to re-emerge outside Drago-Kadzai sensor range and rush to the Sabra-Fenrir throne world.
 
-The four USC AI's and their deckers begin the assault on the Primrose AI, using the analysis of Massive Dynamic as a starting point to track it down, only to have it fully reveal itself as it attempts to help Drago-Kadzai win the war by conquering ships and disabling entire planets.
+The four USC AI's and their deckers begin the assault on the Primrose AI, using the analysis of Massive Dynamic as a starting point to track it down, only to have it fully reveal itself as it attempts to help Drago-Kadzai win the war by conquering farships and disabling entire planets.
 
-The USC fleet lies in wait in the planetary magnetic pole of the throne world, and once the drago-Kadzai fleet appears they go to work with Jim conquering hull type after hull type, venting each ship's crew and firing their death bolts, then switching control back to the Sabra-Fenrir fleet to protect them from the control attempts of the Primrose AI.
+The USC fleet lies in wait in the planetary magnetic pole of the throne world, and once the drago-Kadzai fleet appears they go to work with Jim conquering hull type after hull type, venting each farship's crew and firing their death bolts, then switching control back to the Sabra-Fenrir fleet to protect them from the control attempts of the Primrose AI.
 
-At the USC Battle Station the battle begins badly for the USc base, Sabra-Fenrir, and Chigru forces, until the suggestion by Taranis to request the help of the Ventrasii to defend the one group with a weapon to defeat the Souldra pays off, and the Ventrasii repeat history by stepping up and revealing the might of their new fleet and technologies, utterly dominating the battle front and destroying the powerful pre-fall ships, while Emesyn has Massive Dynamic disable the fleeing Drago-Kadzai and greatly improving the USC's relationship with the Chigru.
+At the USC Battle Station the battle begins badly for the USc base, Sabra-Fenrir, and Chigru forces, until the suggestion by Taranis to request the help of the Ventrasii to defend the one group with a weapon to defeat the Souldra pays off, and the Ventrasii repeat history by stepping up and revealing the might of their new fleet and technologies, utterly dominating the battle front and destroying the powerful pre-fall farships, while Emesyn has Massive Dynamic disable the fleeing Drago-Kadzai and greatly improving the USC's relationship with the Chigru.
 
-With the Primrose AI unable to affect the battle, Jim takes control of the entire Drago-Kadzai fleet, wiping out all but a single fleeing ship and capturing the Grand Marshal. His apparently effortless surprise defeat and extreme callousness in executing the crews during the battle has earned him the Zendai name "Ying Ko".
+With the Primrose AI unable to affect the battle, Jim takes control of the entire Drago-Kadzai fleet, wiping out all but a single fleeing farship and capturing the Grand Marshal. His apparently effortless surprise defeat and extreme callousness in executing the crews during the battle has earned him the Zendai name "Ying Ko".
 
 Massive Dynamic played a significant role leading up the battle with its existing infrastructure and detailed intelligence, but intially struggled against the Primrose AI even with the USC AIs and deckers attacking it.
 
@@ -122,11 +130,11 @@ Massive Dynamic systems returned across all worlds in a matter of hours.
 
 Emesyn becomes engaged and is swept off her feet by an unexpected new love, announcing her wedding will be located at the front line of the war on a specific date, hoping to force the Drago-Kadzai into action.
 The Oracle appears in very poor health to answer as many questions as she can before her time is up, leading to a startling revelation about the Drago-Kadzai.
-The Drago-Kadzai fleet of 260k ships has begun to organize for the upcoming assault at the USC Battle Station.
+The Drago-Kadzai fleet of 260k farships has begun to organize for the upcoming assault at the USC Battle Station.
 
 ### EPISODE 01x20 - T-Minus 21 Part I
 
-Taranis takes his new stealth ship, piloted by Jim, deep into Drago-Kadzai space to find any spec op caches only to discover the staggering truth about the Souldra and Ventrasii.
+Taranis takes his new stealth farship, piloted by Jim, deep into Drago-Kadzai space to find any spec op caches only to discover the staggering truth about the Souldra and Ventrasii.
 
 ### EPISODE 01x19 - The Ball Drops
 
@@ -161,7 +169,7 @@ Drago-Kadzai tactics show a remarkably unexpected improvement, tough decisions m
 More refugees flee to the border hoping for sanctuary, the Drago-Kadzai are determined to send the USC a clear message, and an enemy displays a talent for adaptation.
 
 ### EPISODE 01x11 - Without Honor
-Refugees begin to gather at the Djinn Star Cluster border fleeing the Drago-Kadzai, the new satellite modules are ready for assembly, and one of the capital ship AIs makes an unusual request.
+Refugees begin to gather at the Djinn Star Cluster border fleeing the Drago-Kadzai, the new satellite modules are ready for assembly, and one of the capital farship AIs makes an unusual request.
 
 ### EPISODE 01x10 - Shedding An Old Skin
 A small free world makes a surprising request. The Ajax is out of service and undergoes several needed upgrades.
@@ -185,10 +193,10 @@ The Ajax makes the perilous journey to the border of Chigru space with the hope 
 The Celestia makes a long journey to a remote and long forgotten family holding and meets a new alien species, with unexpected results that will change everything.
 
 ### EPISODE 01x03 - A Babe In The Woods
-Desperately needing to repair their ships, the Warlock and Ajax depart to find critically needed materials in spite of heavy crew losses from the battle, while the Celestia discovers their attempts to contact the USC have given away their position.
+Desperately needing to repair their farships, the Warlock and Ajax depart to find critically needed materials in spite of heavy crew losses from the battle, while the Celestia discovers their attempts to contact the USC have given away their position.
 
 ### EPISODE 01x02 - All Good Things
-After esacping their 517 year temporal stasis, the Celestia and crew attempt to repair their crippled starships only to learn the devastating truth when they try to contact the USC.
+After esacping their 517 year temporal stasis, the Celestia and crew attempt to repair their crippled farships only to learn the devastating truth when they try to contact the USC.
 
 ### EPISODE 01x01 - Ten Thousand Cuts
-The Celestia and crew respond to a distress call only to be ambushed by ten thousand Zendai starships. They attempt escape, but soon face a worse fate.
+The Celestia and crew respond to a distress call only to be ambushed by ten thousand Zendai farships. They attempt escape, but soon face a worse fate.
