@@ -1,6 +1,13 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
-## 
+## KEPTRA EMPRESS
+Rumor has it that the Keptra Empress has not been very cooperative. Sure, they could just read her mind, but they have chosen not to so as to gain her trust. It doesn't appear to be working. She demands food, drink, clothing, bathes, makeup, and people to attend to her, but offers nothing in return. She has even demanded that the hostages from the clans be forced to serve her. She doesn't speak of her capture or the war. She won't send messages back to her people. She won't engage in any diplomatic discussions. She acts bored and disinterested when the discussion is about anything but her wants and needs.
+
+## KEPTRA PSIONICS
+Rumor has it that among the Keptra hostages are at least three psionics. The information is that one is a precog, one an empath, and one a telepath. The precog doesn't seem to see anything that doesn't involve herself. The telepath seems like a weaker version of our own Viktoria, so there might be some concern if she starts sending instead of just receiving. The empath seems only able to read emotions, being unable to send or manipulate them. The telepath and empath seem very friendly, while the little Clan Fox girl seems happy to be here and very eager to share and learn as much as possible about us "aliens".
+
+## CAPTAIN HALE AND CAPTAIN MARCHANT
+Rumor has it that now that Captain Hale and Captain Marchant no longer serve on the same ship, they will have a quick wedding in the very near future. Some people are saying it will be a private affair. Others say it will be public and point to a recent reservation of the battle station's entire observation deck. Some people forsee a very pregnant farship captain in the near future. It is good to see them finally be able to tie the knot.
 
 ## CIRUS SABRA
 Rumor has it that the Triumverate Marquis Cirus Sabra has finally decided to marry. Is it Marquess Gabor? Countess Tobin? Baroness Karenina? Baroness Ortiz? Someone else? Why the secrecy and why did he wait until after the election?
