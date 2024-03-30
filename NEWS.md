@@ -1,5 +1,14 @@
 # PLANET NINE NEWS
 
+## CHIGRU
+Surprise, surpise, the Chigru appear to be stablizing the FDK worlds near their own borders! They are bringing much needed supplies and aid to the populations there! They are even helping kickstart agriculture again by suppying seeds and livestock! I thought their livestock was people, but they are bringing big meat animals! What is most surprising is this: THEY AREN'T CAPTURING AND EATING PEOPLE!!! Most people believe this isn't a question of IF but of WHEN. What do you think folks? Think the Chigru are being truly altruistic, or is there something more sinister lurking beneath the surface? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
+## KEPTRA HOSTAGES
+Well, well, well, the defeated Keptra Clans have kept their collective word and sent formal hostages to the USC after their crushing defeat! I know the Conclave sent hostages in return, but I have no details yet. Hold on to your testees people, we are about to get our first real contact with a 2500 year old culture! They look like us, but how much are they realy like us? There appear to be some sensitives among them so I hope our own sensitive police are up to the task! Five girls and two boys from the seven clans! I have heard that they even speak two brand new languages! But the questions are, could they be spies, can they be trusted, and how will they treat the hostages we sent them? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
+## CIRUS SABRA
+Holy macaroni peeps! The Triumverate Marquis Cirus Sabra is apparently planning for a WEDDING! Caterers and wedding planners are all preparing his old estate for the nuptuals! Word has it that he didn't pick a noble Sabra as his bride! It isn't clear exactly who it is, but my little drones tell me it isn't going to be anyone we expect! He has apparently hidden this mystery woman from his own family and staff! Bets are on folks! Is it a Fenrir? Is it a human? Maybe a USC member? Kinhel, might they even be one of those dead sexy fembots?!? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
 ## PIRATES STOPPED BY CHIGRU FORCES
 What an unexpected turn of events! The Chigru have sent out fleets deep into FDK space to take out the pirates plaguing those defenseless worlds too far away for the USC to help! There is talk of the Chigru starting building bases to create a supply line back to Chigru space and allow a more permanent presence. The Chigru ambassadors have assured the USC the Red Book will still be honored. Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
