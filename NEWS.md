@@ -1,5 +1,8 @@
 # PLANET NINE NEWS
 
+## KYRIE ELEISON
+The new votes are in and tallied and we have a new Triumverate peeps! It looks like one of the USC AIs decided to throw their hat into the ring, winning every debate on style AND substance! Now they didn't win by a landslide like our other two Trimuverate members, but they did win by a large enough margin not to perform a recount! She is the former Ship Made Flesh of the long gone USC Kyrie Eleison, a mobile hospital and medical treatment farship, so she is an AI built for compassion and empathy! With a brain the size of a planet! Who could be a better Triumverate than an unbribable, un-thought-readable, compassionate, artificial intelligence?! Well the voters certainly thought so! Keep listening as I bring everything in the black out into the light! Stay strange my friends!  
+
 ## CHIGRU
 Surprise, surpise, the Chigru appear to be stablizing the FDK worlds near their own borders! They are bringing much needed supplies and aid to the populations there! They are even helping kickstart agriculture again by suppying seeds and livestock! I thought their livestock was people, but they are bringing big meat animals! What is most surprising is this: THEY AREN'T CAPTURING AND EATING PEOPLE!!! Most people believe this isn't a question of IF but of WHEN. What do you think folks? Think the Chigru are being truly altruistic, or is there something more sinister lurking beneath the surface? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
