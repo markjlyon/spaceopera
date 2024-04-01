@@ -16,15 +16,17 @@ Doctor Morris Watts handles all research on BACKSTEP, theoretical development, a
 
 Doctor Saoirse Delaplane handles all medical and psychological issues for the chrononauts. She is a Conclave Zendai.
 
-Toff Garnet handles the engineering, systems repair, and improvements. He can also perform coordinate calculations. He is a USC engineer who "died" in the line of duty. His wife, Rose, is a Sabra Courtesan, so they never desire to leave the BACKSTEP facilities.
+Toff Garnet handles the engineering, systems repair, and improvements. He can also perform coordinate calculations. He is a USC engineer who "died" in the line of duty. His wife, Rose, is a Sabra Courtesan, and they never desire to leave the BACKSTEP facilities.
 
-Nicholas Forrest is the only living chrononaut. He is a Deaer
+Nicholas Forrest is the only living chrononaut. He is a Daear jaunter with a photographic memory.
 
 ### ENIGMA
-Nicholas Forest is code named 
+Chrononauts are sent into the past with highly secure information about the mission with all the intelligence they gathered up to the BACKSTEP. Sometimes this information is complete, sometimes there is very little information. The chrononaut also possesses an unforgeable programmable matter deposit in the form of a tattoo as well as a hidden memory area only powerful telepaths can access so their identity can be confirmed. 
+
+Once a BACKSTEP is performed the chrononaut uses the keyword ENIGMA to alert anyone in the project that a mission is active. Once their identity is confirmed, Tzimisce hands command over to the chrononaut and their word on the mission is final.
 
 ### TEMPORAL CENSORSHIP
-A chrononaut can't backstep more than once to the same period in the past.
+A chrononaut can't BACKSTEP more than once to the same period in the past.
 
 ### TEMPORAL DECOHERENCE
 Travelling into the past causes minor things to change, so it is impossible to guarantee you can benefit in the past with knowledge of the future. This applies primarily to unplanned events like sports and games of chance. Deliberate actions generally remain the same, but it is possible they happen sooner or later than the original event.
@@ -40,7 +42,7 @@ Temporal significance is measured in ratings between 0-1000.
 Due to the limits of available fuel and size of the reactor, backsteps are limited to 5 days.
 
 ### PILOT
-The chrononaut and their past self will merge upon arrival to the past, causing the past self to "disappear" leaving only chrononaut. There can't be two instances of a chrononaut. This is one way to identify a backstep has occurred.
+The chrononaut and their past self will merge upon arrival to the past, causing the past self to "disappear" leaving only chrononaut. There can't be two instances of a chrononaut. This is one way to identify a backstep has occurred. The health of the chrononaut can be based entirely on the future version, entirely on the past version, or somewhere in between. So far it has been impossible to determine. Since the chrononaut is usually injured during the BACKSTEP it can be significant if both the past and future versions are injured.
 
 ### DODECAHEDRON
 The dodecahedron merges with it's past self and becomes one in the same manner as a chrononaut. There can't be two instances of the dodecahedron.
@@ -48,6 +50,6 @@ The dodecahedron merges with it's past self and becomes one in the same manner a
 ### FUEL
 There is limited fuel for the backstep dodecahedron with no known why to get or make more, so the use of a backstep must be for critical purposes only.
 
-Recently a additional fuel source was discovered which might increase the number of days the dodecahedron can go back in time.
+Recently an additional fuel source was discovered which might increase the number of days the dodecahedron can go back in time.
 
 High powered Inanimate Matter Manipulators can produce this fuel, but no one has thought of this before because no one has been powerful enough to try.
