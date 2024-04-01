@@ -6,8 +6,12 @@ The BACKSTEP project allows the USC to send one person back in time, 5 days. The
 ### COMMAND STRUCTURE
 Due to the extreme need for secrecy, the number of personnel working on the BACKSTEP project is very small and it's member tightly controlled.
 
-The Ships Made Flesh represent the "council" that determines the need for a BACKSTEP. This is because Tia, Bismark, Dominique, Harmony, and Kyrie all vote and a 4/5ths vote is needed. In cases where one or more Ship Made Flesh are killed in action, there vote is automatically in favor of a BACKSTEP. 
+Several Ships Made Flesh represent the "council" that determines the need for a BACKSTEP. This is because advanced AIs are not vulnerable to technological or psionic attacks. Tia, Bismark, Dominique, Harmony, and Kyrie all vote and a 4/5ths majority is needed for approval. In cases where one or more Ship Made Flesh are killed in action or unavailable, their vote is automatically in favor of a BACKSTEP.
 
+Commander Olympia Tzimisce is the project director and has broad authority to use her telepathic abilities in service of BACKSTEP operations, even if the use of her powers violates USC law.
+
+### ENIGMA
+Nicholas Forest is code named 
 
 ### TEMPORAL CENSORSHIP
 A chrononaut can't backstep more than once to the same period in the past.
