@@ -1,4 +1,5 @@
-# TODAY'S GAME
+# MISSION INTO MANIFOLD VOID
+There are areas in Richard's maps without stars. The maps on the ships contain all the known ares that manifold ships can fly. The dark areas are areas where the manifold engines do not work reliably. Additionally, the communication system Richard uses is an expression of manifold technology and also fails to function.
 
 ## EMESYN
 Pregnancy.
