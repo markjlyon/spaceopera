@@ -3,6 +3,12 @@
 ## OPERATION
 The BACKSTEP project allows the USC to send one person back in time, 5 days. There are some operational rules and consequences for backsteps.
 
+### COMMAND STRUCTURE
+Due to the extreme need for secrecy, the number of personnel working on the BACKSTEP project is very small and it's member tightly controlled.
+
+The Ships Made Flesh represent the "council" that determines the need for a BACKSTEP. This is because Tia, Bismark, Dominique, Harmony, and Kyrie all vote and a 4/5ths vote is needed. In cases where one or more Ship Made Flesh are killed in action, there vote is automatically in favor of a BACKSTEP. 
+
+
 ### TEMPORAL CENSORSHIP
 A chrononaut can't backstep more than once to the same period in the past.
 
