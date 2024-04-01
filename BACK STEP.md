@@ -4,11 +4,21 @@
 The BACKSTEP project allows the USC to send one person back in time, 5 days. There are some operational rules and consequences for backsteps.
 
 ### COMMAND STRUCTURE
-Due to the extreme need for secrecy, the number of personnel working on the BACKSTEP project is very small and it's member tightly controlled.
+Due to the extreme need for secrecy, the number of personnel working on the BACKSTEP project is very small and it's members tightly controlled.
 
 Several Ships Made Flesh represent the "council" that determines the need for a BACKSTEP. This is because advanced AIs are not vulnerable to technological or psionic attacks. Tia, Bismark, Dominique, Harmony, and Kyrie all vote and a 4/5ths majority is needed for approval. In cases where one or more Ship Made Flesh are killed in action or unavailable, their vote is automatically in favor of a BACKSTEP.
 
 Commander Olympia Tzimisce is the project director and has broad authority to use her telepathic abilities in service of BACKSTEP operations, even if the use of her powers violates USC law.
+
+Bradley Sherman is in charge of BACKSTEP security and intelligence.
+
+Doctor Morris Watts handles all research on BACKSTEP, theoretical development, and coordinate calculations. He is an older USC radiation cluster survivor.
+
+Doctor Saoirse Delaplane handles all medical and psychological issues for the chrononauts. She is a Conclave Zendai.
+
+Toff Garnet handles the engineering, systems repair, and improvements. He can also perform coordinate calculations. He is a USC engineer who "died" in the line of duty. His wife, Rose, is a Sabra Courtesan, so they never desire to leave the BACKSTEP facilities.
+
+Nicholas Forrest is the only living chrononaut. He is a Deaer
 
 ### ENIGMA
 Nicholas Forest is code named 
