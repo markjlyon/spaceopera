@@ -2,7 +2,13 @@
 The AI invasion includes several FWA AIs who have decided biologicals can coexist with them but only on their terms.
 
 # CHIGRU INVASION
-The Chigru invasion will begin with the Chigru indicating their acknowledgement of all USC territory and claiming all remaining territory as their own.
+The Chigru invasion will begin with the Chigru indicating their acknowledgement of all current USC territory and claiming all remaining territory as free range.
+
+They will use their new hiliner ships to stage massive attacks on worlds turning star system after star system into farms.
+
+They leave USC worlds alone, unless the USC attempts to add as a new world a world the Chigru are already attacking or have already claimed, in which case they will point out that taking a Chigru world ends the Red Book.
+
+The worst part is their luxurious resorts where they offer anyone a respite, but since it is in Chigru space, then they will harvest the guests without USC interference.
 
 # GORN INVASION
 The GORN invasion will begin as a slow (trans warp) march across space towards all other spaces. These will be led by their colossal beings (code named TITANS) the size of small moons. These creatures can manipulate gravity on a grand scale, effecting jump, hyperdrive, HSFG, warp, trans-warp, lightfold, quantum, slipstream, quantum-slipstream, and lower level hyperspace manifold drives and engines.
