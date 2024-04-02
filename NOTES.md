@@ -1,3 +1,8 @@
+# CHIGRU INVASION
+
+# GORN INVASION
+The GORN invasion will begin as a slow (trans warp) march across space towards all other spaces. These will be led by their colossal beings (code named TITANS) the size of small moons. These creatures can manipulate spacetime on a grand scale, effecting jump, hyperdrive, HSFG, warp, trans-warp, lightfold, quantum, slipstream, quantum-slipstream, and lower level hyperspace manifold drives and engines.
+
 # MISSION INTO MANIFOLD VOID
 There are areas in Richard's maps without stars. The maps on the ships contain all the known ares that manifold ships can fly. The dark areas are areas where the manifold engines do not work reliably. Additionally, the communication system Richard uses is an expression of manifold technology and also fails to function.
 
