@@ -8,7 +8,7 @@ They will use their new hiliner ships to stage massive attacks on worlds turning
 
 They leave USC worlds alone, unless the USC attempts to add as a new world a world the Chigru are already attacking or have already claimed, in which case they will point out that taking a Chigru world ends the Red Book.
 
-The worst part is their luxurious resorts where they offer anyone a respite, but since it is in Chigru space, then they will harvest the guests without USC interference.
+The worst part is their luxurious resorts where they offer anyone respite, but since they are in Chigru space, then they will harvest some of the guests without USC interference. They do not harveat everyone as they need a fantastic reputation to keep them fully booked. They carefully monitor guests and only loners and those that won't be missed are harvested.
 
 # GORN INVASION
 The GORN invasion will begin as a slow (trans warp) march across space towards all other spaces. These will be led by their colossal beings (code named TITANS) the size of small moons. These creatures can manipulate gravity on a grand scale, effecting jump, hyperdrive, HSFG, warp, trans-warp, lightfold, quantum, slipstream, quantum-slipstream, and lower level hyperspace manifold drives and engines.
