@@ -26,7 +26,7 @@ Chrononauts are sent into the past with highly secure information about the miss
 Once a BACKSTEP is performed the chrononaut uses the keyword ENIGMA to alert anyone in the project that a mission is active. Once their identity is confirmed, Tzimisce hands command over to the chrononaut and their word on the mission is final.
 
 ### TEMPORAL CENSORSHIP
-A chrononaut can't BACKSTEP more than once to the same period in the past.
+A chrononaut can't BACKSTEP more than once to the same period in the past, unless a visit to a time period is undone by other events, effectively leaving that time period again unvisited.
 
 ### TEMPORAL DECOHERENCE
 Travelling into the past causes minor things to change, so it is impossible to guarantee you can benefit in the past with knowledge of the future. This applies primarily to unplanned events like sports and games of chance. Deliberate actions generally remain the same, but it is possible they happen sooner or later than the original event.
@@ -53,3 +53,6 @@ There is limited fuel for the backstep dodecahedron with no known why to get or 
 Recently an additional fuel source was discovered which might increase the number of days the dodecahedron can go back in time.
 
 High powered Inanimate Matter Manipulators can produce this fuel, but no one has thought of this before because no one has been powerful enough to try.
+
+### TEMPORAL MORTALITY
+While on a mission the chrononaut is outside of the normal timestream until they return to their normal timestream. So if a chrononaut travels back 5 days, he will be outside of the normal timestream until he returns to the time when he made the BACKSTEP. During this time if the chrononaut dies he is dead. a different chrononaut can't go back and save him or stop him from going on the mission to prevent his death. No matter what happens, he will die at exactly the same date and time. Once he reenters the timestream at his departure point, he can be affected like everyone else including being saved from death by another chrononaut.
