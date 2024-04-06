@@ -6,7 +6,7 @@
 
 The Chigru ask for a complete disclosure of all USC territories and worlds, but when asked why their answers just leave more questions.
 
-The Silurians send a carnivore Ambassador to sue for peace, but some suspect a ruse.
+An unexpected Ambassador arrives to sue for peace, but some suspect a ruse.
 
 The Baron Horace host a party just for couples, but he includes Ying-Ko on the guest list with a plus one.
 
