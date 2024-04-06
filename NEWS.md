@@ -8,7 +8,7 @@ It had to happen peeps! The beautiful, young, and desirable Empress of the USC, 
 
 Oh wait! This just in! ... 
 
-Well... sigh... ok so it looks like there is a list of suitors... and I am not on it... Ok people if you are on the list, the Imperial Palace will find you and comminicate their request to... why do I even bother... Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+Well... sigh... ok so it looks like there is a list of suitors... and I am not on it... Ok people if you are on the list, the Imperial Palace will find you and comminicate their request to... you know what figure it out yourself ya lucky bastages... Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## THE SHAPE OF THINGS TO COME
 Now this is an interesting tidbit folks! The Chigru ambassadors have requested an updated map identifying all USC territory and member worlds to "prevent inherently dangerous accidental incidents"! Sure the USC has been more destructive now that in the last 1500 years, but that what this is all about? Haven't the Chigru been expanding their activities into FDK peace? It has been a peaceful, even helpful, foray to date but how long will that last? The Chigru have been very careful to abide by the agreement in that big red book, but will it last? Ponderous man, really ponderous. Keep listening as I bring everything in the black out into the light! Stay strange my friends!
