@@ -1,5 +1,23 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## AMBASSADOR BARONESS ROCHELLE SABRA
+Rumor has it that the Ambassador Baroness Rochelle Sabra has been seen getting herself all dressed up and then taking some private leaves. Has she finally found the man she feels is worthy of her? Who could it be? All the most reasonable eligible bachelors have had their schedules combed through, by envious men who long for her from a distance no doubt, and no one's schedule seems to match her own leaves. People she was cold and distant to have noticed a bit of a thaw, apparently because she doesn't need to keep suitors at bay anymore. It seems to be anyone's guess. Other than the telepaths who probably won't tell. But they know, they know. 
+
+## HARRISON RENHQUIST
+Rumor has it that Cmdr Harrison Renhquist has begun dating the Baroness Imogene Sabra. The few times they have been seen in public they have been seen together, sitting at the same table, leaning close, whispering and smiling. The Baroness has never seemed so beautiful as she does in his presence. Wasn't he this crusty old Commander that barked orders at his staff? Wasn't she looking for someone her own age? How did he convince her to even go out with him on the first date? Maybe he isn't just tall, maybe his it big all over.
+
+## ISOBEL DUKE
+Rumor has it that Lt Cmdr Isobel Duke has begun spending time on the Bismark since Captain Zoe Cade has taken the assignment. Captain Zoe appears to be assigning only humans, androids, and Conclave members to her crew. Is she going to leave the USS Sequoia and join the crew of the Bismark? Are there others thinking the same thing? Is the reason Captain Cade is not staffing Zendai because she already has Zendai coming from her old ship?
+
+## MARTIN BALSIM
+Rumor has that Ensign Martin Balsim has caused a fatal training incident. Did he kill more than one person? Did he kill a recruit? Was it someone of higher rank? He hasn't been seen in the brig, so what kind of punishment will there be for killing someone, even accidentally? Is this why Cmdr Hunter and Cmdr Tzimisce were suddenly called away during other duties?   
+
+## PSICORPS ACADEMY
+Rumor has it that the new PSICorps Academy has started training over one hundred new recruits. It appears Olympia, Taranis, Satrine, Ixtana, and Viktoria are rotating in and out as the staff, but since no non-psionic civilian is allowed on campus, no one knows for sure. Where did they get all these candidates? It must have taken months to put something in place to find so many people. How long will it take before these new PSICorps members are in the field? Are they also training psionic civilians? 
+
+## TRIUMVERATE MARQUIS CIRUS SABRA
+Rumor has it that the Triumverate Marquis Cirus Sabra has reserved an _entire deck_ of the USC battle station outside the shatterzone. Is this the wedding we have all been told about? Is the fact is it reserved for three days significant like it is for all Sabra social events? Luxury replicators and caterers are all booked up for, well, _something_ the same three days. The real question is if he is indead getting married, who is the lucky bride?
+
 ## KEPTRA HOSTAGES
 Rumor has it that the Keptra hostages don't seem to believe they are guests. Most seem to believe they are now property, to be used as their conquerers see fit. Only Clan Snake and Clan Pearl seem to understand they are actually diplomats instead of hostages. The Clan Spider hostage tries to be very friendly at every opportunity, but appears afraid of both the other clans and the USC personnel. They are allowed to travel the grounds of their provided estate but not leave without an escort. Clan Snake's hostage is very friendly and well liked.
 
@@ -12,7 +30,7 @@ Rumor has it that among the Keptra hostages are at least three psionics. The inf
 ## CAPTAIN HALE AND CAPTAIN MARCHANT
 Rumor has it that now that Captain Hale and Captain Marchant no longer serve on the same ship, they will have a quick wedding in the very near future. Some people are saying it will be a private affair. Others say it will be public and point to a recent reservation of the battle station's entire observation deck. Some people forsee a very pregnant farship captain in the near future. It is good to see them finally be able to tie the knot.
 
-## CIRUS SABRA
+## TRIUMVERATE MARQUIS CIRUS SABRA
 Rumor has it that the Triumverate Marquis Cirus Sabra has finally decided to marry. Is it Marquess Gabor? Countess Tobin? Baroness Karenina? Baroness Ortiz? Someone else? Why the secrecy and why did he wait until after the election?
 
 ## SIGMUND BOUND
