@@ -1,5 +1,11 @@
 # PLANET NINE NEWS
 
+## EMPRESS KATERINA I BEGINS HER SEARCH FOR A HUSBAND
+It had to happen peeps! The beautiful, young, and desirable Empress of the USC, Her Imperial Majesty Katerina I, has put out a wide net in search of husband! Oh boy kids my time is NOW! This is going to be the longest audition line in human history! Everyone with a luxury farship, planetary garbage scowl, or even hot air balloon is going to find a way to get to Meridian I as fast as possible! Oh wait! This just in! ... Well... sigh... ok so it looks like there is a list of suitors... and I am not on it... Ok people if you are on the list, the Imperial Palace will find you and comminicate their request to... why do I even bother... Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
+## THE SHAPE OF THINGS TO COME
+Now this is an interesting tidbit folks! The Chigru ambassadors have requested an updated map identifying all USC territory and member worlds to "prevent inherently dangerous accidental incidents"! Sure the USC has been more destructive now that in the last 1500 years, but that what this is all about? Haven't the Chigru been expanding their activities into FDK peace? It has been a peaceful, even helpful, foray to date but how long will that last? The Chigru have been very careful to abide by the agreement in that big red book, but will it last? Ponderous man, really ponderous. Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
 ## KYRIE ELEISON
 The new votes are in and tallied and we have a new Triumverate peeps! It looks like one of the USC AIs decided to throw their hat into the ring, winning every debate on style AND substance! Now they didn't win by a landslide like our other two Trimuverate members, but they did win by a large enough margin not to perform a recount! She is the former Ship Made Flesh of the long gone USC Kyrie Eleison, a mobile hospital and medical treatment farship, so she is an AI built for compassion and empathy! With a brain the size of a planet! Who could be a better Triumverate than an unbribable, un-thought-readable, compassionate, artificial intelligence?! Well the voters certainly thought so! Keep listening as I bring everything in the black out into the light! Stay strange my friends!  
 
