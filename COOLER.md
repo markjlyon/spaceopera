@@ -1,5 +1,16 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## 
+
+## PORTIA
+Rumor has it that the Ventrasii ambassador Portia has been hanging around the USC Captains and the CEO of Grimaldi. It seems to have started after a distant trip near or to Chigru space. She went into her shuttle, back to the Peacock, spent several days there, then returned an absolutely driven person, injecting herself into all the meetings and discussions she can. She rarely says anything, but when she does it is direct, detailed, on point, and missing any sense of evasion. She still doesn't answer personal or cultural questions, but her responses have become things like "How does answering that help us?" or "We have more important things to think about". If any ship USC ship leaves, she and Ventrassi ships decloak from the battle station go with them. Maybe they don't go with Grimaldi ships because they are too fast?
+
+## VENTRASII
+Rumor has it that the Ventrasii have occupied 6 worlds in the cluster and begin laying eggs or fertilizing eggs or making coccons or something. How could the USC or even Grimaldi allow this? I guess they have helped us so many times we owe them big, but this big? Isn't their space large enough to do it there? Or are the allicrocigators too dangerous?
+
+## USC MILITARY
+Rumor has is that the USC military has requested a secret budget of gargantuan proportions. Aren't we a post scarcity society? What could possibly qualify as that? Is this part of the new mandatory service requirements the USC has reinitiated? The Sabra-Fenrir don't mind because they have a 6 year manditory service requirement, but what about the 90% of their populations that are human? That must be what all the construction on Meridian IV is all about.
+
 ## AMBASSADOR BARONESS ROCHELLE SABRA
 Rumor has it that the Ambassador Baroness Rochelle Sabra has been seen getting herself all dressed up and then taking some private leaves. Has she finally found the man she feels is worthy of her? Who could it be? All the most reasonable eligible bachelors have had their schedules combed through, by envious men who long for her from a distance no doubt, and no one's schedule seems to match her own leaves. People she was cold and distant to have noticed a bit of a thaw, apparently because she doesn't need to keep suitors at bay anymore. It seems to be anyone's guess. Other than the telepaths who probably won't tell. But they know, they know. 
 
