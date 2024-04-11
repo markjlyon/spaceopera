@@ -1,5 +1,14 @@
 # PLANET NINE NEWS
 
+## KEPTRA USC MEMBERSHIP?
+So, the Keptra Empress has officially applied for USC provisional membership and begun legal and cultural changes for the Keptra as a whole. And the USC Empress has approved the request for review. Talk about fast tracking something! The Keptra are going to have one heck of a time getting rid of their closed borders, slaves and weird honor based caste system, but considering the alternatives in this day and age who wouldn't want the protection of the USC when half your fleet was lost to, well, the USC? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
+## START YOUR ENGINES
+The first every Merdian III Cup Series is about to start! Racers can test out their skills and repulsors in the new VARLAR School for Racing and get your official license! Tryouts begin in earnest for the first Cup! I already signed up so I will see you there! Keep listening as I bring everything in the black out into the light! Stay strange my friends! 
+
+## BY THE PRICKING OF MY THUMBS
+Time for some good old detective work my friends! Something has ruffled the Chigru and caused them to abandon their Meridan III consulate. Rumors are running wild like an opened bag of cats high on catnip! First they asked for a map of the whole USC and all its worlds, then they just pull up stakes and leave USC territory? Are they preparing for hostilities? They have been abiding by the Red Book almost religiously up to this point, so what changed? They helped out the USC during the FDK war, so would they just turn on us? There's still come pieces missing. Maybe something is threatening them? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
 ## CLAN SCORPION SURRENDERS
 Well, well, well. It appears that one of the Keptra clans who lost their Dime-Yo-Yo-Yo, the scorpions, have decided to send a ~~hostage~~ diplomat so as to not anger the USC and lose any additional worlds to the Planetary Nut Cracker™. She is very apologetic and cooperative but it makes you wonder who's in charge of her clan and who is running the other beat down clans that also lost their Dime-Yo-Yo-Yos. Can we expect more clan ~~hostages~~ diplomats? What about visits from any new clan Dime-Yo-Yo-Yo's? Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
