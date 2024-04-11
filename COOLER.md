@@ -1,5 +1,11 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## MANDATORY SERVICE
+Rumor has it that the USC will implement mandatory service in about a month, will require a 4 year military service commitment or an 8 year social service commitment if you can't or won't do the military service. People are mostly on board with it because right now the USC military is a very romantic notion and is seen in a really positive light, others are happy because they like idea of purposeful social services, and the rest because they really have nothing better to do and like the idea of being able to vote and own land. Mandatory age ranges are, depending on human genome type or race, from 16 to 32. They will allow for some exceptions that postpone the date, but all must eventually serve.
+
+## ANGEL, STACY, AND TONY
+Rumor has it that the Grimaldi Labels tours with Angelique, Stacy, and Antony were a resounding success! It culminated in a final tour stop at the battle station where with three groups performed together! All personnel that wanted the time off to see the final performance had it granted, with The Oracle providing assurances about safety and hundreds androids carrying on the basic maintenance work during any absences.
+
 ## EMPRESS KATERINA I
 Rumor has it that the USC Empress has officially moved her residence to the USC Celestia for the forseeable future. The claim is she doesn't command it or even involve herself in daily activities of the ship, just that she feels she needs to be ready to quantum anywhere at a moments notice.
 
