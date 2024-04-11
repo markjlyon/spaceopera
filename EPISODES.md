@@ -2,6 +2,16 @@
 
 ## SEASON TWO
 
+### EPISODE 02x12 - A STORM IS COMING
+
+The discovery of the Juggernaut tiggers the USC protocols for an Extinction Level Event.
+
+The USS Celestia and USC Ares begin a concerted effort to evacuate Chigru colonies in the path of the Juggernaut.
+
+The wedding of Triumverate Sabra and his secret bride takes place.
+
+The public learns of the approaching E.L.E.
+
 ### EPISODE 02x11 - ALL ROADS LEAD TO ROME
 
 The Chigru ask for a complete disclosure of all USC territories and worlds, but when asked why their answers just leave more questions.
