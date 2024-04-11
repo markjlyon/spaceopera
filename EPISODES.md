@@ -6,11 +6,9 @@
 
 The discovery of the Juggernaut tiggers the USC protocols for an Extinction Level Event.
 
-The USS Celestia and USC Ares begin a concerted effort to evacuate Chigru colonies in the path of the Juggernaut.
+The USS Celestia and USC Ares begin a concerted effort to evacuate Chigru colonies in the path of the Juggernaut's expansion with thousands in attendence.
 
-The wedding of Triumverate Sabra and his secret bride takes place.
-
-The public learns of the approaching E.L.E.
+The wedding of Triumverate Sabra and his secret bride takes place on the entire observation deck of the battle station.
 
 ### EPISODE 02x11 - ALL ROADS LEAD TO ROME
 
