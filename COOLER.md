@@ -1,6 +1,7 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
-## 
+## EMPRESS KATERINA I
+Rumor has it that the USC Empress has officially moved her residence to the USC Celestia for the forseeable future. The claim is she doesn't command it or even involve herself in daily activities of the ship, just that she feels she needs to be ready to quantum anywhere at a moments notice.
 
 ## PORTIA
 Rumor has it that the Ventrasii ambassador Portia has been hanging around the USC Captains and the CEO of Grimaldi. It seems to have started after a distant trip near or to Chigru space. She went into her shuttle, back to the Peacock, spent several days there, then returned an absolutely driven person, injecting herself into all the meetings and discussions she can. She rarely says anything, but when she does it is direct, detailed, on point, and missing any sense of evasion. She still doesn't answer personal or cultural questions, but her responses have become things like "How does answering that help us?" or "We have more important things to think about". If any ship USC ship leaves, she and Ventrassi ships decloak from the battle station go with them. Maybe they don't go with Grimaldi ships because they are too fast?
