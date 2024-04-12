@@ -35,15 +35,20 @@ A chrononaut that performs a BACKSTEP suffers from termporal decoherence for a p
 
 Temporal decoherence causes changes to the new timeline due to the arrival of the chrononaut. These changes are unpredictable but never result in eliminating the need for the BACKSTEP. Many events that happened in the previous timeline leading up to the BACKSTEP may have changed, including a coin toss result, which teams win a sporting event, or which tree was struck by lightning. Only events during the temporal decoherence are affected.
 
+### TEMPORAL MORTALITY
+A chrononaut that performs a BACKSTEP suffers from termporal mortality for a period of 5 days, starting from the moment they arrive in the past until they reach the same point in time they initiated the BACKSTEP.
+
+During this period if the chrononaut dies, their death becomes locked in to that moment in time and nothing, not even another chrononaut, can prevent their death. Even if the circumstances that caused their death are prevented, such as by another chrononaut, when that exact moment in time arrives they simply die. Once the period of temporal mortality ends, the chrononaut can be saved from death like anyone else.
+
 ### TEMPORAL SIGNIFICANCE
-Every object, being, and event in a timeline has a temporal significance that indicates how much the future relies on that object, being, or event. This temporal significance can be detected by specialized devices and some beings from different dimensions or timelines.
+Every object, being, and event in a timeline has a temporal significance that indicates how much the future relies on that object, being, or event. This temporal significance can be detected by specialized equipment and some beings from different dimensions or timelines.
 
 Temporal significance ratings detemine the damage caused to the timeline and its parallels if the object or being does not continue to sit in its proper spacetime and are measured with a value between 0 to 1000, with 0 usually representing something or someone from outside the current timeline while 1000 representing something or someone the future is absolutely dependent upon.
 
 Ratings vary greatly and objects and beings have ratings that might seem counter intuitive. A old coin might have a temporal significance rating of 891 while the leader of a planet that ended slavery might only have a temporal significance rating of 117. 
 
 ### 5 DAYS
-Due to the limits of available fuel and size of the temporal reactor, each BACKSTEP is limited to 5.012 standard USC days.
+Due to the limits of available fuel and size of the temporal reactor, each BACKSTEP is limited to exactly 5.012 standard USC days.
 
 ### PILOT
 The chrononaut and their past self merge upon their arrival to the past, causing the past self to "disappear" leaving only chrononaut. There are never two instances of the chrononaut. This is one way to identify a BACKSTEP has occurred even if the chrononaut hasn't made contact. The health of the chrononaut can be based entirely on the future version, entirely on the past version, or somewhere in between. So far it has been impossible to determine in advance and is believed to have something to do with temporal decoherence. Since the chrononaut is usually injured during the BACKSTEP it can be significant if both the past and future versions are injured, as the chrononaut will usually be in fairly bad shape upon arrival.
@@ -51,7 +56,11 @@ The chrononaut and their past self merge upon their arrival to the past, causing
 ### DODECAHEDRON
 The dodecahedron merges with it's past self and becomes one in the same manner as a chrononaut at the landing coordinates. There are never two instances of the dodecahedron. The disappearance of the dodecahedron is a clear sign a BACKSTEP has occurred, unless the BACKSTEP arrived at the same location as the past dodecahedron.
 
-The core temporal plate pairs at the top and bottom of the dodecahedron are indestructable allowing them to be retrieved in cases of catastrophe. The dodecahedron vehicle shell and pilot cockpit area on not so fortunate.
+The core temporal plate pairs, the actual time travel machinery itself, sit at the top and bottom of the dodecahedron and are indestructable, allowing them to be recovered and resuded in cases of catastrophe. The dodecahedron vehicle shell and pilot cockpit area on not so fortunate.
+
+Strangely, while the dodecahedron is not under the 5 day Temporal Censorship restriction, anyone that looks at it will be forever unable to forget or unsee it. This is why so many of the support staff now work for the BACKSTEP project, because they witnessed it outside the restrictions of Temporal Censorship. This is a security risk because enemy telepaths could learn of the existence of BACKSTEP. Actions are taken to harden the minds of chrononauts in case such an event occurs. 
+
+Beings that observe the dodecahedron outside the Temporal Censorship window can be made to forget about seeing it, which helps in situations where the dodecahedron appeared in front of witnesses.
 
 ### FUEL
 There is limited fuel for the BACKSTEP dodecahedron reactor with no known way to acquire or make more, so each use of a BACKSTEP must be solely for the purposes of the survival of the USC.
@@ -61,5 +70,11 @@ Recently an additional fuel source was discovered which increases the number of 
 ~~OOC NOTE:
 High powered Inanimate Matter Manipulators with high a hgih enough rating can produce this fuel, but no one has thought of this before because no one has been powerful enough to try up until now.~~
 
-### TEMPORAL MORTALITY
-While on a mission the chrononaut is outside of the normal timestream until they return to their normal timestream. So if a chrononaut travels back 5 days, he will be outside of the normal timestream until he returns to the time when he made the BACKSTEP. During this time if the chrononaut dies he is dead. a different chrononaut can't go back and save him or stop him from going on the mission to prevent his death. No matter what happens, he will die at exactly the same date and time. Once he reenters the timestream at his departure point, he can be affected like everyone else including being saved from death by another chrononaut.
+### PSYCHOLOGICAL OBSERVATIONS
+Nick Forrest is chrononaut #9. The other chrononauts all suffered tragically under the Temporal Mortality restriction, save one. Chrononaut #5, Terance Williams, broke under the stress of time travel and was retired to a specialized care facility where he lives out his life in a simsense reality with just enough successes over failures that he belives his new better reality to be the real world.
+
+What drove #5 to his breakdown was his inability to connect with others in a meaningful way long term, because his BACKSTEP missions would eliminate any successful romantic connections from the previous 5 days. In his words, "How many first dates and first date rejections does a man have make with just one woman?"
+
+There is some concern that #9 has begun a similar cycle of losig successful connections with a romantic interest due to his own numerous BACKSTEP missions. #9 will be carefully monitored.
+
+Unfortunately all experiments to keep other personnel, including romantic interests, aware of events in the future timeline have failed. These tests included simple and complex techological solutions as well as simple and complex psionic solutions. Although people believe that they experienced and felt certain things in the future timeline, they don't feel that way in the present timeline and knowledge of the future timeline seems to sour them to feeling the same way too soon.
