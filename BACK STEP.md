@@ -33,31 +33,33 @@ Temporal censorship prevents any technology  or psionic powers from seeing the c
 ### TEMPORAL DECOHERENCE
 A chrononaut that performs a BACKSTEP suffers from termporal decoherence for a period of 5 days, starting from the moment they arrive in the past until they reach the same point in time they initiated the BACKSTEP.
 
-Temporal decoherence
-Travelling into the past causes minor things to change, so it is impossible to guarantee you can benefit in the past with knowledge of the future. This applies primarily to unplanned events like sports and games of chance. Deliberate actions with large scale consequences generally remain the same, but it is possible they happen sooner or later than the original event.
-
-Having said that, some events appear impossible to prevent or alter. If you try to interrupt someone before they make a great scientific discovery, whatever sparked that moment of realization will still happen but in a different way. This is true for many things the stability of the future depends upon, like the discovery of the transistor or fusion reactors.
+Temporal decoherence causes changes to the new timeline due to the arrival of the chrononaut. These changes are unpredictable but never result in eliminating the need for the BACKSTEP. Many events that happened in the previous timeline leading up to the BACKSTEP may have changed, including a coin toss result, which teams win a sporting event, or which tree was struck by lightning. Only events during the temporal decoherence are affected.
 
 ### TEMPORAL SIGNIFICANCE
-Every thing and event in a timeline has a temporal signature that determines how much the future relies on that thing or event. This signature can only be detected by devices or beings from different times.
+Every object, being, and event in a timeline has a temporal significance that indicates how much the future relies on that object, being, or event. This temporal significance can be detected by specialized devices and some beings from different dimensions or timelines.
 
-Temporal significance is measured in ratings between 0-1000.
+Temporal significance ratings detemine the damage caused to the timeline and its parallels if the object or being does not continue to sit in its proper spacetime and are measured with a value between 0 to 1000, with 0 usually representing something or someone from outside the current timeline while 1000 representing something or someone the future is absolutely dependent upon.
+
+Ratings vary greatly and objects and beings have ratings that might seem counter intuitive. A old coin might have a temporal significance rating of 891 while the leader of a planet that ended slavery might only have a temporal significance rating of 117. 
 
 ### 5 DAYS
-Due to the limits of available fuel and size of the reactor, backsteps are limited to 5 days.
+Due to the limits of available fuel and size of the temporal reactor, each BACKSTEP is limited to 5.012 standard USC days.
 
 ### PILOT
-The chrononaut and their past self will merge upon arrival to the past, causing the past self to "disappear" leaving only chrononaut. There can't be two instances of a chrononaut. This is one way to identify a backstep has occurred. The health of the chrononaut can be based entirely on the future version, entirely on the past version, or somewhere in between. So far it has been impossible to determine. Since the chrononaut is usually injured during the BACKSTEP it can be significant if both the past and future versions are injured.
+The chrononaut and their past self merge upon their arrival to the past, causing the past self to "disappear" leaving only chrononaut. There are never two instances of the chrononaut. This is one way to identify a BACKSTEP has occurred even if the chrononaut hasn't made contact. The health of the chrononaut can be based entirely on the future version, entirely on the past version, or somewhere in between. So far it has been impossible to determine in advance and is believed to have something to do with temporal decoherence. Since the chrononaut is usually injured during the BACKSTEP it can be significant if both the past and future versions are injured, as the chrononaut will usually be in fairly bad shape upon arrival.
 
 ### DODECAHEDRON
-The dodecahedron merges with it's past self and becomes one in the same manner as a chrononaut. There can't be two instances of the dodecahedron.
+The dodecahedron merges with it's past self and becomes one in the same manner as a chrononaut at the landing coordinates. There are never two instances of the dodecahedron. The disappearance of the dodecahedron is a clear sign a BACKSTEP has occurred, unless the BACKSTEP arrived at the same location as the past dodecahedron.
+
+The core temporal plate pairs at the top and bottom of the dodecahedron are indestructable allowing them to be retrieved in cases of catastrophe. The dodecahedron vehicle shell and pilot cockpit area on not so fortunate.
 
 ### FUEL
-There is limited fuel for the backstep dodecahedron with no known why to get or make more, so the use of a backstep must be for critical purposes only.
+There is limited fuel for the BACKSTEP dodecahedron reactor with no known way to acquire or make more, so each use of a BACKSTEP must be solely for the purposes of the survival of the USC.
 
-Recently an additional fuel source was discovered which might increase the number of days the dodecahedron can go back in time.
+Recently an additional fuel source was discovered which increases the number of BACKSTEP missions that can be undertaken by a significant number, allowing more flexibility in mission selection without requiring each mission to be about the survival of the USC as a whole.
 
-High powered Inanimate Matter Manipulators can produce this fuel, but no one has thought of this before because no one has been powerful enough to try.
+~~OOC NOTE:
+High powered Inanimate Matter Manipulators with high a hgih enough rating can produce this fuel, but no one has thought of this before because no one has been powerful enough to try up until now.~~
 
 ### TEMPORAL MORTALITY
 While on a mission the chrononaut is outside of the normal timestream until they return to their normal timestream. So if a chrononaut travels back 5 days, he will be outside of the normal timestream until he returns to the time when he made the BACKSTEP. During this time if the chrononaut dies he is dead. a different chrononaut can't go back and save him or stop him from going on the mission to prevent his death. No matter what happens, he will die at exactly the same date and time. Once he reenters the timestream at his departure point, he can be affected like everyone else including being saved from death by another chrononaut.
