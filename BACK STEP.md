@@ -1,35 +1,40 @@
 # PROJECT BACK STEP
 
 ## OPERATION
-The BACKSTEP project allows the USC to send one person back in time, 5 days. There are some operational rules and consequences for backsteps.
+The BACKSTEP project is the most classified secret in the USC. It allows the USC to send one person back in time 5 days. The USC uses this technology in the interest of USC galactic security.
 
 ### COMMAND STRUCTURE
 Due to the extreme need for secrecy, the number of personnel working on the BACKSTEP project is very small and it's members tightly controlled.
 
-Several Ships Made Flesh represent the "council" that determines the need for a BACKSTEP. This is because advanced AIs are not vulnerable to technological or psionic attacks. Tia, Bismark, Dominique, Harmony, and Kyrie all vote and a 4/5ths majority is needed for approval. In cases where one or more Ship Made Flesh are killed in action or unavailable, their vote is automatically in favor of a BACKSTEP.
+Several Ships Made Flesh represent the "council" that determines the need for a BACKSTEP. This is because advanced AIs are not vulnerable to technological or psionic attacks. Tia, Bismark, Dominique, Harmony, and Kyrie all vote on each BACKSTEP and a 4/5ths majority is needed for approval. In cases where one or more Ship Made Flesh are killed in action or unavailable to vote, their vote is automatically in favor of a BACKSTEP.
 
-Commander Olympia Tzimisce is the project director and has broad authority to use her telepathic abilities in service of BACKSTEP operations, even if the use of her powers violates USC law.
+Commander Olympia Tzimisce is the project director and has broad authority to use her telepathic abilities in service of BACKSTEP operations, even if the use of her powers violates USC law. She views herself as BACKSTEP Director first, and USC Military PSICorps member second.
 
-Bradley Sherman is in charge of BACKSTEP security and intelligence.
+Nathan Sherman is in charge of BACKSTEP security and intelligence. He is a Drago-Kadsai Zendai.
 
-Doctor Morris Watts handles all research on BACKSTEP, theoretical development, and coordinate calculations. He is an older USC radiation cluster survivor.
+Doctor Morris Watts handles all research for BACKSTEP, theoretical development, and temporal coordinate calculations. He is an older USC radiation cluster survivor.
 
-Doctor Saoirse Delaplane handles all medical and psychological issues for the chrononauts. She is a Conclave Zendai.
+Doctor Saoirse Delaplane handles all medical and psychological issues for the chrononauts, she is also a trained backup for temporal coordinate calculations and BACKSTEP launch operations. She is a Conclave Zendai.
 
-Toff Garnet handles the engineering, systems repair, and improvements. He can also perform coordinate calculations. He is a USC engineer who "died" in the line of duty. His wife, Rose, is a Sabra Courtesan, and they never desire to leave the BACKSTEP facilities.
+Toff Garnet handles the engineering, systems repair, and improvements of the BACKSTEP program. He can also perform coordinate calculations and launch operations. He is a USC engineer who "died" in the line of duty. His wife, Rose, is a Sabra Courtesan, and they never desire to leave the BACKSTEP facilities. He knows and doesn't care if she's a courtesan.
 
-Nicholas Forrest is the only living chrononaut. He is a Daear jaunter with a photographic memory.
+Nicholas Forrest is the only living chrononaut. He is a Daear jaunter with a high pain threshold and possesses photographic memory. His jaunt range is currently unknown.
 
 ### ENIGMA
-Chrononauts are sent into the past with highly secure information about the mission with all the intelligence they gathered up to the BACKSTEP. Sometimes this information is complete, sometimes there is very little information. The chrononaut also possesses an unforgeable programmable matter deposit in the form of a tattoo as well as a hidden memory area only powerful telepaths can access so their identity can be confirmed. 
+Chrononauts are sent into the past with highly secure information about the mission with all the intelligence they gathered up to the moment of the BACKSTEP. Sometimes this information is complete, sometimes there is very little information, and rarely there is none. The chrononaut also possesses an unforgeable programmable matter deposit in the form of a tattoo as well as a hidden memory area only very powerful telepaths can access so their identity can be confirmed. 
 
-Once a BACKSTEP is performed the chrononaut uses the keyword ENIGMA to alert anyone in the project that a mission is active. Once their identity is confirmed, Tzimisce hands command over to the chrononaut and their word on the mission is final.
+Once a BACKSTEP is performed the chrononaut makes contact using the keyword ENIGMA to alert personnel that a mission is active. Once their identity is confirmed, Tzimisce hands command over to the chrononaut and their word on the mission is final.
 
 ### TEMPORAL CENSORSHIP
-A chrononaut can't BACKSTEP more than once to the same period in the past, unless a visit to a time period is undone by other events, effectively leaving that time period again unvisited.
+A chrononaut that performs a BACKSTEP is temporally censored for a period of 5 days, starting from the moment they arrive in the past until they reach the same point in time that they initiated the BACKSTEP.
+
+Temporal censorship prevents any technology  or psionic powers from seeing the chrononaut or their events during the entire temporal censorship period. 
 
 ### TEMPORAL DECOHERENCE
-Travelling into the past causes minor things to change, so it is impossible to guarantee you can benefit in the past with knowledge of the future. This applies primarily to unplanned events like sports and games of chance. Deliberate actions generally remain the same, but it is possible they happen sooner or later than the original event.
+A chrononaut that performs a BACKSTEP suffers from termporal decoherence for a period of 5 days, starting from the moment they arrive in the past until they reach the same point in time they initiated the BACKSTEP.
+
+Temporal decoherence
+Travelling into the past causes minor things to change, so it is impossible to guarantee you can benefit in the past with knowledge of the future. This applies primarily to unplanned events like sports and games of chance. Deliberate actions with large scale consequences generally remain the same, but it is possible they happen sooner or later than the original event.
 
 Having said that, some events appear impossible to prevent or alter. If you try to interrupt someone before they make a great scientific discovery, whatever sparked that moment of realization will still happen but in a different way. This is true for many things the stability of the future depends upon, like the discovery of the transistor or fusion reactors.
 
