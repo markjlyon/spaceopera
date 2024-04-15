@@ -1,6 +1,6 @@
 # PLANET NINE NEWS
 
-## THE CHECKED FLAG IS WAVED
+## THE CHECKERED FLAG IS WAVED
 People are lining by by the millions to get their licenses and try out for the upcoming VARLAR Cup Series exhibition races! This is where the they separate the popped kernals from the unpopped folks! I have heard that the four big artists from Grimaldi are going to be there! Fast women, faster cars, and the fastest pours in the quadrant awaits us all! Maybe now that Baroness Emesyn has her figure back after squeezing out her kin, she can be a starter girl? In a tight and skimpy outfit? Hubba hubba! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
 ## GIANT ALIEN PLANET KILLER DEFEATED
