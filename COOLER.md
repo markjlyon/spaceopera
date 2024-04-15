@@ -1,13 +1,13 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
 ## RYSZARD BOSCH
-Rumor has it that Ensign Ryszard Bosch has requested a transfer to Security from the PSICorps. Details are sketchy but it seems he thinks the PSICorps isn't the right fit for him, because his psionics are very different they "spend too much time in other peoples heads". Supposedly they asked him to stay and would tweak his assignment for him, but he seems pretty adamant. Perhaps they will put him in the same squad as Martin Balsim, aka "Sledgehammer", to maybe keep him in check so he doesn't hurt anyone else?
+Rumor has it that Ensign Ryszard Bosch has requested a transfer to Security from the PSICorps. Details are sketchy but it seems he thinks the PSICorps isn't the right fit for him, because his psionics are very different and they "spend too much time in other peoples heads". Supposedly they asked him to stay and would tweak his assignment for him, but he seems pretty adamant. Perhaps they will put him in the same squad as Martin Balsim, aka "Sledgehammer", to maybe keep him in check so he doesn't hurt anyone else?
 
 ## ISOBEL DUKE
 Rumor has it that Lt Cmdr Isobal Duke has started dating Bismark. Yes, that Bismark. She started hanging out with Captain Zoe Marchant once she was given command of the battle cruiser and just kept hanging around. It appears now we know why.
 
 ## PORTIA
-Rumor has it that Portia, the Ventrasii ambassador, is looking for a romantic partner? What? Isn't she a cringy alien? Isn't she always evasive about her people's motives and culture? Do they do human sacrifce? Is she going to lays in her partner? What kind of man, knowing her history, could have any interest in her? People are talking about her very recent change in appearance and behavior, and we could see how someone would be attracted to her. But marry? Seems impossible given other rumors about her.
+Rumor has it that Portia, the Ventrasii ambassador, is looking for a romantic partner? What? Isn't she a cringy alien? Isn't she always evasive about her people's motives and culture? Do they do human sacrifce? Is she going to lay eggs in her partner? What kind of man, knowing her history, could have any interest in her? People are talking about her very recent change in appearance and behavior, and we could see how someone would be attracted to her. But marry? Seems impossible given other rumors about her.
 
 ## MANDATORY SERVICE
 Rumor has it that the USC will implement mandatory service starting in about a month, and will require a 4 year military service commitment or an 8 year social service commitment if you can't or won't do the military service. People are mostly on board with it because right now the USC military is a very romantic notion and is seen in a really positive light, others are happy because they like idea of purposeful social service, and the rest because they really have nothing better to do and like the idea of being able to vote and own land. Mandatory age ranges are, depending on human genome type or race, from 16 to 32. They will allow for some exceptions that postpone the date, but all must eventually serve.
