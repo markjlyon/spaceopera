@@ -2,6 +2,14 @@
 
 ## SEASON TWO
 
+### EPISODE 02x13 - THE TERRIBLE SECRET OF SPACE
+
+The retraces the path of the Juggernaut and has a grim realization.
+
+The Chigru are greatful but begin behaving strangely with both words and actions.
+
+Sigmund figures out how the cloak works and the USC begins the lay the hull for a new class of ships.
+
 ### EPISODE 02x12 - A STORM IS COMING
 
 The discovery of the Juggernaut tiggers the USC protocols for an Extinction Level Event.
