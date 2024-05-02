@@ -1,5 +1,8 @@
 # PLANET NINE NEWS
 
+## OLD ALIEN SPECIES / NEW NAME
+So folks the Space Wars™ appear to be starting up again! Happy happy joy joy! Although history has given them many names, they are currently called the SPECTRAL. Sounds kinda like SoulDra but my spies inside the USC say they are a different, older species that have been around londer than humans. These SPECTRAL have only been aggressive in the past and kinda like the Ventrasii, they never speak to us. They seem to be expanding their borders on some newly discovered human governments in the Gamma quadrant. USC to the rescue! At least this war will only last a few days! YONG-KO! BATTLE BRIDE! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
+
 ## UNITED SERVICE ORGANIZATION
 The USC has instituted the United Service Organization (USO) to support and entertain our biological and non-biological service personnel! This is great news peeps because although Tony and Disasterpiece already served their tours of duty, Angelique and Stacy have only recently started their service and we would have lost them for at least 4 years if they couldn't do their tours in the USO! I imagine this will be true for most new entertainers with the new mandatory service requirements! Thank my lucky stars I already did my time before we joined the USC! Keep listening as I bring everything in the black out into the light! Stay strange my friends!
 
