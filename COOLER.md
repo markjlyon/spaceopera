@@ -1,5 +1,15 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## AMBASSADOR PORTIA
+
+Rumor has it that Baroness Imogene has started an earnest campaign to find Ambassador Portia a romantic partner. The number of potential partners has, sadly, been very low much to the frustration of the Baroness. Even Ambassador Portia seems disappointed. She has really become a beauty; warm, charming, funny, seductive, and a little mysterious. Even her eye color has gone from that menacing glowing red to a beautiful bright blue. She even seems to be, well, human. New people that no nothing about her are in disbelief she is an alien. Most people suspect she is now operating like a Ventrasii infiltrator, but is being open about what she is with a fully created personality including little quirks like absent mindedly toying with her necklace and showing moments of genuine surprise. The really weird part is that PSICorps is now able to read her thoughts, although her real thoughts are probably still hidden like an actual infiltrator.
+
+## JOHN KRIEGER
+Rumor has it that Lt Cmdr Krieger might have met his match as all his constant flirting seems to have abruptly stopped. He has even been seen trying to secretly apologize to a couple of one-night stands! No one is sure who this match might be but the rumors are endless. A Sabra-Fenrir noble? An Ambassador? The Ventrasii Portia? Empress Katerina? Some nobody on the battle station or Meridan worlds? All guesses are up. He just smiles sheepishly when asked about it.
+
+## EMPRESS KATERINA
+Rumor has it that Empress Katerina has been entertaining the finest efforts at winning her hand from the richest, most powerful, most noble bloodlines from all around the USC. It's hard to know how successful some of them have been, but most of them leave the Imperial Palace shortly after the initial couple of days. Only a handful have remained after communicating their interest, but whether it's out of genuinely still be in the running or hoping if the stick around she might change her mind, is unknown. It is rumored that she seems to have an uncanny sense of her suitors, knowing their secrets and confronting them during the interview process about how certain aspects of their past would affect the throne. At this point there doesn't seem to be a front runner. Once all the rich nobles get out of the way, maybe she will pick a down to earth person as her Prince?
+
 ## RYSZARD BOSCH
 Rumor has it that Ensign Ryszard Bosch has requested a transfer to Security from the PSICorps. Details are sketchy but it seems he thinks the PSICorps isn't the right fit for him, because his psionics are very different and they "spend too much time in other peoples heads". Supposedly they asked him to stay and would tweak his assignment for him, but he seems pretty adamant. Perhaps they will put him in the same squad as Martin Balsim, aka "Sledgehammer", to maybe keep him in check so he doesn't hurt anyone else?
 
