@@ -4,8 +4,8 @@
 
 The USC and many other highly advanced governments use the physical material known as Latinum (£) as currency.
 The advantage of Latinum is that is it not a fiat currency, it's value is based on how much of it exists.
-Latinum's main advantage over other currencies is that it can't be replicated or manufactured.
-It represents the highest value currency in the galaxy.
+Latinum's main advantage over other currencies is that it can't be manufactured, replicated, or moved by a transporter.
+It represents the highest value currency in the galaxy due to the difficulty in stealing it and the impossibility of forging it.
 
 | Denomination | Conversion | Credits     | Nin        |
 | ------------ | ---------- | ----------  | ---------- |
