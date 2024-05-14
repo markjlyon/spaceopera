@@ -1,21 +1,15 @@
 # USC ECONOMICS
 
-## LATINUM Denominations
+## GOLD PRESSED LATINUM
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| Denomination | Conversion |
+| -------- | -------   |
+| 1 Brick  | 100 Bars  |
+| 1 Bar    | 100 Slips |
+| 1 Strip  | 100 Slips |
 
-1 brick
+## ZENDAI CREDITS
 
-conversion unknown
+Zendai governments use a form of credit that while having different names (Hearts, Crowns, etc.) are all similarly based.
 
-1 bar
-
-20 strips
-
-1 strip
-
-100 slips
+1 Credit is subdivided into 5 decimal places wiht
