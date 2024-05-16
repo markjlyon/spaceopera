@@ -68,3 +68,69 @@ Patent officers often have legal status, and thus generally have the equivalent 
 
 #### QUANTUM SLIPSTREAM DRIVE
 
+## PROFESSIONS
+Professions represent Branchs and Tours for non-USC Military personnel.
+
+### Artist (two specific arts) {Metatech}
+Artist concentrations include playing an instrument, novel writing, sculpture, singing, dancing, painting, infosphere design, and any other sort of aesthetic endeavour.
+Since most artists have more than a single talent, those who pick the Artist Profession can choose two specialties, such as singing and playing the guitar.
+
+Good artists will also know how best to arrange and sell their wares, incorporate memetic techniques, critique the works of others, and have good networking skills.
+
+All tasks for this Profession are considered highly specialized. 
+Someone without any levels in this Profession is stuck drawing stick figures.
+
+### Athlete (specific sport) {Biotech}
+Good athletes can not only play their sport of choice, they can promote themselves, work up crowds, and analyze other teams' strategies.
+
+There are two specialized tasks for Athletes: coaching, and recalling obscure or rarely-used rules such as baseball’s infield fly rule.
+
+### Courtesan {Metatech}
+Courtesan is rarely a character's only Profession.
+It's the art of attracting people of your preferred gender(s), having a good time out on the town with them, and perhaps taking them home for some snuggling.
+Many people pick up a Tour or two of Courtesan, but only prostitutes and "escorts" do it for a living.
+
+Specialized tasks for Courtesans are adult in nature.
+
+### Criminal {Metatech}
+Criminals know how to break the incredibly effective security measures found in the lower-technology civilizations, and how to run numbers or confidence scams that circumvent them in the high-tech civilizations.
+They know other criminals, can critique law enforcement and security methods, and can sneak around to evade capture.
+
+Almost all Criminal tasks are specialized.
+Running a simple scam like three-card monte is not, but such things are unlikely to fool anyone in this age.
+
+**Special Note**: This Profession is only available at character creation to those who belong to an organized crime group or society.
+Others must purchase it during the game, through trial and error (imprisonment).
+
+### Crisis Control {Nanotech}
+Crisis Control includes firefighting, riot control, paramedic, and nanophage response training, as well as the ability to remain calm under fire and react quickly to danger. Crisis Control specialists are essential in any city, and can easily find work.
+
+Responding to any sort of life-threatening event is a specialized task. In other words, if you really need Crisis Control, you’d better have it.
+
+### Engineer (specific tech) {Cognitech}
+Concentrations for this Profession are the five major technologies: Biotech, Cognitech, Metatech, Nanotech, and Stringtech.
+
+Engineers do practical things with their technology of choice.
+All engineers can create and critique the designs for devices or procedures that fall under their concentration.
+Biotech engineers make living organisms or apply them to a given problem.
+Cognitech engineers make Meshes and Foci.
+Metatech engineers are active psychohistorians or culture designers.
+Nanotech engineers work with construction, from bridges to nanophages.
+Stringtech engineers make weapons, power plants, and starships.
+
+All tasks for this Profession are considered specialized.
+
+| Profession Learning Time |
+| Level | Total Years |
+| ----- | ----------- |
+|  1 |   1 |
+|  2 |   4 |
+|  3 |  10 |
+|  4 |  20 |
+|  5 |  35 |
+|  6 |  56 |
+|  7 |  84 |
+|  8 | 120 |
+|  9 | 165 |
+| 10 | 220 |
+
