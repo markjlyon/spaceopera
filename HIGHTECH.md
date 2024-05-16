@@ -241,7 +241,10 @@ Modern teaching methods are relatively general, so one need not specialize withi
 
 There are no specialized tasks for this Profession, though one should remember that teaching without this Profession causes a point of Stress each time and can be very draining.
 
-| Profession Learning Time |
+## Profession Learning Time
+It takes time to learn a Profession.
+Characters add up the time required for each level of each Profession to determine their starting age.
+
 | Level | Total Years |
 | ----- | ----------- |
 |  1 |   1 |
