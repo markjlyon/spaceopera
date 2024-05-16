@@ -1,6 +1,6 @@
 # GALACTIC ECONOMICS
 
-## GOLD PRESSED LATINUM
+## GOLD PRESSED LATINUM (£)
 
 The USC and many other highly advanced governments use the physical material known as Latinum (£) as currency.
 The advantage of Latinum is that is it not a fiat currency, it's value is based on how much of it exists.
@@ -14,7 +14,7 @@ It represents the highest value currency in the galaxy due to the difficulty in 
 | 1 Strip      | 100 Slips  | 1.00000     | 10000      |
 | 1 Slip       |            | 0.01000     | 100        |
 
-## ZENDAI CREDITS
+## ZENDAI CREDITS (€)
 
 All Zendai governments use a form of currency known as Credits (€). 
 Each Zendai government has a unique name for their currency (Drago-Kadzai uses Crowns, Fenrir uses Marks, Sabra uses Hearts) and although exchanges fluctuate, they tend to keep a standard value with other currencies. So the Fenrir Mark was usually worth an average of 1.2 Hearts or 1.8 Crowns.
@@ -25,10 +25,19 @@ A drink might cost between 0.0050€ and 0.00250€ while a new repulsorlift veh
 
 1€ is worth approximately 1£ Strip or ₦10000.
 
-## KZINTI NIN
+## KZINTI NIN (₦)
 
 The Kzinti government uses a form of currency known as Nin (₦).
 It is based on the honor of who one has done business with so purchase prices differ based on who is the buyer and the seller.
 Used primarily to track social status, it is taken as seriously as any other currency and Kzin are extremely dilligent about their record keeping.
 
 ₦100 is worth approximiately 0.01000€ or 1£ Slip.
+
+## GRIMALDI SCRIPT (§)
+
+The Grimaldi Consortium is so large it is practically a government and uses its own currency known as Corporate Script or just Script (§).
+It is backed by the second most valuable material in the galaxy, programmable matter.
+Like Latinum it can't be forged and only the Grimaldi Consortium can manufacture it.
+Sometime the Script can also serve a useful purpose as a material or product, if programmed to.
+
+ § is worth whatever price the Grimaldi Consortium decides its worth, but §1 is usually traded for about 100€.
