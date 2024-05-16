@@ -39,14 +39,14 @@ Patent officers often have legal status, and thus generally have the equivalent 
 
 | TECH LEVEL | DAMAGE DESCRIPTION |
 | ---------- | ----------- |
-|  1 | Fists, kicks, brass knuckles. All countermeasures have the Energy-Transparent descriptor at this stage. |
+|  1 | Fists, kicks, brass knuckles. All countermeasures<br/>have the Energy-Transparent descriptor at this stage. |
 |  2 | Knives, two-by-fours, carpentry hammers. |
-|  3 | Trained martial artists, small handguns, sharp weapons with leverage (e.g. swords, axes). |
-|  4 | Rifles, large handguns, tasers, mild explosives (e.g. grenades), 20th century riot gear. |
-|  5 | Tank guns, high explosives, high-power lasers, railguns, nanoweave greatcoats. Near-c and Energy descriptors available. Countermeasures stop having the Energy-Transparent descriptor. |
-|  6 | Conventional bombs, hydrofluoric acid, compression beams, tank armor. |
-|  7 | Dissociation beams, type I nanophages. Supersymmetric descriptor available. |
-|  8 | Lightning strikes, the surface of the sun, fuelair explosions, decay-induction fields. |
+|  3 | Trained martial artists, small handguns, sharp weapons<br/>with leverage (e.g. swords, axes). |
+|  4 | Rifles, large handguns, tasers, mild explosives<br/>(e.g. grenades), 20th century riot gear. |
+|  5 | Tank guns, high explosives, high-power lasers, railguns,<br/>nanoweave greatcoats. Near-c and Energy descriptors available. Countermeasures stop having the Energy-Transparent descriptor. |
+|  6 | Conventional bombs, hydrofluoric acid, compression beams,<br/> tank armor. |
+|  7 | Dissociation beams, type I nanophages. Supersymmetric<br/> descriptor available. |
+|  8 | Lightning strikes, the surface of the sun, fuelair<br/> explosions, decay-induction fields. |
 |  9 | Inversion beams, nuclear blasts, type II nanophages |
 | 10 | Core of the sun, fission-fusion beam, vortex sinks |
 
