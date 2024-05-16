@@ -43,7 +43,7 @@ Patent officers often have legal status, and thus generally have the equivalent 
 |  2 | Knives, two-by-fours, carpentry hammers. |
 |  3 | Trained martial artists, small handguns, sharp weapons<br/>with leverage (e.g. swords, axes). |
 |  4 | Rifles, large handguns, tasers, mild explosives<br/>(e.g. grenades), 20th century riot gear. |
-|  5 | Tank guns, high explosives, high-power lasers, railguns,<br/>nanoweave greatcoats. Near-c and Energy descriptors available. Countermeasures stop having the Energy-Transparent descriptor. |
+|  5 | Tank guns, high explosives, high-power lasers, railguns,<br/>nanoweave greatcoats. Near-c and Energy descriptors available.<br/>Countermeasures stop having the Energy-Transparent descriptor. |
 |  6 | Conventional bombs, hydrofluoric acid, compression beams,<br/> tank armor. |
 |  7 | Dissociation beams, type I nanophages. Supersymmetric<br/> descriptor available. |
 |  8 | Lightning strikes, the surface of the sun, fuelair<br/> explosions, decay-induction fields. |
