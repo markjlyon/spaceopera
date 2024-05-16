@@ -71,6 +71,22 @@ Patent officers often have legal status, and thus generally have the equivalent 
 ## PROFESSIONS
 Professions represent Branchs and Tours for non-USC Military personnel. USC Military branches not only provide cross-training among other branches, they also cross Technology Types and provide much better coverage than civilian training or experience.
 
+It takes time to learn a Profession.
+Characters add up the time required for each level of each Profession to determine their starting age.
+
+| Level | Total Years |
+| ----- | ----------- |
+|  1 |   1 |
+|  2 |   4 |
+|  3 |  10 |
+|  4 |  20 |
+|  5 |  35 |
+|  6 |  56 |
+|  7 |  84 |
+|  8 | 120 |
+|  9 | 165 |
+| 10 | 220 |
+
 ### Agriculture {Cognitech}
 This Profession covers everything you need to live off the land: when to plant and harvest, how to interpret (or make) weather predictions, how to sell your crops to the public or a distributor, how to handle livestock, irrigation and hydroponics techniques, and a basic understanding of genetic engineering.
 
@@ -240,21 +256,3 @@ Teachers instruct others in the use of a particular Profession (or, occasionally
 Modern teaching methods are relatively general, so one need not specialize within this Profession.
 
 There are no specialized tasks for this Profession, though one should remember that teaching without this Profession causes a point of Stress each time and can be very draining.
-
-## Profession Learning Time
-It takes time to learn a Profession.
-Characters add up the time required for each level of each Profession to determine their starting age.
-
-| Level | Total Years |
-| ----- | ----------- |
-|  1 |   1 |
-|  2 |   4 |
-|  3 |  10 |
-|  4 |  20 |
-|  5 |  35 |
-|  6 |  56 |
-|  7 |  84 |
-|  8 | 120 |
-|  9 | 165 |
-| 10 | 220 |
-
