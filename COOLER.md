@@ -1,5 +1,11 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## IMOGENE AND HARRISON
+Rumor has it that Cmdr Harrison Rehnquist proposed to Imogene Sabra in an elite section of the Sabra throneworld's capital city with the traditional Sabra arm bad fitting appointments made platinum and gold and encased in a rosewood gilded box. It's said she was geniunely surprised by his proposal and deeply touched by his choice to use Sabra traditions to make the appointment. Witnesses said she had practically undressed him by the time they reached the 6 heart hotel, .
+
+## HIGHGUARDIANS
+Rumor has it that the distant Highguard Empire has technology that exceeds that of the USC. It isn't exactly like ours, but it is more powerful and they might have vastly more ships. It appears they have weapons that can kill people in a similar way to how the quantum eraser kills quantum based AIs. Perhaps we should leave them alone until we can shore up our fleets?
+
 ## AMBASSADOR PORTIA
 
 Rumor has it that Baroness Imogene has started an earnest campaign to find Ambassador Portia a romantic partner. The number of potential partners have, sadly, been very low, much to the frustration of the Baroness. Even Ambassador Portia seems disappointed. She has really become a beauty; warm, charming, funny, seductive, and a little mysterious. Even her eye color has gone from that menacing glowing red to a beautiful blue. She even seems to be, well, human. She even has freckles and a moles. People that know nothing about her are in disbelief she is an alien. Most people with knowledge of the Ventrassi suspect she is now operating like an infiltrator, but is being open about what she is with a fully crafted personality including little quirks like absent mindedly toying with her necklace and showing moments of genuine surprise. The really weird part is that PSICorps is now able to read her thoughts, although her real thoughts are probably still hidden like an actual infiltrator.
