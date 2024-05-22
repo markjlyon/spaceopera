@@ -10,3 +10,4 @@ Bababraham reveals is really Drago Ivani, but even Drago Ivani was another ident
 - Bababraham created the Zendai to naturally breed psionics out of humanity, since psionics is from another universe.
 - The Patent Office will allow individuals to submit intellectual property, independent of any organizational entity, so they can earn their own value to be used on licenses.
 - He trusts Shara, likes Kiari and Tarna, but calls Shara's people, known as Xiilii, hypocrites and wants nothing to do with them.
+- He believes the SoulDra are most likely a slave race forced to capture or convert psionics from this universe.
