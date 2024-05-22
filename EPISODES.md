@@ -2,9 +2,25 @@
 
 ## SEASON TWO
 
+### EPISODE 02x15 - MERGERS
+
+A great wedding is held with anyone of importance in attendance at the Marquis estate, but a pleasant surprise awaits everyone.
+
+Attempts are made to create and strengthen alliances.
+
+A terrifying enemy reveals itself to be more powerful than when first encountered. 
+
+### EPISODE 02x14 - CODE 505
+
+Cornia Bathe is kidnapped and everyone rightly fears for the worse.
+
+A glimpse of the Highgardian tech level creates concern for the USC and its allies.
+
+The truth about Bababraham is revealed.
+
 ### EPISODE 02x13 - THE TERRIBLE SECRET OF SPACE
 
-The retraces the path of the Juggernaut and has a grim realization.
+The USC retraces the path of the Juggernaut and has a grim realization.
 
 The Chigru are greatful but begin behaving strangely with both words and actions.
 
