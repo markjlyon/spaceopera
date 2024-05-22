@@ -50,21 +50,107 @@ Patent officers often have legal status, and thus generally have the equivalent 
 |  9 | Inversion beams, nuclear blasts, type II nanophages |
 | 10 | Core of the sun, fission-fusion beam, vortex sinks |
 
-#### JUMP DRIVE
+#### PROGRAMMABLE MATERIAL {Nanotech}
+Nanotech programmable material consists of extremely advanced nanites and microbots that construct themselves into the required blueprint pattern provided via a schematic or license. This is a permanent change. Once completed, the programmable material can't be changed. Its component materials could be broken down and used as raw materials for another batch of programmable materials, but this is usually more time consuming than its worth.
 
-#### HYPERSPACE DRIVE
+Programmable materials are primarily used to _cover_ existing surfaces and structures with interfaces, displays, lighting, circuitry, etc. Even though it can be made to appear, feel, and sound like other materials, it is still just made of nanites and microbots. Scanners will detect programmable materials as nanites and microbots.
 
-#### HYPERSPACE FOLD GENERATOR
+Although it could be used to create tools, equipment, and objects, it is more efficient to just use a replicator {Nanotech} which is primarily used to _build_ real things.
 
-#### LIGHT-FOLD DRIVE
+Programmable materials cannot duplicate things like programmable matter, latinum, and other such sub-atomic, extra-dimentional, or extra-universal objects.
 
-#### SLIPSTREAM DRIVE
+#### PROGRAMMABLE MATTER {Stringtech}
+Programmable matter consists of sub-atomic nanites that can transform their atomic housings into practically anything, provided you have the correct technical schematics. Programmable matter contains uncrackable security protocols to prevent unauthorized use of its constructs, programmability, or reprogrammability.
 
-#### WARP DRIVE
+Unlike programmable materials, programmable matter can be reprogrammed to become something else later, with only complexity and size limiting the time needed for reprogramming.
 
-#### TRANS-WARP DRIVE
+Programmable matter actually becomes whatever matter it is programmed to become. It could become a highly complex chemical and reacts as expected, it could become a dead body capable of fooling scanners, it could become tech so advanced it can't be built except with programmable matter such as power absorption panels.
 
-#### QUANTUM DRIVE
+Programmable matter is the only way to produce more programmable matter, but the process to construct new programmable matter is time and material intensive.
 
-#### QUANTUM SLIPSTREAM DRIVE
+Scanners, transporters, and other technologies can only identify programmable matter if it is in its unprogrammed state, otherwise it just appears as the matter it was programmed to be.
+
+Only the Grimaldi Consortium can make and program programmable matter.
+
+### REPLICATORS {Nanotech}
+Replicators are a much more advanced form of programmable material. Using nanites and microbots, their software works with the resolution of hydrogen atoms, so they can perfectly duplicate anything provided you have the correct schematics and licenses.
+
+Replicators can construct anything on an atomic level, atom by atom, molecule by molecule.
+
+Replicators can also copy any object, but doing so destroys the original object in the process.
+
+They can even replicate living things, including people and other sentient lifeforms, but that requires disassembling,or killing, the original in order to have the properly detailed schematic. This is how people create copies of themselves, they die with the original scan but are replicated as needed.
+
+Replicators cannot duplicate things like programmable matter, latinum, and other such sub-atomic, extra-dimentional, or extra-universal objects.
+
+#### REPLICATORS {Stringtech}
+Replicators convert energy into matter and vice versa. They can replicate anything which has a scanned pattern at the resolution of the scanned pattern. Common objects generally have low resolution scans while complex machines, electronics, and chemicals generally have high resolution scans.
+
+Replicators can never create a living thing, regardless of the resolution of the scanned pattern or quality of the replicator. You could scan a person, then replicate their body, but the replication would not be alive and would not have consciousness or memories. This may be useful in some cases for things like emergency limb replacements, but the resolution of the scanned pattern and replicator will need to be very high, otherwise the new organ or limb will never come alive after transplant.
+
+In emergencies, replicators can convert objects back into energy to provide energy for other things, but security on replicators prevent them from converting living things into energy.
+
+Replicated items can be identified if they are scanned with a higher resolution scanner than the original scanned pattern.
+
+#### TRANSPORTERS
+Transporters move atoms from one location to another, but there are several different technologies in use.
+
+##### MATTER COPY & RECONSTRUCTION
+Transporters that scan the target at the origin, disassemble it into data, transmit the data to a destination, then reassemble the data back into matter are the most common form of transporter.
+
+This transport kills any traveller at the origin location and creates a new body at the destination location. Many people don't like the idea that they die and a replacement takes over their lives as if nothing happened.
+
+One of the advantages of these types of transporters is the highly detailed scan of the targets during transport, which allows the system to identify security risks, hidden weapons, genetic information, explosives, and even take actions on the target such as disabling power, removing bombs or weapons, making chemicals insert, or even altering DNA and RNA. This is used primarily against known diseases, harmful materials, and weapons.
+
+These kinds of transporters do not work through high energy, multidimensional, or high gravity fields.
+
+This type of transporter requires at least six seconds to materialize the target at the destination, creating noticable visual and audio disturbances at both the origin and destination locations.
+
+Evidence of this kind of transporter lasts for several minutes.
+
+##### SPACIAL SLIP
+These kinds of transporters stretch and fold the spacetime containing the transport targets to the destination.
+
+These kinds of transporters do not harm the targets in any way, but also provide no information on what is being transported.
+
+These kinds of transporters do not work through high energy, multidimensional, or high gravity fields.
+
+This type of transporter requires at least three seconds to fold space between the origin and destination, creating noticable visual and audio distortions of the targets during transport. The targets are aware of nothing but the visual and audio stretching of spacetime around them during transport.
+
+Evidence of this kind of transporter lasts several hours.
+
+##### QUANTUM DISPLACEMENT
+These kinds of transporters instantly invert the target at the origin to the destination, without passing any location in between. They simply convince the universe that the target was at the destination location all along.
+
+These kinds of transporters do not work through high energy, multidimensional, or high gravity fields.
+
+Like the matter copy and reconstruction transporters, one of the advantages of these types of transporters is the extremely high detailed scan of the targets during transport, which allows the system to identify security risks, hidden weapons, genetic information, explosives, and even take actions on the target such as disabling power, removing bombs or weapons, making chemicals insert, or even altering DNA and RNA. This is used primarily against known diseases, harmful materials, and weapons.
+
+This type of transporter requires no time and creates no disturbance at the origin or destination and the targets are not aware of anything but the instant change of location during transport.
+
+This kind of transporter leaves no evidence of its use.
+
+#### FTL TECHNOLOGIES
+
+##### JUMP DRIVE
+
+##### HYPERSPACE DRIVE
+
+##### HYPERSPACE FOLD GENERATOR
+
+##### LIGHT-FOLD DRIVE
+
+##### SLIPSTREAM DRIVE
+
+##### WARP DRIVE
+
+##### TRANS-WARP DRIVE
+
+##### FARGATES
+
+##### WORMHOLES
+
+##### QUANTUM DRIVE
+
+##### QUANTUM SLIPSTREAM DRIVE
 
