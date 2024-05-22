@@ -1,10 +1,10 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
 ## IMOGENE AND HARRISON
-Rumor has it that Cmdr Harrison Rehnquist proposed to Imogene Sabra in an elite section of the Sabra throneworld's capital city with the traditional Sabra arm bad fitting appointments made platinum and gold and encased in a rosewood gilded box. It's said she was geniunely surprised by his proposal and deeply touched by his choice to use Sabra traditions to make the appointment. Witnesses said she had practically undressed him by the time they reached the 6 heart hotel, .
+Rumor has it that Cmdr Harrison Rehnquist proposed to Imogene Sabra in an elite section of the Sabra throneworld's capital city with the traditional Sabra arm bad fitting appointment reservation made from platinum and gold and encased in a rosewood gilded box. It's said she was geniunely surprised by his proposal and deeply touched by his choice to use Sabra traditions. Witnesses said she had practically undressed him by the time they reached the wedding band jewelers for their fitting. They then entered the nearby 6 heart rating Luxe Royal Heart hotel, were they weren't seen again publically for the next three days. The assumption is she was still working on Alexandra and Kelvin's wedding off and on during that time.
 
 ## HIGHGUARDIANS
-Rumor has it that the distant Highguard Empire has technology that exceeds that of the USC. It isn't exactly like ours, but it is more powerful and they might have vastly more ships. It appears they have weapons that can kill people in a similar way to how the quantum eraser kills quantum based AIs. Perhaps we should leave them alone until we can shore up our fleets?
+Rumor has it that the distant Highguard Empire has technology that exceeds that of the USC. It isn't exactly like ours, but it is more powerful and they might have vastly more ships. It appears they have weapons that can kill people in a similar way to how the quantum eraser kills quantum based AIs. They also possess some kind of quantum tunnel or wormhole technology that goes through the Morrigan's armor. Perhaps we should leave them alone until we can shore up our fleets with better weapons and defenses?
 
 ## AMBASSADOR PORTIA
 
