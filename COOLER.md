@@ -1,7 +1,7 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
 ## EMPRESS KATERINA I
-Rumor has it that Empress Katherine has an actual suitor now, not just rejected people hanging around hoping they can change her mind. The reason they believe this is because they have publically stopped taking potential suitor interviews. No one knows, or if they know they aren't telling, who this person is or anything about them.
+Rumor has it that Empress Katherine has an actual suitor now, not just rejected people hanging around hoping they can change her mind. The reason they believe this is because they have publically stopped taking potential suitor interviews. No one knows, or if they know they aren't telling, who this person is or anything about them. The best guess is that it's some human so the bloodline continues without augment, psionic, or Zendai muddling.
 
 ## OLYMPIA TZIMISCE
 Rumor has it that the incrediblely beautiful, sexy, powerful, and scary Cmdr Olympia Tzimisce has entered into a serious relationship with an ex-PSICorps member. It is most probably the clairvoyant Taranis Xer, as few other men are in or have left the PSICorps. Lucky man, if having his mind read all the time works for him. And how does she feel about his ability to voyer her body any time he likes? Maybe its a match made in heaven? Wait, wasn't he dating the sexy green alien Shara at some point? Guess that didn't work out.
