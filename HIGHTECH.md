@@ -75,7 +75,7 @@ Only the Grimaldi Consortium can make and program programmable matter.
 ### REPLICATORS {Nanotech}
 Replicators are a much more advanced form of programmable material. Using nanites and microbots, their software works with the resolution of hydrogen atoms, so they can perfectly duplicate anything provided you have the correct schematics and licenses.
 
-Replicators can construct anything on an atomic level, atom by atom, molecule by molecule.
+Replicators can construct anything on an atomic level, atom by atom, molecule by molecule. Replicators can construct organic and inorganic life forms.
 
 Replicators can also copy any object, but doing so destroys the original object in the process.
 
