@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## STRANGE KEPTRA VISITOR EXPECTED
+Rumor has it that a strange, powerful, and deadly visitor from the Keptra Empire is expected at any moment. Not much is known except that an announcement is being planned to warn personnel and citizens to be extremely cautious around this mystery visitor once they arrive.
+
 ## IMOGENE AND HARRISON
 Rumor has it that Cmdr Harrison Rehnquist proposed to Imogene Sabra in an elite section of the Sabra throneworld's capital city with the traditional Sabra arm bad fitting appointment reservation made from platinum and gold and encased in a rosewood gilded box. It's said she was geniunely surprised by his proposal and deeply touched by his choice to use Sabra traditions. Witnesses said she had practically undressed him by the time they reached the wedding band jewelers for their fitting. They then entered the nearby 6 heart rating Luxe Royal Heart hotel, were they weren't seen again publically for the next three days. The assumption is she was still working on Alexandra and Kelvin's wedding off and on during that time.
 
