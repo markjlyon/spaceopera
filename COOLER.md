@@ -1,5 +1,10 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+
+
+## LATINUM HEISTS
+Rumor has it that there have been a plague of latinum thefts across the quadrant, excepting USC facilities. This is really strange since latinum has a reputation of requiring physical transportation, with transporter technolgy being unable to move it. Yet, somehow, it is disappearing from vaults and even starship transports. Maybe the new wormhole technology just encountered could do it? But what would they want with latinum? Don't they use some kind of social or patent based currency?
+
 ## YING-KO
 Rumor has it that Ying-Ko was almost killed by Highguardian technology during the rescue of Corina Bathe. He is currently recovering and his damaged wares will be replaced, hopefully with upgraded defenses against another such attack. It doesn't appear to have affected his RobotJox appearances at least.
 
