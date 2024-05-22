@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## YING-KO
+Rumor has it that Ying-Ko was almost killed by Highguardian technology during the rescue of Corina Bathe. He is currently recovering and his damaged wares will be replaced, hopefully with upgraded defenses against another such attack. It doesn't appear to have affected his RobotJox appearances at least.
+
 ## STRANGE KEPTRA VISITOR EXPECTED
 Rumor has it that a strange, powerful, and deadly visitor from the Keptra Empire is expected at any moment. Not much is known except that an announcement is being planned to warn personnel and citizens to be extremely cautious around this mystery visitor once they arrive.
 
