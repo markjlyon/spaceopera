@@ -28,6 +28,9 @@ However, such examination is not fast, nor is it automatic.
 Scrutinizing a crime scene ten feet across can take hours at the microscopic level, and days or even weeks at the molecular level.
 Once you find what you’re looking for (say, a skin flake that might be from the criminal), there’s some more waiting to do before you can complete the DNA scan.
 
+#### INORGANIC LIFE
+Nanotech is capable of creating inorganic living cells.
+
 ### STRINGTECH
 Based on string theory (a contender for the "ultimate theory" of physics), stringtech applies physical forces to the world with varying degrees of power and sophistication.
 
