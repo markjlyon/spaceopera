@@ -161,18 +161,33 @@ This kind of transporter leaves no evidence of its use.
 
 #### DEFENSIVE TECHNOLOGIES
 
-##### VORTEX SINKS
-Vortex Sinks use a spherically wrapped wormhole to funnel all forces directed against the user to another location. This makes an incredibly good defense, all but impermeable to modern weapons. 
-
-Vortex sinks are rated at Stringtech 10 and are Supersymmetric. They require an incredible amount of power to activate and maintain.
-
 ##### HYPERDIMENSIONAL MANIFOLD LABRINTH
 Hyperdimensional Manifold Labrinths move all undesired incoming forces into an infinite expanse of null space, cutting them off from the current universe and connected dimensions.
 
-Hyperdimensional Manifold Labrinths are rated at Stringtech 12 and Cognitech 10 and are Supersymmetric. They require vast amounts of power to activate and maintain. The makes the perfect defense for all weapons and forces up to Stringtech 11.
+Hyperdimensional Manifold Labrinths are rated at Stringtech 12 and Cognitech 10. They require vast amounts of power to activate and maintain. The makes the perfect defense for all weapons and forces up to Stringtech 11.
+
+_Supersymmetric_
+
+##### POWER ABSORPTION PANELS
+Power Absorption Panels are a defensive system that converts incoming forces into energy that is then held in the PA panel capacitors, which can later be funneled slowly into the Farships batteries {Stringtech 9} or slowly dispersed into space. If the incoming forces are not sufficient to overload the PA panels, a farship with proper power management can hang in a fire fight indefinitely. This is why USC farships are considered some of the best in the galaxy.
+
+Power Absorption Panels are rated Stringtech 10.
+
+_Supersymmetric_
 
 ##### REGENERATIVE SHIELDS
 Regenerative Shields are a defensive system that functions as a more powerful normal shield system that additionally converts any unused shield reinforcement power into shield repair.
 
 Regenerative Shields are rated at Stringtech 8.
 
+##### SHIELDS
+Shields are a defensive system that uses projected energy and plasma in discreet cells to mitigate incoming forces and damage. Shields cells are collapsed in real time as they prevent incoming forces and damage, which is why shields are dependent on the ship's facing, and must be recalibrated in real time with additional power to restore a cells functionality during combat. Shields are the most common form of farship and base defense.
+
+Shields are rated at Stringtech 6.
+
+##### VORTEX SINKS
+Vortex Sinks use a spherically wrapped wormhole to funnel all forces directed against the user to another location. This makes an incredibly good defense, all but impermeable to modern weapons. 
+
+Vortex sinks are rated at Stringtech 10. They require an incredible amount of power to activate and maintain.
+
+_Supersymmetric_
