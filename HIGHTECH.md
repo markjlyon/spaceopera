@@ -172,7 +172,7 @@ Hyperdimensional Manifold Labrinths move all undesired incoming forces into an i
 Hyperdimensional Manifold Labrinths are rated at Stringtech 12 and Cognitech 10 and are Supersymmetric. They require vast amounts of power to activate and maintain. The makes the perfect defense for all weapons and forces up to Stringtech 11.
 
 ##### REGENERATIVE SHIELDS
-Regenerative Shields are a powerful defensive system that functions as a powerful normal shield system that additionally converts unused shield reinforcement power into shield repair.
+Regenerative Shields are a defensive system that functions as a more powerful normal shield system that additionally converts any unused shield reinforcement power into shield repair.
 
-Regenerative Shields are rated at Stringtech 9.
+Regenerative Shields are rated at Stringtech 8.
 
