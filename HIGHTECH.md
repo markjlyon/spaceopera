@@ -198,3 +198,10 @@ Vortex sinks are rated at Stringtech 10. They require an incredible amount of po
 _Supersymmetric_
 
 #### OFFENSIVE SYSTEMS
+
+##### INVERSION BEAMS
+One of the deadlier weapons that is commonly available, an inversion beam switches a small amount of matter into antimatter inside the target, which results in a very messy explosion. The weapon works through a second-order dark matter interaction, and so is capable of firing through almost any solid object. The damage is rated at Stringtech 9.
+
+Inversion Beams are rated as Stringtech 7.
+
+_Near-c_, _Supersymmetric_
