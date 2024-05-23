@@ -164,12 +164,12 @@ This kind of transporter leaves no evidence of its use.
 ##### VORTEX SINKS
 Vortex Sinks use a spherically wrapped wormhole to funnel all forces directed against the user to another location. This makes an incredibly good defense, all but impermeable to modern weapons. 
 
-Vortex sinks are rated at Stringtech 10. They require an incredible amount of power to activate and maintain.
+Vortex sinks are rated at Stringtech 10 and are Supersymmetric. They require an incredible amount of power to activate and maintain.
 
 ##### HYPERDIMENSIONAL MANIFOLD LABRINTH
 Hyperdimensional Manifold Labrinths move all undesired incoming forces into an infinite expanse of null space, cutting them off from the current universe and connected dimensions.
 
-Hyperdimensional Manifold Labrinths are rated at Stringtech 12 and Cognitech 10. They require vast amounts of power to activate and maintain. The makes the perfect defense for all weapons and forces up to Stringtech 11.
+Hyperdimensional Manifold Labrinths are rated at Stringtech 12 and Cognitech 10 and are Supersymmetric. They require vast amounts of power to activate and maintain. The makes the perfect defense for all weapons and forces up to Stringtech 11.
 
 ##### REGENERATIVE SHIELDS
 Regenerative Shields are a powerful defensive system that functions as a powerful normal shield system that additionally converts unused shield reinforcement power into shield repair.
