@@ -196,3 +196,5 @@ Vortex Sinks use a spherically wrapped wormhole to funnel all forces directed ag
 Vortex sinks are rated at Stringtech 10. They require an incredible amount of power to activate and maintain.
 
 _Supersymmetric_
+
+#### OFFENSIVE SYSTEMS
