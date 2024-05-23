@@ -164,9 +164,7 @@ This kind of transporter leaves no evidence of its use.
 ##### ABLATIVE ARMOR REACTOR
 Ablative Armor Reactors are a defensive system that uses rapid high resolution replicators, focused shield cells, and hardlight projectors to wrap a farship in a continuously regenerating ultra dense physical and energy barrier against incoming forces. If Ablative Armor Reactors have a weakness, it is that they can't be reinforced like PA panels or shields.
 
-Ablative Armor Reactors are rated at Stringtech 10.
-
-_Supersymmetric_
+Ablative Armor Reactors are rated at Stringtech 8.
 
 ##### HYPERDIMENSIONAL MANIFOLD LABRINTH
 Hyperdimensional Manifold Labrinths move all undesired incoming forces into an infinite expanse of null space, cutting them off from the current universe and connected dimensions.
