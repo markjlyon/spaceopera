@@ -161,8 +161,8 @@ This kind of transporter leaves no evidence of its use.
 
 #### DEFENSIVE TECHNOLOGIES
 
-##### ABLATIVE ARMOR REACTORS
-Ablative Armor Reactorss are a defensive system that uses rapid high resolution replicators, focused shield cells, and hardlight projectors to wrap a farship in a continuously regenerating ultra dense physical and energy barrier against incoming forces. If Ablative Armor Reactors have a weakness, it is that they can't be reinforced like PA panels or shields.
+##### ABLATIVE ARMOR REACTOR
+Ablative Armor Reactors are a defensive system that uses rapid high resolution replicators, focused shield cells, and hardlight projectors to wrap a farship in a continuously regenerating ultra dense physical and energy barrier against incoming forces. If Ablative Armor Reactors have a weakness, it is that they can't be reinforced like PA panels or shields.
 
 Ablative Armor Reactors are rated at Stringtech 10.
 
