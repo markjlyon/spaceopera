@@ -28,8 +28,10 @@ However, such examination is not fast, nor is it automatic.
 Scrutinizing a crime scene ten feet across can take hours at the microscopic level, and days or even weeks at the molecular level.
 Once you find what you’re looking for (say, a skin flake that might be from the criminal), there’s some more waiting to do before you can complete the DNA scan.
 
-#### INORGANIC LIFE
-Nanotech is capable of creating inorganic living cells.
+#### INORGANIC CELLS
+At a certain level of nanotech it becomes possible to make living cells out of entirely "inorganic"materials, creating a parallel biology that relies on different processes from those that most evolved creatures use. Initially such cells are merely a curiosity, but when they are combined with existing biotech techniques, a whole new range of creatures become available, with the sorts of properties usually found only in nanoengineered materials: superconductivity, high tensile strength, data processing capabilities, and so forth. These cells are especially useful in biowarfare and nanowarfare.
+
+Some particularly adventuresome (read: neo-philiac) individuals and organizations have used inorganic cells and genetic resynthesis to transfer themselves into an entirely inorganic body, a years-long process that leaves an unmistakable change in personality as the new brain works in utterly different ways from the old. The consequences of this transformation are still playing out.
 
 ### STRINGTECH
 Based on string theory (a contender for the "ultimate theory" of physics), stringtech applies physical forces to the world with varying degrees of power and sophistication.
