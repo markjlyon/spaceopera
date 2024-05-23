@@ -161,17 +161,24 @@ This kind of transporter leaves no evidence of its use.
 
 #### DEFENSIVE TECHNOLOGIES
 
+##### ABLATIVE ARMOR REACTORS
+Ablative Armor Reactorss are a defensive system that uses rapid high resolution replicators, focused shield cells, and hardlight projectors to wrap a farship in a continuously regenerating ultra dense physical and energy barrier against incoming forces. If Ablative Armor Reactors have a weakness, it is that they can't be reinforced like PA panels or shields.
+
+Ablative Armor Reactors are rated at Stringtech 10.
+
+_Supersymmetric_
+
 ##### HYPERDIMENSIONAL MANIFOLD LABRINTH
 Hyperdimensional Manifold Labrinths move all undesired incoming forces into an infinite expanse of null space, cutting them off from the current universe and connected dimensions.
 
-Hyperdimensional Manifold Labrinths are rated at Stringtech 12 and Cognitech 10. They require vast amounts of power to activate and maintain. The makes the perfect defense for all weapons and forces up to Stringtech 11.
+Hyperdimensional Manifold Labrinths are rated at Stringtech 12 and Cognitech 10. They require vast amounts of power to activate and maintain. The makes the perfect defense for all weapons and forces up to Stringtech 12.
 
 _Supersymmetric_
 
 ##### POWER ABSORPTION PANELS
 Power Absorption Panels are a defensive system that converts incoming forces into energy that is then held in the PA panel capacitors, which can later be funneled slowly into the Farships batteries {Stringtech 9} or slowly dispersed into space. If the incoming forces are not sufficient to overload the PA panels, a farship with proper power management can hang in a fire fight indefinitely. This is why USC farships are considered some of the best in the galaxy.
 
-Power Absorption Panels are rated Stringtech 10.
+Power Absorption Panels are rated Stringtech 9.
 
 _Supersymmetric_
 
