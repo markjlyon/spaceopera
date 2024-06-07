@@ -2,13 +2,21 @@
 
 ## SEASON TWO
 
+### EPISODE 02x16 - PREDATORS
+
+A terrifying enemy reveals itself to be more powerful than when first encountered.
+
+Uprisings on former Drago-Kadzai worlds has begun in earnest.
+
+A courier delivers a chilling message.
+
 ### EPISODE 02x15 - MERGERS
 
 A great wedding is held with anyone of importance in attendance at the Marquis estate, but a pleasant surprise awaits everyone.
 
 Attempts are made to create and strengthen alliances.
 
-A terrifying enemy reveals itself to be more powerful than when first encountered. 
+The races and fights are coming to a head as the season ends.
 
 ### EPISODE 02x14 - CODE 505
 
