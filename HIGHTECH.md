@@ -84,7 +84,7 @@ Replicators can construct anything on an atomic level, atom by atom, molecule by
 
 Replicators can also copy any object, but doing so destroys the original object in the process.
 
-They can even replicate living things, including people and other sentient lifeforms, but that requires disassembling,or killing, the original in order to have the properly detailed schematic. This is how people create copies of themselves, they die with the original scan but are replicated as needed.
+They can even replicate living things, including people and other sentient lifeforms, but that requires disassembling, or killing, the original in order to have the properly detailed schematic. This is how people create copies of themselves, they die with the original scan but are replicated as needed.
 
 Replicators cannot duplicate things like programmable matter, latinum, and other such sub-atomic, extra-dimentional, or extra-universal objects.
 
