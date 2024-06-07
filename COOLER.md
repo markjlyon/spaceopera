@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## PORTIA
+Rumor has it that Lt Cmdr Auguste Remy and Portia have been spending a lot of time together recently. He must know of her... special circumstances. On the surface they seem to be getting along well, but if she has no thoughts can it really work? Can she even feel or love? Is he just taking advantage of her or just using her for a booty call? He tells anyone who asks that he doesn't discuss his personal life. No one thinks it can possibly last.
+
 ## SYLVIA AND SIGMUND
 Rumor has it that Sylvia and Sigmund have lost one of the twins during child birth. They just casually went to the hospital a few hours ago and haven't been seen in public since the birth, so no one knows for sure. 
 Sigmund might not be the most social person, but everyone that knows Sylvia loves her. Everyone is saddened by the loss, especially with modern USC medicine, and messages and gifts of condolence have been piling up for when they return. The death and cause of death haven't been made public yet. The surviving boy is named Calvin.
