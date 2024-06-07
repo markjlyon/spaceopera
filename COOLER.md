@@ -1,5 +1,10 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+
+
+## CAPRICE
+Rumor has it that Caprice, the winner of both the first VARLAR Division Cup and the Nordstrom Division Fist, might be something other than a normal human. Could she be a ship made flesh? What about a psychic? If so, who and what abilities did they use to win? The strangest rumor, and perhaps the most frightening, is that she might be a Ventrasii. The two leagues know and they aren't telling, so maybe it isn't that bad.
+
 ## EMPRESS KATERINA I
 Rumor has it that Empress Katherine has an actual suitor now, not just rejected people hanging around hoping they can change her mind. The reason they believe this is because they have publically stopped taking potential suitor interviews. No one knows, or if they know they aren't telling, who this person is or anything about them. The best guess is that it's some human so the bloodline continues without augment, psionic, or Zendai muddling.
 
