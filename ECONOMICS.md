@@ -21,7 +21,7 @@ Each Zendai government has a unique name for their currency (Drago-Kadzai uses C
 
 Each Credit is used in partial amounts and possesses 5 decimal places.
 Most goods and services cost only partial Credits.
-A drink might cost between 0.0050€ and 0.00250€ while a new repulsorlift vehicle could cost 1.00000€ to 1.50000€.
+A drink might cost between 0.00050€ and 0.00250€ while a new repulsorlift vehicle could cost 1.00000€ to 1.50000€.
 
 1€ is worth approximately 1£ Strip or ₦10000.
 
