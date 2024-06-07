@@ -1,5 +1,14 @@
 # PLANET NINE NEWS
 
+## A POSSIBLE MOVE OF THE IMPERIAL THRONE
+This is a strange one folks. There are solid rumors that there is talk of moving the Imperial Throne. No one has quite nailed down the why or when, but there is enough word on the grapevine to put it in the real possibility column. The Djinn Star Cluster is already really safe, so are they considering somewhere... safer? Maybe Empress Katerina likes the flora and fauna of a different world? No one has enough info yet, but my spies will keep at it until we know for sure. I bring everything in the black out into the light! Stay strange my friends!
+
+## BY THE PRICKING OF MY THUMB
+There are recent rumors of Gorn ships being sighted in Sabra and Drago-Kadzai space, skulking around like a lion in the bush. But these Gorn, although similar enough to be recognized as Gorn, are very different from those encountered before. Larger and at the same time leaner, they appear to be some new design. The Ventrasii seem to know nothing about these new kinds of ships or their capabilities. I bring everything in the black out into the light! Stay strange my friends!
+
+## IT WAS ALL A LIE
+What a turn of events! Baroness Imogen Sabra wed Commander Harrison Rehnquist at Countess Alexandra and Kelvin's wedding! They tricked her into planning her own wedding! For those of you who don't know, nothing could have made her happier! Now they are on a blissful extended honeymoon making little Imogene's and Harrison's! I bring everything in the black out into the light! Stay strange my friends!
+
 ## ALEXANDRA AND KELVIN TO WED
 Holy maccaroni peeps! Angel's latest concert had such a heart warming finale! It looks like the new Countess, the wonderful and lovely Sabra sweetheart Alexandra is set to wed none other than Kelvin Bathe, brother of our new Marquess! Most women could only dream of such a proposal! It's set to go down at the Marquis and Marquess estate, the site of all the greatest weddings this century! I hear the great matchmaker Imogene Sabra set them up and now she is giving them the biggest wedding she has ever thrown! I expect a baby announcement soon! Now all I need to do is ask the ultra hot older sister Corina to marry me and that whole family comes off the market! No, I said I was going to ask her first! Ya snooze ya lose! I already lost the Baroness to that Sabra hunk and I don't plan on losing my dream PLUS fantasy girl Corina so easily! Fight me! I bring everything in the black out into the light! Stay strange my friends!
 
