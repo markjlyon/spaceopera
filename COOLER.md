@@ -1,7 +1,7 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
 ## PORTIA
-Rumor has it that Lt Cmdr Auguste Remy and Portia have been spending a lot of time together recently. He must know of her... special circumstances. On the surface they seem to be getting along well, but if she has no thoughts can it really work? Can she even feel or love? Is he just taking advantage of her and just using her for booty calls? He tells anyone who asks that he doesn't discuss his personal life. Portia says they are taking their time to see where this goes, if that actually means anything. No one thinks it can possibly last.
+Rumor has it that Lt Cmdr Auguste Remy and Portia have been spending a lot of time together recently. He must know of her... special circumstances. On the surface they seem to be getting along well, but if she has no thoughts can it really work? Can she even feel or love? Is he just taking advantage of her and using her for booty calls? He tells anyone who asks that he doesn't discuss his personal life. Portia says they are taking their time to see where this goes, if that actually means anything. No one thinks it can possibly last.
 
 ## SYLVIA AND SIGMUND
 Rumor has it that Sylvia and Sigmund have lost one of the twins during child birth. They just casually went to the hospital a few hours ago and haven't been seen in public since the birth, so no one knows for sure. 
