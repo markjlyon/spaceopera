@@ -5,7 +5,7 @@ Rumor has it that Lt Cmdr Auguste Remy and Portia have been spending a lot of ti
 
 ## SYLVIA AND SIGMUND
 Rumor has it that Sylvia and Sigmund have lost one of the twins during child birth. They just casually went to the hospital a few hours ago and haven't been seen in public since the birth, so no one knows for sure. 
-Sigmund might not be the most social person, but everyone that knows Sylvia loves her. Everyone is saddened by the loss, especially with modern USC medicine, and messages and gifts of condolence have been piling up for when they return. The death and cause of death haven't been made public yet. The surviving boy is named Calvin.
+Sigmund might not be the most social person, but everyone that knows Sylvia loves her. Everyone is shocked and saddened by the loss, especially with modern USC medicine, and messages and gifts of condolence have been piling up for when they return. The death and cause of death haven't been made public yet. The surviving boy is named Calvin.
 
 ## CAPRICE
 Rumor has it that Caprice, the winner of both the first VARLAR Division Cup and the Nordstrom Division Fist, might be something other than a normal human. Could she be a ship made flesh? What about a psychic? If so, who and what abilities did they use to win? The strangest rumor, and perhaps the most frightening, is that she might be a Ventrasii. The two leagues know and they aren't telling, so maybe it isn't that bad.
