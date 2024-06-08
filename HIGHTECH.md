@@ -169,7 +169,7 @@ Ablative Armor Reactors are rated at Stringtech 8.
 ##### HYPERDIMENSIONAL MANIFOLD LABRINTH
 Hyperdimensional Manifold Labrinths move all undesired incoming forces into an infinite expanse of null space, cutting them off from the current universe and connected dimensions.
 
-Hyperdimensional Manifold Labrinths are rated at Stringtech 12 and Cognitech 10. They require vast amounts of power to activate and maintain. The makes the perfect defense for all weapons and forces up to Stringtech 12.
+Hyperdimensional Manifold Labrinths are rated at Stringtech 12 and Cognitech 10. They require vast amounts of power to activate and maintain. This makes the perfect defense for all weapons and forces up to Stringtech 12.
 
 _Supersymmetric_
 
