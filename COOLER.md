@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## THE PATENT OFFICE BRANCH OFFICE
+Rumor has it that there have been a massive influx of applications to The Patent Office, causing them to open a branch office in the neutral territory between USC, Chirgru, and Kzinti space. How these governments will treat this popup new government office remains to be seen. One of the first things people buy is a Patent Office printer, but only at privately owned ships, bases, and businesses.  
+
 ## PORTIA
 Rumor has it that Lt Cmdr Auguste Remy and Portia have been spending a lot of time together recently. He must know of her... special circumstances. On the surface they seem to be getting along well, but if she has no thoughts can it really work? Can she even feel or love? Is he just taking advantage of her and using her for booty calls? He tells anyone who asks that he doesn't discuss his personal life. Portia says they are taking their time to see where this goes, if that actually means anything. No one thinks it can possibly last.
 
