@@ -1,7 +1,6 @@
 # PLANET NINE NEWS
 
 ## THE IMPOSSIBLE ALLY
-
 What an impression the USC must have made folks! It looks like the Ghigru, who said they could never join the USC, have done a complete 180! The Chigru have just announced a request of review for consideration for membership! There are going to be some ruffled feathers, as the Chigru still eat PEOPLE, but there is hope that some compromise of technology will finally be able to overcome this issue! Fingers and mandibles crossed everybody! I bring everything in the black out into the light! Stay strange my friends!
 
 ## A POSSIBLE MOVE OF THE IMPERIAL THRONE
