@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## BABABRAHM
+Rumor has it that Bababrahm had a private conversation with Captain Hale and Captain Telemachus and neither of them reported the details of this conversation with anyone, including the Empress or USC. Perhaps Lt Commander Tzimisce might knw because of her telepathy? Both Captains have now tightened security measures across the fleet, but no one knows if its related to their conversation.
+
 ## THE PATENT OFFICE BRANCH OFFICE
 Rumor has it that there have been a massive influx of applications to The Patent Office, causing them to open a branch office in the neutral territory between USC, Chirgru, and Kzinti space. How these governments will treat this popup new government office remains to be seen. One of the first things people buy is a Patent Office printer, but only at privately owned ships, bases, and businesses.  
 
