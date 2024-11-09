@@ -2,6 +2,14 @@
 
 ## SEASON TWO
 
+### EPISODE 02x17 - CLOTHOID SPIRAL
+
+Unihabited worlds in inhabited systems have frightening new residents.
+
+Warlords begin their conquest of unmonitored former Dragon-Kadzai worlds.
+
+The Conclave makes a major announcement.
+
 ### EPISODE 02x16 - PREDATORS
 
 A terrifying enemy reveals itself to be more powerful than when first encountered.
