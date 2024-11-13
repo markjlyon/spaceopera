@@ -30,6 +30,8 @@ Antimatter is generated using antimatter breeder reactor technology.
 
 ## displacement device
 
+## fargate
+
 ## force field
 
 ## hyperspace drive
@@ -37,6 +39,8 @@ Antimatter is generated using antimatter breeder reactor technology.
 ## hyperspace fold generator
 
 ## jump drive
+
+## jump gate
 
 ## latinum
 
