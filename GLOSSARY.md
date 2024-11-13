@@ -17,8 +17,18 @@ Antimatter storage tanks use intense magnetic fields or muon lattices to contain
 
 Antimatter storage tanks can be transported using a transporter.
 
+## antiprotons
+Antiprotons are negatively charged protons used as fuel for slipstream and quantum slipstream engines, and can be used as crude explosives equivalent to nuclear weapons of similar mass.
+
+They are not as volatile as antimatter or protomatter but they only convert 86.67% of their mass into energy, with a resulting 14.37% of their mass being converted into pions. Any remaining mass is lost to light and heat.
+
+## antiproton storage cells
+
+## antiproton breeder reactor
+Antiproton breeder reactors convert photons and pions into antiprotons and stores them in antiproton storage cells.
+
 ## auxiliary power reactors
-Auxillary power reactors (APR) is an antimatter reactor designed to supply continuos power for systems whose power requirements rarely change, such as buildings, bases, and life support systems.
+Auxillary power reactors (APR) is an antimatter reactor designed to supply continuous power for systems whose power requirements rarely change, such as buildings, bases, and life support systems.
 
 APRs on bases and farships are a secondary power source designed to power redundant, lowered powered systems such as life support, gravity plating, and onboard communications.
 
@@ -47,6 +57,20 @@ Antimatter is generated using antimatter breeder reactor technology.
 ## lightfold drive
 
 ## flatspace container
+
+## pions
+Pions are are the waste byproduct of antiproton slipstream and quantum slipstream engines. They can be recondensed back into antiprotons through an antiproton breeder reactor using photons.
+
+Pions are extremely volatile and convert 100% of their mass into energy, but their nature makes them difficult to use as a weapon as they are converted into antiprotons upon their interaction with photons.
+
+## pion spillover
+
+Pion spillover occurs when a pion tank exceeds its capacity and releases its pions, which then interact with photons converting them into antiprotons, causing massive destruction.
+
+Such an event is caused by critical damage to the pion tanks or sabotage.
+
+## pion tank
+Pion tanks capture and hold pions released by the antiproton reactions of slipstream and quantum slipstream drives for later use. These pions are used in antiproton breeder reactors.
 
 ## programmable matter
 
