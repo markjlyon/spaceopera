@@ -2,11 +2,20 @@
 
 ## SEASON TWO
 
+### EPISODE 02x18 - 
+
+The Highguard halts their advance
+on neighboring star systems.
+
+Former Drago-Kadzai worlds near the core and far from USC, Keptra, and Chigru space go mysteriously dark.
+
+A dangerous individual returns.
+
 ### EPISODE 02x17 - CLOTHOID SPIRAL
 
 Unihabited worlds in inhabited systems have frightening new residents.
 
-Warlords begin their conquest of unmonitored former Dragon-Kadzai worlds.
+Warlords begin their conquest of unmonitored former Drago-Kadzai worlds.
 
 The Conclave makes a major announcement.
 
