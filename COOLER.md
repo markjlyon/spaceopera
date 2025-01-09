@@ -1,6 +1,7 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
-## 
+## WARLORDS ON THE HORIZON
+Rumor has it that Drago-Kadzai Warlords have been shoring up power in the most distance reaches of the quadrant. It appears these warlords may have been the pirates that were being reported for the last several months. Perhaps some people can't just let go of the past and embrace the future. Access to modern USC and now Patent Office technology will mean a new conflict will involve a very different Drago-Kadzai fleet.
 
 ## BABABRAHM
 Rumor has it that Bababrahm had a private conversation with Captain Hale and Captain Telemachus and neither of them reported the details of this conversation with anyone, including the Empress or USC. Perhaps Lt Commander Tzimisce might know because of her telepathy? Both Captains have now tightened security measures across the fleet, but no one knows if its related to their conversation.
