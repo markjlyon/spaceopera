@@ -2,7 +2,7 @@
 
 ## SEASON TWO
 
-### EPISODE 02x18 - 
+### EPISODE 02x18 - A TIGHTENING GRIP
 
 The Highguard halts their advance
 on neighboring star systems.
