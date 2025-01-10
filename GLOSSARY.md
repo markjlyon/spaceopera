@@ -116,6 +116,10 @@ Protomatter can be transported using a transporter.
 
 ## shield, regenerative (ship)
 
+## singularity drive
+
+## singularity reactor
+
 ## slipstream drive
 
 ## transporter
