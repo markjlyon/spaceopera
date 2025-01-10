@@ -1,7 +1,7 @@
 # PLANET NINE NEWS
 
 ## NOSES MOST BLOODY
-In what appears to be another in the series of government to government impressions, the USC seems to have taken some kind of pre-emptive action against the far away Highguardian fleet! Their noses fully bloodied, it looks like the alarm warnings the Highguardians send out to systems they are going to invade have been turned off and the last two most recently conquered worlds have been abandoned with great haste. Should the USC expect a counter offensive from a wormhole enabled fleet? I bring everything in the black out into the light! Stay strange my friends!
+In what appears to be another in the series of government to government impressions, the USC seems to have taken some kind of pre-emptive action against the far away Highguardian fleet! Their noses fully bloodied, it looks like the alarm warnings the Highguardians send out to systems they are going to invade have been turned off and the last two most recently conquered worlds have been abandoned with great haste. Should the USC expect a counter offensive from a wormhole enabled fleet? Are they fearful of something else? I bring everything in the black out into the light! Stay strange my friends!
 
 ## THE IMPOSSIBLE ALLY
 What an impression the USC must have made folks! It looks like the Ghigru, who said they could never join the USC, have done a complete 180! The Chigru have just announced a request of review for consideration for membership! There are going to be some ruffled feathers, as the Chigru still eat PEOPLE, but there is hope that some compromise of technology will finally be able to overcome this issue! Fingers and mandibles crossed everybody! I bring everything in the black out into the light! Stay strange my friends!
