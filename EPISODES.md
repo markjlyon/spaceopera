@@ -4,12 +4,11 @@
 
 ### EPISODE 02x18 - A TIGHTENING GRIP
 
-The Highguard halts their advance
-on neighboring star systems.
+The Highguard halts their advance on neighboring star systems and retreats to their core worlds.
 
-Former Drago-Kadzai worlds near the core and far from USC, Keptra, and Chigru space go mysteriously dark.
+Former Drago-Kadzai worlds near the galactic core and far from USC, Keptra, and Chigru space go mysteriously dark.
 
-A dangerous individual returns.
+A terrorist group known as the Technocracy takes credit for an attack.
 
 ### EPISODE 02x17 - CLOTHOID SPIRAL
 
