@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## EMPRESS ATTENDING UPCOMING WEDDING
+Rumor has it that Her Imperial Majesty Katerina I will be attending a wedding in the near future. People are going wild trying to figure out who could be getting married that is so influential that the Empress would be in attendance. So few people are unmarried in her close circle yet none of them seem to be in a relationship leading towards matrimony. Betting pools have begun in not just the USC Farfleet, but most other worlds as well. Of course, Imogene is keeping things very hush hush so speculation is that she must have set up the couple.
+
 ## WARLORDS ON THE HORIZON
 Rumor has it that Drago-Kadzai Warlords have been shoring up power in the most distance reaches of the quadrant. It appears these warlords may have been the pirates that were being reported for the last several months. Perhaps some people can't just let go of the past and embrace the future. Access to modern USC and now Patent Office technology will mean a new conflict will involve a very different Drago-Kadzai fleet.
 
