@@ -43,21 +43,45 @@ APRs on bases and farships are a secondary power source designed to power redund
 
 ## deflector (ship)
 
-## displacement device
+## displacement device (temporal elevator technology)
 
 ## fargate (hyperspace fold generator)
+A fargate is two hyperspace fold generators operating in sync to create a shortest path hyperspace bridge between two points along a hyperspace pathway. A functional fargate can operate continuously with no need for downtime.
+
+Objects moving into a fargate always enter the "top spin" opening of the fargate while objects exiting a fargate always exit the "bottom spin" opening of the fargate. It is not possible for matter to enter the "bottom spin" opening of a fargate and it is not possible for matter to exit the "top spin" opening of a fargate.
+
+There is no known limit to the distance between two synced fargates and they were used to cross galaxies for thousands of years, before The Fall.
+
+Syncing two fargates is a monumentally complex task that generally takes months or years of calculations and calibration.
 
 ## force field
+Force fields are intensely powerful electromagnetic fields that disrupt energy and matter upon impact as a form of "energy armor". If the amount of energy used against a force field exceeds its rating, it will collapse and require several minutes to clear the heat and ionization of collapse before it can be activated again.
 
-## hardlight (holographic force fields)
+Force fields are generally used for temporary structures, such as sealing blown bulkheads, containment fields, and even structural integrity fields. They rarely see service as defensive technologies as shields are considered superior.  
+
+## hardlight (hard holographs)
+Hardlight constructs are objects made of suspended photons, force fields, and projected energy fields in rooms specifically built to house all the necessary equipment. Used primarily in holosuites for entertainment purposes to create holograms that are as real as possible to the senses, their quality ranges from clearly fake holographic objects to people so real you would swear they are just another holosuite guest.
+
+At the extreme limits of technology hardlight can be used to make weapons and armor.   
 
 ## hyperspace drive
+Hyperdrives are the second type of FTL drives created by humans. They are nuclear powered and can move a ship between two known hyperspace destinations. Hyperspace travel requires incredibly complex calculations that can only be performed by expert, AI, or AS systems. The greater the distance travelled and the heavier the traffic the longer the calculations take.
+
+Hyperdrives take only a fraction of the travel time required by jump drives, but travel time is based on the complexity of the trip and can range from two hours to just over three days.
 
 ## hyperspace fold generator
 
 ## jump drive
+Jump drives are the first FTL drives ever created by humans. They are nuclear powered and can jump anywhere between 0.00001 and 6 times the jump drive's focus rating in light years (usually 6 to 36 light years).
+
+Jump drive travel always takes ~137 standard USC hours. Ships in a jump can't detect other objects but also can't be detected. If a ship exits its jump before reaching its destination it exits the jump as a lump of wreckage and plasma. No one has ever survived such a tragedy.
+
+Jumps take about five standard USC minutes to plot and the jump drive takes about three standard USC minutes to spin up for a jump. It is possible to purchase pre-calcuated jumps for two very specific points in space, but they become outdating as the stars steadily move through space.
+
+Jump drive ships generally only carry enough fuel for two jumps.
 
 ## jump gate
+Jump gates work like jump drives except the travelling ship does not need to possess its own jump drive or other FTL technology. This is used for short distance world to world travel with extremely well known origins and destinations. Travel time is still ~137 standard USC hours, but the odds of a failed jump are virtually 0%.
 
 ## latinum
 Latinum is the only known material in the known universe that is completely chemically and electromagnetically inert, has no isotopes, can't be transported or replicated, and has no known method of manufacture.
@@ -129,4 +153,9 @@ Protomatter can be transported using a transporter.
 ## wave motion gun
 
 ## wormhole (stringtech)
+Wormhole (stringtech) connects two mapped locations in space together, allowing instantaneous transmission of energy and matter between these two points. The wormhole only requires an active wormhole generator at either the origin or the destination.
+
+Wormholes can only operate for a maximum of 34 standard USC minutes before that area of space is so disrupted by the wormhole's tidal gravitational forces that local spacetime becomes too unstable to allow a wormhole for 34 minutes.
+
+Wormhole event horizons are easily detected and leave an "echo" that can be detected for several hours, so wormholes are obvious during and after their use.
 
