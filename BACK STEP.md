@@ -75,6 +75,6 @@ Nick Forrest is chrononaut #9. The other chrononauts all suffered tragically und
 
 What drove #5 to his breakdown was his inability to connect with others in a meaningful way long term, because his BACKSTEP missions would eliminate any successful romantic connections from the previous 7 days. In his words, "How many first dates and first date rejections does a man have make with just one woman?"
 
-There is some concern that #9 has begun a similar cycle of losig successful connections with a romantic interest due to his own numerous BACKSTEP missions. #9 will be carefully monitored.
+There was some concern that #9 had began a similar cycle of losing successful connections with a romantic interest due to his own numerous BACKSTEP missions. #9 has made significant romantic progress with SCP-6526, but is still being closely monitored.
 
 Unfortunately all experiments to keep other personnel, including romantic interests, aware of events in the future timeline have failed. These tests included simple and complex techological solutions as well as simple and complex psionic solutions. Although people believe that they experienced and felt certain things in the future timeline, they don't feel that way in the present timeline and knowledge of the future timeline seems to sour them to feeling the same way too soon.
