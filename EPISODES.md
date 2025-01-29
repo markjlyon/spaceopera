@@ -2,6 +2,14 @@
 
 ## SEASON TWO
 
+### EPISODE 02x19 - BY THE PRICKING OF MY THUMB
+
+The Highguard sends a message to the USC asking for a mutual non-aggression pact.
+
+The Technocracy strikes very close to home.
+
+The Gorn strategy comes into focus.
+
 ### EPISODE 02x18 - A TIGHTENING GRIP
 
 The Highguard halts their advance on neighboring star systems and retreats to their core worlds.
