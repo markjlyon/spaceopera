@@ -1,10 +1,16 @@
 # PLANET NINE NEWS
 
+## HERBAVISCIOUS
+So the Salurian Confederation have begun a full blown civil war, if the reports by the Keptra are accurate. It appears the carnivores attempted to convince the herbavores to join the USC instead of rebuilding their war machines, but the herbavores unilaterally rejected it. Keptra long range sensors have picked up the fighting which appears to be moving toward Keptra space. No one really know why the civil war is advancing to the Keptra border, but the Keptra Empress is taking no changes and has placed the Keptra Empire on high alert. If the Keptra do anything well, its defend their borders with their unique technology. I bring everything in the black out into the light! Stay strange my friends!
+
+## A MARTYR MOST FOUL
+Reports have slowly started coming in that might indicate the being known as Lord Foul survived his destruction and is approaching worlds not yet receiving USC and Sabra-Fenrir aid. They claim a dark savior appeared to them, offering food, medicine, and safety in return for the construction of altars and their regular homage. Zendai are not overly fond of bending the knee, but many fallen worlds are not Zendai. I bring everything in the black out into the light! Stay strange my friends! 
+
 ## NOSES MOST BLOODY
 In what appears to be another in the series of government to government impressions, the USC seems to have taken some kind of pre-emptive action against the far away Highguardian fleet! Their noses fully bloodied, it looks like the alarm warnings the Highguardians send out to systems they are going to invade have been turned off and the last two most recently conquered worlds have been abandoned with great haste. Should the USC expect a counter offensive from a wormhole enabled fleet? Are they fearful of something else? I bring everything in the black out into the light! Stay strange my friends!
 
 ## THE IMPOSSIBLE ALLY
-What an impression the USC must have made folks! It looks like the Ghigru, who said they could never join the USC, have done a complete 180! The Chigru have just announced a request of review for consideration for membership! There are going to be some ruffled feathers, as the Chigru still eat PEOPLE, but there is hope that some compromise of technology will finally be able to overcome this issue! Fingers and mandibles crossed everybody! I bring everything in the black out into the light! Stay strange my friends!
+What an impression the USC must have made folks! It looks like the Chigru, who said they could never join the USC, have done a complete 180! The Chigru have just announced a request of review for consideration for membership! There are going to be some ruffled feathers, as the Chigru still eat PEOPLE, but there is hope that some compromise of technology will finally be able to overcome this issue! Fingers and mandibles crossed everybody! I bring everything in the black out into the light! Stay strange my friends!
 
 ## A POSSIBLE MOVE OF THE IMPERIAL THRONE
 This is a strange one folks. There are solid rumors that there is talk of moving the Imperial Throne. No one has quite nailed down the why or when, but there is enough word on the grapevine to put it in the real possibility column. The Djinn Star Cluster is already really safe, so are they considering somewhere... safer? Maybe Empress Katerina likes the flora and fauna of a different world? No one has enough info yet, but my spies will keep at it until we know for sure. I bring everything in the black out into the light! Stay strange my friends!
