@@ -76,7 +76,7 @@ Jump drives are the first FTL drives ever created by humans. They are nuclear po
 
 Jump drive travel always takes ~137 standard USC hours. Ships in a jump can't detect other objects but also can't be detected. If a ship exits its jump before reaching its destination it exits the jump as a lump of wreckage and plasma. No one has ever survived such a tragedy.
 
-Jumps take about five standard USC minutes to plot and the jump drive takes about three standard USC minutes to spin up for a jump. It is possible to purchase pre-calcuated jumps for two very specific points in space, but they become outdating as the stars steadily move through space.
+Jumps take about five standard USC minutes to plot and the jump drive takes about three standard USC minutes to spin up for a jump. It is possible to purchase pre-calcuated jumps for two very specific points in space, but they become outdated as the stars steadily move through space.
 
 Jump drive ships generally only carry enough fuel for two jumps.
 
@@ -118,7 +118,7 @@ Pion tanks capture and hold pions released by the antiproton reactions of slipst
 ## protomatter
 Protomatter is variably charged muon atoms used as fuel for APRs, impulse engines, jump drives, hyperspace drives, hyperspace fold generators, and extremely devastating weapons.
 
-It is extremely unstable, releasing 100% of its energy by mass, when it comes into contact with matter and also alters the subatomic and atomic structure matter in its blast radius. In some experiments this subatomic and atomic alteration has been partially controlled, such as in the creation of huge amounts of titanium, uranimum, or thorium. Unfortunately, most of the altered matter is unstable quickly decaying into lead and other extremely stable atoms.
+It is extremely unstable, releasing 100% of its energy by mass, when it comes into contact with matter and also alters the subatomic and atomic structure of matter in its blast radius. In some experiments this subatomic and atomic alteration has been partially controlled, such as in the creation of huge amounts of titanium, uranimum, or thorium. Unfortunately, most of the altered matter is unstable quickly decaying into lead and other extremely stable atoms.
 
 Protomatter is considered too dangerous for regular use and has been replaced by antimatter since the invention of antimatter breeder reactors.
 
