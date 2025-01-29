@@ -1,5 +1,11 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## GORN INFILTRATORS
+Rumor has it that the Gorn can use infiltrators like the Ventrasii are rumored to use infiltrators. They imitate our broadcasts and transmissions perfectly, flaws and all, even though we have only known about them for a few months. Speculation exists that they can also imitate people. How they acquired this ability is unknown, but the higher ups believe they might be able to become what they eat. And they have eaten so many people. Even Ventrasii. Do they have to eat a person to imitate that person? Are the Ventrasii the same...? 
+
+## TECHNOCRACY
+Rumor has it that the terrorist group known as the Technocracy easily bypassed USC and Sabra-Fenrir defenses in their latest attacks against the USC Battle Station 001. Could it be that the Highguardians, who are suing for peace as we speak, actually are the Technocracy? Should the USC and Sabra-Fenrir start using Patent Office anti-wormhole technology? Is it possible its someone else? Speculation runs wild from old Drago-Kadzai forces, to Silurian or Keptra radicals, to people even suspecting the Ventrasii. No official word has been given on this Technocracy.
+
 ## EMPRESS ATTENDING UPCOMING WEDDING
 Rumor has it that Her Imperial Majesty Katerina I will be attending a wedding in the near future. People are going wild trying to figure out who could be getting married that is so influential that the Empress would be in attendance. So few people are unmarried in her close circle yet none of them seem to be in a relationship leading towards matrimony. Betting pools have begun in not just the USC Farfleet, but most other worlds as well. Of course, Imogene is keeping things very hush hush so speculation is that she must have set up the couple.
 
