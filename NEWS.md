@@ -1,5 +1,11 @@
 # PLANET NINE NEWS
 
+## THE KEPTRA FLEET
+Keptra forces are embattled with the AI fleets across their entire border. What was first thought to be a civil war has been revealed as some kind of AI hostility with what appears to be an ancient USC fleet. How did one or more rogue AI systems become active after all this time and why are they attacking the Silurian and Keptra? I bring everything in the black out into the light! Stay strange my friends!
+
+## MASS EXODUS
+So the Gorn have begun consuming world after world. No one knows how many there are or how fast they reproduce, but if the Ventrasii are the same or a similar species and can grow entire starships in a matter of days, the Gorn fleet could be massive. This has caused the largest exodus since the fall of the Drago-Kadzai with people fleeing to Keptra and Sabra-Fenrir space. Both empires are preparing to receive the vast number of expected refuges. I bring everything in the black out into the light! Stay strange my friends!
+
 ## HERBAVISCIOUS
 So the Salurian Confederation have begun a full blown civil war, if the reports by the Keptra are accurate. It appears the carnivores attempted to convince the herbavores to join the USC instead of rebuilding their war machines, but the herbavores unilaterally rejected it. Keptra long range sensors have picked up the fighting which appears to be moving toward Keptra space. No one really know why the civil war is advancing to the Keptra border, but the Keptra Empress is taking no changes and has placed the Keptra Empire on high alert. If the Keptra do anything well, its defend their borders with their unique technology. I bring everything in the black out into the light! Stay strange my friends!
 
