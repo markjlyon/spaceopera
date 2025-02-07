@@ -2,6 +2,14 @@
 
 ## SEASON TWO
 
+### EPISODE 02X20 - THE HIDDEN WORLD
+
+The Technocracy makes a shocking revelation.
+
+The Gorn continue their expansion.
+
+The Keptra defend their border against invasion.
+
 ### EPISODE 02x19 - BY THE PRICKING OF MY THUMB
 
 The Highguard sends a message to the USC asking for a mutual non-aggression pact.
