@@ -1,5 +1,8 @@
 # THINGS OVERHEARD NEAR THE REPLICATOR
 
+## RUMORED NEW USC WEAPON SYSTEM GOES LIVE
+Rumor has it the the boy genius has developed a new weapon system for the USC and it's about to be deployed en mass. It is apparently so game changing that the USC is not going to make the tech publically available. Countering this rumor is the fact that no new technology has been shipped out among the fleets, bases, or personnel. Yet, verifiable reports show it has indeed been field tested and approved. How can both scenerios be true?
+
 ## GORN INFILTRATORS
 Rumor has it that the Gorn can use infiltrators like the Ventrasii are rumored to use infiltrators. They imitate our broadcasts and transmissions perfectly, flaws and all, even though we have only known about them for a few months. Speculation exists that they can also imitate people. How they acquired this ability is unknown, but the higher ups believe they might be able to become what they eat. And they have eaten so many people. Even Ventrasii. Do they have to eat a person to imitate that person? Are the Ventrasii the same...? 
 
