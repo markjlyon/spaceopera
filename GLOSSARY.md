@@ -84,7 +84,7 @@ Jump drive ships generally only carry enough fuel for two jumps.
 Jump gates work like jump drives except the travelling ship does not need to possess its own jump drive or other FTL technology. This is used for short distance world to world travel with extremely well known origins and destinations. Travel time is still ~137 standard USC hours, but the odds of a failed jump are virtually 0%.
 
 ## latinum
-Latinum is the only known material in the known universe that is completely chemically and electromagnetically inert, has no isotopes, can't be transported or replicated, and has no known method of manufacture.
+Latinum is the only material in the known universe that is completely chemically and electromagnetically inert, has no isotopes, can't be transported or replicated, and has no known method of manufacture.
 
 This makes it ideal as an unforgeable currency and is used by most governments for this purpose.
 
