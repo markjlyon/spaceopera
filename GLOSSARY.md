@@ -27,7 +27,7 @@ They are not as volatile as antimatter or protomatter as they only convert 21.67
 Antiprotons are generated using antiproton breeder reactor technology.
 
 ## antiproton storage tank
-Antiproton storage tanks use intense magnetic fields or holo matrices to contain antimatter for transport.
+Antiproton storage tanks use intense magnetic fields or holo matrices to contain antiprotons for transport.
 
 ## antiproton breeder reactor
 Antiproton breeder reactors convert photons and pions into antiprotons and stores them in antiproton storage cells.
